@@ -3235,3 +3235,205 @@ zebra|얼룩말|중등
 zero|영|중등
 zone|구역|고등
 zoo|동물원|초등
+take great pride in|~에 큰 자부심을 가지다|민기
+diversity|다양성|민기
+enrich|풍부하게 하다|민기
+celebrate|기념하다, 축하하다|민기
+tradition|전통|민기
+feature|~을 특징으로 하다|민기
+pass down|물려주다|민기
+highlight|강조하다, 강조|민기
+generation|세대|민기
+encourage|격려하다|민기
+reflect|반영하다|민기
+unity|통합|민기
+apologize for|사과하다|민기
+revision|수정, 개정|민기
+approach|접근 / 접근하다, 다가가다|민기
+address|다루다, 해결하다, 연설하다|민기
+thoroughly|철저히|민기
+evaluate|평가하다|민기
+insightful|통찰력 있는|민기
+critical|비판적인 / 중요한|민기
+submit|제출하다|민기
+confident|자신감 있는|민기
+significantly|상당히, 크게|민기
+satisfy|만족시키다|민기
+be accepted|게재되다|민기
+cooperation|협력|민기
+initially|처음에|민기
+relying on|~에 의존하는|민기
+cruel irony|잔인한 아이러니 (비극적인 반전)|민기
+step off|내리다|민기
+soak|흠뻑 젖다 / 담그다|민기
+unassuming|겸손한 / 꾸밈없는|민기
+appreciate|감사하다 / 이해하다|민기
+disheartened|낙담한|민기
+envious|부러운|민기
+ease|편안함 / 완화하다|민기
+ashamed|부끄러운|민기
+indifferent|무관심한|민기
+exhausted|매우 지친|민기
+comforted|위로받은|민기
+encouraged|격려받은 / 격려한|민기
+frustrated|좌절한|민기
+relieved|안도한|민기
+regretful|후회하는|민기
+modularise|모듈화하다|민기
+commoditise|상품화하다|민기
+standardise|표준화하다|민기
+outsourcing|아웃소싱|민기
+emerge|등장하다|민기
+take advantage of|~을 활용하다/이용하다|민기
+reserve army|(산업)예비군|민기
+granularity|과립성|민기
+non-proximate|가까이 있지 않은|민기
+geographically|지리적으로|민기
+transcriber|녹취를 글로 옮기는 사람|민기
+regulation|규정|민기
+observe|준수하다|민기
+trace|흔적|민기
+climate|기후|민기
+temperature|온도|민기
+be regarded as|~로 여겨지다|민기
+localize|국지화하다, 특정 지역에 한정하다|민기
+effective|효과적인|민기
+parallel|평행한|민기
+legendary|전설적인|민기
+harsh|혹독한, 거친|민기
+scant|부족한|민기
+degree|정도, 도(온도 단위)|민기
+be covered with|~로 덮여 있다|민기
+flat|평평한|민기
+nearby|근처의, 근처에|민기
+maximize|극대화하다|민기
+irrigation|관개|민기
+sequence|발전/진보|민기
+solar energy|태양 에너지|민기
+filter|여과하다/거르다|민기
+concentrate|집중시키다|민기
+distill|증류하다|민기
+civilization|문명|민기
+flourish|번창/번성하다|민기
+sophisticated|정교한/복잡한|민기
+capture|포집/포착하다|민기
+fraction|작은 일부분|민기
+fuel|연료/동력을 공급하다|민기
+advancement|발전/진보|민기
+tap into|~을 활용하다|민기
+engagement|참여, 관계 맺기|민기
+relevant|유의미한, 관련 있는|민기
+abandon|버리다, 포기하다|민기
+accountable|책임이 있는|민기
+democratization|민주화|민기
+disruption|붕괴, 혼란, 중단|민기
+dissemination|보급, 유포|민기
+corporate|기업의, 법인의|민기
+shareholder|주주|민기
+immediate|아주 가까운, 즉각적인|민기
+essential|필수적인|민기
+gatekeeper|문지기, 정보 감시자|민기
+crisis (pl. crises)|위기|민기
+overwhelming|압도적인|민기
+comprehend|이해하다|민기
+much less|~은 고사하고, ~하기는 커녕|민기
+precisely|정확히|민기
+interfere with|~을 방해하다|민기
+overcome|극복하다|민기
+oversized|너무 큰|민기
+identify|파악하다, 확인하다, 식별하다|민기
+break down|~을 나누다|민기
+manageable|감당할 수 있는|민기
+direct|향하게 하다, 돌리다|민기
+revisit|재검토하다|민기
+distribution|분배, 배포|민기
+investment|투자|민기
+portfolio|포트폴리오, 자산|민기
+majority|대다수|민기
+indicate|나타내다, 보여주다|민기
+nutrition|영양|민기
+rely on|~에 의존하다|민기
+yield|산출하다, 가져오다|민기
+misleading|오해를 일으키는|민기
+regulatory agencies|규제 기관|민기
+reputable|평판이 좋은|민기
+nutrient|영양소|민기
+commercial|상업적인|민기
+claim|주장|민기
+evidence-based|근거 기반의|민기
+maintained|운영되는, 관리되는|민기
+alien|외국인, 이방인|민기
+distinction|구분|민기
+restrict|제한하다|민기
+convincing|설득력 있는|민기
+compatible|양립할 수 있는, 호환 가능한|민기
+democracy|민주주의|민기
+voice|발언권|민기
+abstract|추상적인|민기
+expressionist|표현주의의|민기
+tend to v|~하는 경향이 있다|민기
+come across|우연히 마주치다/인상을 주다|민기
+garbage/rubbish|쓰레기|민기
+display|전시하다|민기
+interpret|해석하다|민기
+descry|발견하다|민기
+materialistic|물질주의적인|민기
+impact|영향/충격|민기
+exhibition|전시회|민기
+fame|명성|민기
+variable|변수|민기
+inclined to do|~하는 경향이 있는|민기
+beverage|음료|민기
+prevailing|지배적인|민기
+at the expense of|~을 희생하여|민기
+priority|우선순위|민기
+negotiator|협상가|민기
+on the grounds that|~이라는 이유로|민기
+ingredients|재료, 원료|민기
+capacity|역량|민기
+fit|들어맞다|민기
+dismiss|일축하다|민기
+thirst|갈증|민기
+justify|정당화하다|민기
+symposium|학술 토론회|민기
+transition|전환|민기
+lock in|고정되다|민기
+reflective|성찰적인|민기
+disincentive|의욕을 꺾는 것|민기
+experimentation|실험|민기
+bold|대담한|민기
+entail|수반하다|민기
+cognitively|인지적으로|민기
+spring from|~에서 비롯되다|민기
+interconnectedness|상호연결성|민기
+freehand|손으로만 그린|민기
+precision|정밀성|민기
+bypass|건너뛰다|민기
+phenomenon|현상|민기
+emphasize|강조하다|민기
+derived from|~에서 나온|민기
+ambiguity|모호함|민기
+outlook|전망|민기
+income|소득, 수입|민기
+adoption|채택|민기
+outnumber|~보다 수가 더 많다|민기
+figure|수치, 숫자|민기
+employ|고용하다|민기
+foresee|예상하다|민기
+opportunity|기회|민기
+share|비율|민기
+engage in|~에 참여하다|민기
+occasionally|가끔|민기
+commonly|흔하게|민기
+respondent|응답자|민기
+slightly|약간|민기
+participation|참여|민기
+cardio|유산소 운동|민기
+chemistry|화학|민기
+conduct|진행하다|민기
+mixture|혼합물|민기
+vibrant|생생한|민기
+distinguished|저명한|민기
+substance|물질|민기
+blossom|피어나다|민기
+affordable|저렴하게 구할 수 있는|민기
