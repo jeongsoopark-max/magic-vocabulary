@@ -3235,3 +3235,617 @@ zebra|얼룩말|중등
 zero|영|중등
 zone|구역|고등
 zoo|동물원|초등
+hello|안녕하세요|듣기
+students|학생들|듣기
+your|당신의|듣기
+vice|부-|듣기
+principal|교장|듣기
+our|우리의|듣기
+school|학교|듣기
+preparing|준비하는|듣기
+launch|시작하다|듣기
+newspaper|신문|듣기
+before|~전에|듣기
+publish|발행하다|듣기
+first|첫 번째의|듣기
+issue|호|듣기
+need|필요하다|듣기
+help|도움|듣기
+important|중요한|듣기
+part|부분|듣기
+project|프로젝트|듣기
+looking|찾는|듣기
+great|훌륭한|듣기
+name|이름|듣기
+reflects|반영하다|듣기
+spirit|정신|듣기
+creative|창의적인|듣기
+idea|아이디어|듣기
+please|부디|듣기
+submit|제출하다|듣기
+scanning|스캔하는|듣기
+code|코드|듣기
+notice|공지|듣기
+board|게시판|듣기
+next|다음|듣기
+friday|금요일|듣기
+once|일단 ~하면|듣기
+suggestions|제안들|듣기
+been|~였다|듣기
+collected|수집된|듣기
+there|~이 있다|듣기
+student|학생|듣기
+vote|투표하다|듣기
+choose|선택하다|듣기
+final|최종의|듣기
+suggests|제안하다|듣기
+winning|우승하는|듣기
+mentioned|언급된|듣기
+look|보다|듣기
+forward|앞으로|듣기
+participation|참여|듣기
+thank|감사하다|듣기
+don|입다|듣기
+happy|행복한|듣기
+jason|제이슨|듣기
+wrong|틀린|듣기
+nothing|아무것도|듣기
+serious|진지한|듣기
+feeling|느낌|듣기
+bit|조금|듣기
+down|우울한|듣기
+because|~때문에|듣기
+things|것들|듣기
+between|~사이에|듣기
+friend|친구|듣기
+sarah|사라|듣기
+really|정말로|듣기
+thought|생각|듣기
+two|둘|듣기
+best|최고의|듣기
+friends|친구들|듣기
+close|가까운|듣기
+thing|것|듣기
+sometimes|가끔|듣기
+different|다른|듣기
+thoughts|생각들|듣기
+hard|어려운|듣기
+express|표현하다|듣기
+feel|느끼다|듣기
+understand|이해하다|듣기
+keeping|유지하는 것|듣기
+feelings|감정들|듣기
+yourself|너 자신|듣기
+only|오직|듣기
+making|만드는 것|듣기
+worse|더 나쁜|듣기
+just|단지|듣기
+want|원하다|듣기
+make|만들다|듣기
+awkward|어색한|듣기
+know|알다|듣기
+creates|만든다|듣기
+distance|거리|듣기
+think|생각하다|듣기
+honestly|솔직히|듣기
+being|존재|듣기
+open|열린|듣기
+about|~에 대해|듣기
+emotions|감정들|듣기
+better|더 나은|듣기
+yes|네|듣기
+hiding|숨기는 것|듣기
+leads|이끌다|듣기
+misunderstandings|오해|듣기
+telling|말하는|듣기
+her|그녀의|듣기
+truly|정말로|듣기
+solve|해결하다|듣기
+problem|문제|듣기
+doctor|의사|듣기
+robert|로버트|듣기
+morgan|모건|듣기
+today|오늘|듣기
+going|가는|듣기
+talk|이야기하다|듣기
+good|좋은|듣기
+choice|선택|듣기
+let|~하게 하다|듣기
+give|주다|듣기
+example|예시|듣기
+imagine|상상하다|듣기
+trying|시도하는|듣기
+something|무언가|듣기
+store|가게|듣기
+might|~일지도 모른다|듣기
+spending|소비하는|듣기
+more|더 많은|듣기
+time|시간|듣기
+lead|이끌다|듣기
+decision|결정|듣기
+research|연구|듣기
+shows|보여주다|듣기
+initial|초기의|듣기
+often|자주|듣기
+one|하나|듣기
+true|진실된|듣기
+preference|선호|듣기
+influenced|영향을 받은|듣기
+outside|외부의|듣기
+factors|요인들|듣기
+when|~할 때|듣기
+too|너무|듣기
+much|많은|듣기
+every|모든|듣기
+possible|가능한|듣기
+outcome|결과|듣기
+keep|유지하다|듣기
+changing|변하는|듣기
+struggle|고군분투하다|듣기
+even|심지어|듣기
+simple|간단한|듣기
+decisions|결정들|듣기
+lose|잃다|듣기
+confidence|자신감|듣기
+why|왜|듣기
+trusting|신뢰하는|듣기
+instinct|본능|듣기
+actually|실제로|듣기
+result|결과|듣기
+end|끝|듣기
+judy|주디|듣기
+take|가지다|듣기
+picture|사진|듣기
+hotel|호텔|듣기
+room|방|듣기
+booked|예약된|듣기
+looks|보이다|듣기
+family|가족|듣기
+trip|여행|듣기
+since|이후로|듣기
+three|셋|듣기
+decided|결정했다|듣기
+then|그때|듣기
+beds|침대들|듣기
+seems|보인다|듣기
+perfect|완벽한|듣기
+exactly|정확히|듣기
+lamp|램프|듣기
+corner|모퉁이|듣기
+useful|유용한|듣기
+night|밤|듣기
+right|옳은|듣기
+also|또한|듣기
+window|창문|듣기
+offer|제공하다|듣기
+ocean|바다|듣기
+view|전망|듣기
+main|주요한|듣기
+reasons|이유들|듣기
+chose|선택했다|듣기
+see|보다|듣기
+round|둥근|듣기
+table|테이블|듣기
+nice|좋은|듣기
+place|장소|듣기
+enjoy|즐기다|듣기
+some|약간의|듣기
+snacks|간식들|듣기
+agree|동의하다|듣기
+electric|전기의|듣기
+teapot|찻주전자|듣기
+tea|차|듣기
+wait|기다리다|듣기
+emily|에밀리|듣기
+ready|준비된|듣기
+hike|하이킹하다|듣기
+tomorrow|내일|듣기
+almost|거의|듣기
+over|끝난|듣기
+list|목록|듣기
+okay|좋아요|듣기
+wanted|원했다|듣기
+hiking|하이킹|듣기
+trail|오솔길|듣기
+picked|골랐다|듣기
+doesn|하지 않는다|듣기
+many|많은|듣기
+stairs|계단|듣기
+lunch|점심|듣기
+should|~해야 한다|듣기
+pack|짐을 싸다|듣기
+sandwiches|샌드위치|듣기
+worry|걱정하다|듣기
+sounds|들리다|듣기
+care|신경 쓰다|듣기
+already|이미|듣기
+bought|샀다|듣기
+yesterday|어제|듣기
+bring|가져오다|듣기
+trash|쓰레기|듣기
+bags|가방|듣기
+carry|나르다|듣기
+back|뒤|듣기
+thinking|생각하다|듣기
+get|얻다|듣기
+windy|바람이 부는|듣기
+top|꼭대기|듣기
+mountain|산|듣기
+probably|아마도|듣기
+windbreaker|바람막이|듣기
+extra|여분의|듣기
+lend|빌려주다|듣기
+thanks|고맙습니다|듣기
+welcome|환영하다|듣기
+sweet|달콤한|듣기
+hands|손|듣기
+baking|베이킹|듣기
+studio|스튜디오|듣기
+like|좋아하다|듣기
+join|참여하다|듣기
+cupcake|컵케이크|듣기
+class|수업|듣기
+clock|시계|듣기
+any|어떤|듣기
+spots|점들|듣기
+left|남은|듣기
+sure|확실한|듣기
+fee|요금|듣기
+adult|성인|듣기
+child|아이|듣기
+sign|표지판|듣기
+children|아이들|듣기
+anything|무엇이든|듣기
+basic|기본적인|듣기
+tools|도구들|듣기
+ingredients|재료들|듣기
+included|포함된|듣기
+pay|지불하다|듣기
+buy|사다|듣기
+special|특별한|듣기
+decorating|장식하는|듣기
+kit|키트|듣기
+add|추가하다|듣기
+kits|키트들|듣기
+membership|멤버십|듣기
+coupon|쿠폰|듣기
+use|사용하다|듣기
+off|할인된|듣기
+total|총액|듣기
+here|여기|듣기
+credit|신용|듣기
+card|카드|듣기
+cloudnest|클라우드네스트|듣기
+customer|고객|듣기
+service|서비스|듣기
+may|일지도모른다|듣기
+cancel|취소하다|듣기
+cloud|구름|듣기
+subscription|구독|듣기
+sorry|미안한|듣기
+hear|듣다|듣기
+ask|묻다|듣기
+cost|비용|듣기
+came|왔다|듣기
+out|밖으로|듣기
+cheaper|더싼|듣기
+plan|계획|듣기
+price|가격|듣기
+isn|아니다|듣기
+dissatisfied|불만족스러운|듣기
+storage|저장|듣기
+capacity|용량|듣기
+system|시스템|듣기
+performance|성능, 실적|듣기
+did|~했다|듣기
+experience|경험, 경험하다|듣기
+server|서버|듣기
+errors|오류|듣기
+everything|모든 것|듣기
+runs|작동하다, 달리다|듣기
+smoothly|순조롭게|듣기
+liked|좋아했다|듣기
+smartphone|스마트폰|듣기
+app|앱|듣기
+used|사용했다|듣기
+lot|많이|듣기
+company|회사|듣기
+recently|최근에|듣기
+changed|변경했다|듣기
+its|그것의|듣기
+data|데이터|듣기
+security|보안|듣기
+policy|정책|듣기
+access|접근, 접근하다|듣기
+work|일, 직장, 작동하다|듣기
+proceed|진행하다, 나아가다|듣기
+cancellation|취소|듣기
+phone|전화, 전화하다|듣기
+kate|케이트|듣기
+event|행사, 사건|듣기
+post|게시하다, 우편|듣기
+upcoming|다가오는|듣기
+history|역사|듣기
+lecture|강의|듣기
+come|오다|듣기
+topic|주제|듣기
+independence|독립|듣기
+korea|한국|듣기
+ireland|아일랜드|듣기
+interesting|흥미로운|듣기
+heard|들었다|듣기
+both|둘 다|듣기
+countries|국가들|듣기
+similar|비슷한|듣기
+histories|역사들|듣기
+giving|주는|듣기
+professor|교수|듣기
+matthew|매튜|듣기
+stevens|스티븐스|듣기
+expert|전문가|듣기
+modern|현대의|듣기
+him|그를|듣기
+scheduled|예정된|듣기
+april|4월|듣기
+free|자유로운, 무료의|듣기
+day|날, 하루|듣기
+where|어디에, ~하는 곳|듣기
+national|국가의, 국립의|듣기
+museum|박물관|듣기
+downtown|도심, 시내|듣기
+love|사랑하다, 사랑|듣기
+meet|만나다|듣기
+world|세계|듣기
+folk|민속의|듣기
+dance|춤추다, 춤|듣기
+everyone|모든 사람|듣기
+chloe|클로이|듣기
+anderson|앤더슨|듣기
+festival|축제|듣기
+committee|위원회|듣기
+invite|초대하다|듣기
+magical|마법 같은|듣기
+evening|저녁|듣기
+music|음악|듣기
+held|개최된|듣기
+march|3월|듣기
+maplehurst|메이플허스트|듣기
+square|광장|듣기
+six|여섯|듣기
+amazing|놀라운|듣기
+teams|팀들|듣기
+stage|무대|듣기
+representing|대표하는|듣기
+south|남쪽|듣기
+bulgaria|불가리아|듣기
+poland|폴란드|듣기
+india|인도|듣기
+russia|러시아|듣기
+peru|페루|듣기
+each|각각의|듣기
+team|팀|듣기
+perform|공연하다|듣기
+their|그들의|듣기
+traditional|전통적인|듣기
+chance|기회|듣기
+try|시도하다|듣기
+costumes|의상들|듣기
+these|이것들|듣기
+after|~후에|듣기
+performances|공연들|듣기
+photos|사진들|듣기
+performers|공연자들|듣기
+admission|입장|듣기
+residents|거주자들|듣기
+addition|추가|듣기
+visitors|방문객들|듣기
+receive|받다|듣기
+souvenir|기념품|듣기
+miss|놓치다|듣기
+clara|클라라|듣기
+running|달리기|듣기
+vest|조끼|듣기
+got|얻었다|듣기
+website|웹사이트|듣기
+always|항상|듣기
+show|보여주다|듣기
+typing|타자|듣기
+sound|소리|듣기
+budget|예산|듣기
+mind|마음|듣기
+under|~아래에|듣기
+usually|보통|듣기
+run|달리다|듣기
+led|이끌었다|듣기
+lights|불빛|듣기
+reflective|반사하는|듣기
+strips|띠|듣기
+weight|무게|듣기
+medium|중간의|듣기
+model|모델|듣기
+durable|튼튼한|듣기
+while|~하는 동안|듣기
+lightweight|가벼운|듣기
+speed|속도|듣기
+bottle|병|듣기
+holders|홀더|듣기
+hmm|음|듣기
+enough|충분한|듣기
+option|선택|듣기
+telephone|전화|듣기
+rings|울린다|듣기
+cathy|캐시|듣기
+arrived|도착했다|듣기
+station|역|듣기
+way|길|듣기
+waiting|기다리는|듣기
+platform|승강장|듣기
+train|기차|듣기
+leaves|떠난다|듣기
+twenty|스물|듣기
+minutes|분|듣기
+taxi|택시|듣기
+taking|가져가는, 취하는|듣기
+longer|더 긴|듣기
+than|~보다|듣기
+expected|예상된|듣기
+traffic|교통|듣기
+ten|열|듣기
+dad|아빠|듣기
+job|일|듣기
+big|큰|듣기
+little|작은|듣기
+nervous|긴장한|듣기
+mistake|실수|듣기
+club|클럽, 동아리|듣기
+shirts|셔츠들|듣기
+ordered|주문했다, 주문된|듣기
+shop|가게|듣기
+called|전화했다, 불렀다|듣기
+said|말했다|듣기
+logo|로고|듣기
+complicated|복잡한|듣기
+print|인쇄하다, 인쇄물|듣기
+quickly|빨리|듣기
+them|그들을, 그것들을|듣기
+other|다른|듣기
+faster|더 빠른|듣기
+suggested|제안했다, 제안된|듣기
+simplifying|단순화하는|듣기
+design|디자인|듣기
+still|여전히, 아직도|듣기
+relief|안도|듣기
+software|소프트웨어|듣기
+well|잘|듣기
+program|프로그램|듣기
+could|~할 수 있었다, ~일 수도 있었다|듣기
+send|보내다|듣기
+updated|업데이트된, 갱신된|듣기
+later|나중에|듣기
+council|의회, 협의회|듣기
+meeting|회의|듣기
+afternoon|오후|듣기
+definitely|분명히|듣기
+finish|끝내다|듣기
+tonight|오늘 밤|듣기
+does|~하니? (do의 3인칭 단수 현재형)|듣기
+honey|여보, 꿀|듣기
+visiting|방문하는|듣기
+local|지역의|듣기
+farmers|농부들|듣기
+market|시장|듣기
+move|움직이다|듣기
+another|또 다른|듣기
+walk|걷다|듣기
+around|주위에|듣기
+suitcases|여행 가방들|듣기
+heavy|무거운|듣기
+luggage|짐|듣기
+delivery|배달|듣기
+picks|고르다|듣기
+drops|떨어뜨리다|듣기
+says|말하다|듣기
+available|이용 가능한|듣기
+hotels|호텔들|듣기
+deal|거래|듣기
+totally|완전히|듣기
+worth|가치|듣기
+ahead|미리|듣기
+book|예약하다|듣기
+now|지금|듣기
+hailey|헤일리|듣기
+brian|브라이언|듣기
+along|함께|듣기
+classmates|반 친구들|듣기
+communicate|소통하다|듣기
+through|~을 통해|듣기
+group|그룹|듣기
+chat|채팅|듣기
+mainly|주로|듣기
+share|공유하다|듣기
+information|정보|듣기
+life|삶|듣기
+worked|일했다|듣기
+together|함께|듣기
+science|과학|듣기
+took|가져갔다|듣기
+several|몇몇의|듣기
+during|~동안|듣기
+activity|활동|듣기
+shared|공유했다|듣기
+didn|하지 않았다|듣기
+however|하지만|듣기
+sees|보다|듣기
+herself|그녀 자신|듣기
+she|그녀는|듣기
+feels|느끼다|듣기
+embarrassed|당황한|듣기
+pictures|사진들|듣기
+would|~일 것이다|듣기
+posted|게시했다|듣기
+stay|머무르다|듣기
+decides|결정하다|듣기
+delete|삭제하다|듣기
+situation|상황|듣기
+most|가장|듣기
+likely|~할 것 같은|듣기
+say|말하다|듣기
+last|마지막의|듣기
+talked|이야기했다|듣기
+importance|중요성|듣기
+eating|먹는 것|듣기
+healthy|건강한|듣기
+food|음식|듣기
+foods|음식들|듣기
+check|확인하다|듣기
+nutrition|영양|듣기
+labels|라벨|듣기
+light|가벼운|듣기
+salad|샐러드|듣기
+dressing|드레싱|듣기
+though|비록 ~일지라도|듣기
+marketed|판매된|듣기
+contains|포함하다|듣기
+surprisingly|놀랍게도|듣기
+high|높은|듣기
+levels|수준|듣기
+salt|소금|듣기
+sugar|설탕|듣기
+second|두 번째의|듣기
+nut|견과류|듣기
+bars|바|듣기
+contain|포함하다|듣기
+sweetened|단맛을 낸|듣기
+nuts|견과류|듣기
+chocolate|초콜릿|듣기
+small|작은|듣기
+bar|바|듣기
+calories|칼로리|듣기
+expect|기대하다|듣기
+unwanted|원치 않는|듣기
+gain|얻다|듣기
+third|세 번째의|듣기
+wheat|밀|듣기
+bread|빵|듣기
+breads|빵 종류|듣기
+made|만들어진|듣기
+whole|전체의|듣기
+grains|곡물|듣기
+provide|제공하다|듣기
+dietary|식이의|듣기
+fiber|섬유질|듣기
+finally|마침내|듣기
+veggie|채소|듣기
+chips|칩|듣기
+processed|가공된|듣기
+fried|튀긴|듣기
+removes|제거한다|듣기
+original|원래의|듣기
+although|비록 ~일지라도|듣기
+taste|맛|듣기
+vegetables|채소|듣기
+same|같은|듣기
+health|건강|듣기
+benefits|이점|듣기
+careful|조심하는|듣기
+fooled|속았다|듣기
