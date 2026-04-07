@@ -36,6 +36,7 @@ def get_ai_hint(word, level, api_key):
 
 def load_words(file_path):
     word_list = []
+    # 파일이 없을 경우 빈 리스트 반환 (학생용 파일이 아직 없을 때를 대비)
     if os.path.exists(file_path):
         with open(file_path, 'r', encoding='utf-8') as f:
             for line in f:
@@ -50,63 +51,58 @@ def load_words(file_path):
     return word_list
 
 # --- 2. 초기 데이터 세팅 ---
+# 학생 ID 세션 초기화
+if 'student_id' not in st.session_state:
+    st.session_state.student_id = "일반"
+
 if 'word_list' not in st.session_state:
-    loaded_words = load_words("words.txt")
-    if not loaded_words:
-        loaded_words = [{"word": "sample", "meaning": "샘플", "level": "테스트"}]
-    st.session_state.word_list = loaded_words
+    st.session_state.word_list = load_words("words.txt")
 
 if 'quiz_started' not in st.session_state:
     st.session_state.quiz_started = False
-    st.session_state.quiz_type = "단답형 주관식"
     st.session_state.current_idx = 0
     st.session_state.score = 0
     st.session_state.wrong_words = []
     st.session_state.test_pool = []
 
-# --- 시험 시작 함수 (객관식 보기 생성 로직 추가) ---
-def start_quiz(level, quiz_type):
-    pool = [w for w in st.session_state.word_list if w['level'] == level]
-    random.shuffle(pool)
-    test_pool = pool[:10] # 10문제 추출
-    
-    # 5지선다 객관식일 경우, 오답 보기 4개 자동 생성
-    if quiz_type == "5지선다 객관식":
-        all_meanings = list(set([w['meaning'] for w in st.session_state.word_list]))
-        for q in test_pool:
-            correct_meaning = q['meaning']
-            # 정답을 제외한 나머지 뜻 중에서 랜덤으로 4개 추출
-            wrong_meanings = [m for m in all_meanings if m != correct_meaning]
-            # 만약 전체 단어가 5개 미만이면 있는 대로 다 가져옴
-            num_wrong = min(4, len(wrong_meanings))
-            choices = random.sample(wrong_meanings, num_wrong) + [correct_meaning]
-            random.shuffle(choices) # 정답 위치를 랜덤으로 섞음
-            q['choices'] = choices
-
-    st.session_state.test_pool = test_pool
-    st.session_state.quiz_started = True
-    st.session_state.quiz_type = quiz_type
-    st.session_state.current_idx = 0
-    st.session_state.score = 0
-    st.session_state.wrong_words = []
-
 # --- 3. 환경 설정 (사이드바) ---
 with st.sidebar:
-    st.header("⚙️ 설정")
-    api_key = st.text_input("Google Gemini API Key를 입력하세요", type="password")
-    if api_key:
-        st.success("API Key 적용 완료!")
-    else:
-        st.warning("AI 힌트 기능을 쓰려면 API Key가 필요합니다.")
-        
-    st.divider()
+    st.header("👤 사용자 인증")
     
-    if st.button("🔄 최신 단어장 불러오기"):
-        st.session_state.word_list = load_words("words.txt")
-        st.success(f"새로고침 완료! (총 {len(st.session_state.word_list)}개 단어)")
+    # [추가] 학생 ID 입력창
+    temp_id = st.text_input("학생 이름을 입력하세요 (일반용은 비워두기)", value="")
+    if st.button("로그인/전환"):
+        if temp_id.strip() == "":
+            st.session_state.student_id = "일반"
+            target_file = "words.txt"
+        else:
+            st.session_state.student_id = temp_id.strip()
+            target_file = f"words_{st.session_state.student_id}.txt"
+        
+        # 파일 로드 및 세션 초기화
+        loaded = load_words(target_file)
+        if not loaded and st.session_state.student_id != "일반":
+            st.error(f"'{target_file}' 파일이 없습니다. 기본 단어장을 불러옵니다.")
+            st.session_state.word_list = load_words("words.txt")
+        else:
+            st.session_state.word_list = loaded
+            st.success(f"{st.session_state.student_id}님 단어장 로드 완료!")
+        
+        st.session_state.quiz_started = False # 시험 중이었다면 초기화
+        st.rerun()
 
-# --- 4. 메인 UI 레이아웃 ---
+    st.divider()
+    st.header("⚙️ 설정")
+    api_key = st.text_input("Google Gemini API Key", type="password")
+    
+    if st.button("🔄 현재 단어장 새로고침"):
+        fname = "words.txt" if st.session_state.student_id == "일반" else f"words_{st.session_state.student_id}.txt"
+        st.session_state.word_list = load_words(fname)
+        st.success("새로고침 완료!")
+
+# --- 4. 메인 UI (기존 로직 유지) ---
 st.title("🎯 스마트 영단어 실력 체크")
+st.info(f"현재 접속: **{st.session_state.student_id}** 모드")
 
 if not st.session_state.quiz_started:
     st.subheader("시험 설정을 선택하세요!")
