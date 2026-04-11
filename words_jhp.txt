@@ -1,1 +1,4219 @@
 
+abandon|버리다, 포기하다|고등
+able|~할 수 있는, 유능한|중등
+disabled|장애가 있는, 무능한|고등
+aboard|배/비행기/기차에 탑승한|고등
+abort|중단하다, 낙태하다|고등
+abortion|낙태, 유산|고등
+abound|풍부하다, 가득하다|고등
+abundant|풍부한, 많은|고등
+about|~에 대하여, 대략|초등
+above|~위에, ~보다 높은|초등
+abroad|해외에, 해외로|고등
+absent|결석한, 없는|고등
+absolute|절대적인, 완전한|중등
+absorb|흡수하다, 열중시키다|고등
+abstract|추상적인, 요약|고등
+absurd|터무니없는, 부조리한|고등
+abuse|학대하다, 남용하다|고등
+academy|학원, 학교, 학술원|고등
+accelerate|가속하다, 빨라지다|고등
+accent|억양, 말씨|중등
+accept|수락하다, 받아들이다|중등
+access|접근, 접근하다|중등
+accident|사고, 우연|중등
+accommodate|수용하다, 편의를 제공하다|고등
+accompany|동반하다, 함께 가다|고등
+accomplish|성취하다, 완수하다|고등
+accord|일치하다, 협정|고등
+account|계좌, 설명, ~을 설명하다|중등
+accumulate|축적하다, 쌓다|고등
+accurate|정확한, 정밀한|고등
+accuse|고발하다, 비난하다|중등
+ache|아프다, 통증|고등
+headache|두통|고등
+achieve|성취하다, 달성하다|중등
+acid|산, 신맛의|고등
+acknowledge|인정하다, 감사하다|고등
+acquire|획득하다, 얻다|고등
+acquisition|획득, 습득|고등
+across|~을 가로질러, ~을 건너서|초등
+act|행동하다, 연기하다, 행위|초등
+actual|실제의, 현실의|고등
+interact|상호작용하다|고등
+adapt|적응하다, 개조하다|중등
+add|추가하다, 더하다|초등
+addict|중독자, 중독시키다|고등
+address|주소, 연설, 연설하다|초등
+adequate|적절한, 충분한|고등
+adjust|조절하다, 적응하다|고등
+administer|관리하다, 집행하다|고등
+administration|관리, 행정, 행정부|고등
+admire|존경하다, 감탄하다|중등
+admit|인정하다, 허락하다|중등
+admission|입장, 입학, 인정|고등
+adolescent|청소년|고등
+adopt|입양하다, 채택하다|중등
+adult|성인|초등
+advance|전진하다, 발전하다, 진보|중등
+advantage|이점, 장점|중등
+disadvantage|불리한 점, 단점|고등
+adventure|모험|중등
+adverse|불리한, 역방향의|고등
+advertize|광고하다|중등
+advertise|광고하다|중등
+advice|조언, 충고|중등
+advise|조언하다, 충고하다|중등
+advocate|옹호하다, 지지하다, 옹호자|고등
+aesthetic|미적인, 미학의|고등
+affair|일, 사건, 불륜|중등
+affect|영향을 미치다|중등
+affection|애정|고등
+afford|~할 여유가 있다|중등
+afraid|두려워하는, 무서워하는|초등
+after|후에, ~뒤에|초등
+afternoon|오후|초등
+again|다시, 또|초등
+against|~에 반대하여, ~에 맞서|초등
+age|나이, 시대|초등
+agency|대리점, 기관|고등
+agenda|의제|고등
+agent|대리인, 요원|중등
+aggress|공격하다|고등
+aggressive|공격적인, 적극적인|고등
+ago|~전에|초등
+agree|동의하다|초등
+disagree|동의하지 않다|고등
+agriculture|농업|고등
+ahead|앞에, 미리|초등
+aid|돕다, 원조, 도움|중등
+aim|목표, 조준하다|중등
+air|공기, 항공|초등
+airline|항공사|중등
+airplane|비행기|초등
+aeroplane|비행기|초등
+airport|공항|중등
+alarm|경보, 놀라게 하다|중등
+album|앨범|초등
+alcohol|알코올, 술|중등
+alert|경계하는, 경보를 울리다|고등
+alien|외국의, 외계인|고등
+alike|비슷한, 똑같이|고등
+alive|살아있는|중등
+allocate|할당하다|고등
+allow|허락하다|중등
+ally|동맹국|고등
+almost|거의|초등
+alone|혼자서|초등
+along|~을 따라|초등
+alongside|~옆에|고등
+aloud|소리 내어|중등
+already|이미|초등
+alright|괜찮은|초등
+also|또한|초등
+alter|변경하다|중등
+alternate|번갈아 일어나다|고등
+alternative|대안|고등
+although|비록 ~일지라도|중등
+altogether|완전히|중등
+always|항상|초등
+amaze|놀라게 하다|중등
+ambassador|대사|고등
+ambition|야망|고등
+ambitious|야망 있는|고등
+ambulance|구급차|중등
+among|~사이에|중등
+amount|양|중등
+amuse|즐겁게 하다|중등
+analysis|분석|중등
+analyze|분석하다|고등
+analyse|분석하다|고등
+anchor|닻|고등
+ancient|고대의|고등
+angel|천사|중등
+anger|분노|중등
+angle|각도|고등
+animal|동물|초등
+anniversary|기념일|고등
+announce|발표하다|중등
+annoy|짜증나게 하다|중등
+annual|연간의|중등
+another|또 다른|초등
+answer|대답|초등
+ant|개미|중등
+anticipate|예상하다|고등
+anxiety|불안|고등
+anxious|불안해하는|중등
+any|어떤|초등
+apart|떨어져서|중등
+apartment|아파트|초등
+apology|사과|고등
+apparent|분명한|고등
+appeal|항소하다, 매력, 간청하다|중등
+appear|나타나다, ~처럼 보이다|중등
+disappear|사라지다|고등
+apple|사과|초등
+apply|신청하다, 적용하다, 바르다|중등
+applicant|지원자, 신청자|고등
+appoint|임명하다, 지정하다|중등
+appreciate|감사하다, 감상하다, 이해하다|중등
+approach|접근하다, 접근법|중등
+appropriate|적절한, 도용하다|중등
+approve|승인하다, 찬성하다|고등
+approximate|대략의, 근사치의|고등
+architect|건축가|고등
+architecture|건축, 건축학|고등
+area|지역, 영역, 면적|초등
+argue|논쟁하다, 주장하다|중등
+arise|발생하다, 생기다|고등
+arm|팔, 무기, 무장하다|초등
+army|군대, 육군|중등
+around|주위에, ~쯤|초등
+arrange|정리하다, 준비하다|중등
+arrest|체포하다, 체포|중등
+arrive|도착하다|초등
+arrow|화살, 화살표|고등
+art|예술, 미술, 기술|초등
+article|기사, 물품, 조항|중등
+artifice|기교, 계략|고등
+artificial|인공적인, 인위적인|고등
+aside|옆에, 한쪽으로|중등
+ask|묻다, 요청하다|초등
+asleep|잠든, 잠자는|중등
+aspect|측면, 양상|고등
+aspire|열망하다, 갈망하다|고등
+assault|폭행, 공격|고등
+assemble|조립하다, 모으다|고등
+assert|주장하다, 단언하다|고등
+assess|평가하다, 사정하다|중등
+asset|자산, 강점|고등
+assign|할당하다, 지정하다|중등
+assignment|과제, 임무|고등
+assist|돕다, 지원하다|중등
+assistant|조수, 보조원|고등
+associate|연관시키다, 동료|중등
+assume|가정하다, (책임을) 맡다|중등
+assure|확신시키다, 보장하다|고등
+astonish|깜짝 놀라게 하다|고등
+athlete|운동선수|고등
+atmosphere|대기, 분위기|중등
+atom|원자|고등
+attach|붙이다, 첨부하다|중등
+attack|공격하다|중등
+attempt|시도하다|중등
+attend|참석하다|중등
+attention|주의|중등
+attitude|태도|중등
+attract|끌어당기다|중등
+attribute|특성|고등
+auction|경매|고등
+audience|청중|중등
+aunt|숙모|초등
+authentic|진짜의|고등
+author|작가|고등
+automatic|자동의|중등
+autumn|가을|초등
+avail|소용되다|고등
+available|이용 가능한|고등
+average|평균|중등
+avoid|피하다|중등
+await|기다리다|고등
+awake|깨어있는|중등
+award|상|중등
+aware|알고 있는|중등
+unaware|모르는|고등
+away|떨어져서|초등
+awe|경외심|고등
+awful|끔찍한|고등
+awkward|어색한|중등
+baby|아기|초등
+back|뒤|초등
+background|배경|중등
+bacon|베이컨|중등
+bad|나쁜|초등
+badminton|배드민턴|초등
+bag|가방|초등
+bake|굽다|초등
+balance|균형|중등
+ball|공|초등
+balloon|풍선|중등
+ban|금지하다|고등
+banana|바나나|초등
+band|밴드|중등
+bang|쾅 하는 소리|중등
+bank|은행|초등
+bankrupt|파산한|고등
+bar|술집|중등
+bare|벌거벗은|중등
+bargain|흥정하다|고등
+bark|짖다|중등
+barrier|장벽|고등
+base|기초|초등
+baseball|야구|초등
+basis|기초, 근거|중등
+basket|바구니|초등
+basketball|농구|초등
+bat|방망이, 박쥐|초등
+bath|목욕|초등
+battery|건전지, 배터리|중등
+battle|전투, 싸움|중등
+bay|만(灣)|중등
+beach|해변, 바닷가|초등
+beam|광선, 들보|고등
+bean|콩|중등
+bear|곰, 견디다|초등
+beard|턱수염|고등
+beast|짐승, 야수|고등
+beat|치다, 이기다, 박자|중등
+beauty|아름다움, 미인|초등
+because|~때문에|초등
+become|~이 되다|초등
+bed|침대|초등
+bee|벌|초등
+beef|소고기|초등
+beer|맥주|중등
+before|~전에, ~앞에|초등
+beg|구걸하다, 간청하다|중등
+begin|시작하다|초등
+behalf|~을 대신하여, ~을 위하여|고등
+behave|행동하다|고등
+behavior|행동, 태도|고등
+behaviour|행동, 태도|고등
+behind|~뒤에|초등
+belief|믿음, 신념|중등
+believe|믿다|초등
+bell|종|초등
+belong|~에 속하다|중등
+below|~아래에|초등
+belt|벨트, 허리띠|초등
+bench|벤치, 긴 의자|중등
+bend|구부리다|중등
+beneath|~아래에|중등
+benefit|이점, 혜택, 이득|중등
+beside|~옆에|초등
+bet|내기하다, 내기|중등
+betray|배신하다|고등
+between|~사이에|초등
+beyond|~을 넘어서, ~저편에|중등
+bias|편견, 선입견|고등
+big|큰, 거대한|초등
+bike|자전거|초등
+bill|계산서, 청구서, 지폐|초등
+billion|십억|중등
+bin|쓰레기통, 저장통|중등
+bind|묶다, 매다, 의무를 지우다|중등
+biography|전기, 자서전|고등
+biology|생물학|고등
+bird|새|초등
+birth|탄생, 출생|초등
+biscuit|비스킷, 과자|초등
+bit|약간, 조각, 비트|중등
+bite|물다, 한 입|중등
+bitter|쓴, 쓰라린|중등
+black|검은, 검정, 흑인|초등
+blame|비난하다, 책임|중등
+blank|빈, 공백, 백지|중등
+blanket|담요|중등
+blast|폭발, 맹비난, 강풍|고등
+blend|섞다, 혼합하다|고등
+bless|축복하다|중등
+blind|눈 먼, 맹인, 블라인드|중등
+blink|눈을 깜빡이다|고등
+block|막다, 블록, 덩어리|중등
+blonde|금발의, 금발 여성|중등
+blood|피, 혈액|초등
+bloom|꽃 피우다, 만개하다|중등
+blossom|꽃을 피우다, 꽃|고등
+blow|불다, 강타, 타격|중등
+blue|파란, 우울한, 파랑|초등
+board|널빤지, 판, 탑승하다, 이사회|초등
+boat|보트, 배|초등
+body|몸, 신체, 시체|초등
+embody|구현하다, 형상화하다|고등
+boil|끓다, 끓이다, 종기|중등
+bold|용감한, 대담한, 굵은|고등
+bomb|폭탄, 폭격하다|중등
+bond|유대, 채권, 접착제, 유대감을 형성하다|중등
+bone|뼈|초등
+book|책, 예약하다|초등
+boom|쾅 하는 소리, 호황, 붐|중등
+boost|밀어 올리다, 증대시키다, 격려|고등
+boot|부츠, 시동을 걸다|중등
+border|국경, 가장자리, 접하다|고등
+bore|지루하게 하다, 구멍을 뚫다, 지루한 사람|중등
+borrow|빌리다|초등
+boss|사장, 상사, 지휘하다|중등
+both|둘 다|초등
+bother|괴롭히다, 귀찮게 하다, 걱정|중등
+bottle|병, 병에 담다|초등
+bottom|바닥, 맨 아래|초등
+bounce|튀어 오르다, 반사되다|중등
+boundary|경계, 한계|고등
+bow|활, 절하다|중등
+bowl|그릇, 사발|중등
+box|상자, 상자에 넣다|초등
+boy|소년|초등
+brain|뇌, 두뇌|중등
+brake|브레이크, 제동하다|중등
+branch|가지, 지점|중등
+brand|상표, 브랜드|중등
+brave|용감한|초등
+bread|빵|초등
+break|깨다, 부수다, 쉬다|초등
+breakfast|아침 식사|초등
+breast|가슴|중등
+breath|숨, 호흡|중등
+breathe|숨 쉬다, 호흡하다|중등
+breed|번식하다, 품종|고등
+breeze|산들바람, 미풍|고등
+brick|벽돌|중등
+bridge|다리, 연결하다|초등
+brief|짧은, 간단한|중등
+bright|밝은, 똑똑한|초등
+brilliant|훌륭한, 빛나는|중등
+bring|가져오다|초등
+broad|넓은, 광범위한|중등
+broadcast|방송하다, 방송|고등
+brother|형제|초등
+brown|갈색, 갈색의|초등
+brush|붓, 솔, 빗다|초등
+brute|짐승, 잔인한 사람|고등
+brutal|잔인한, 야만적인|고등
+bubble|거품|중등
+budget|예산|중등
+bug|벌레, 버그|중등
+build|짓다, 건설하다|초등
+bulk|부피, 대부분|고등
+bull|황소|고등
+bully|괴롭히다, 약자를 괴롭히는 사람|고등
+bump|부딪히다, 충돌|중등
+bunch|묶음, 다발|중등
+bundle|묶음, 꾸러미|고등
+burden|부담, 짐|고등
+burn|타다, 태우다|초등
+burst|터지다, 파열|중등
+bury|묻다, 매장하다|중등
+bus|버스|초등
+bush|덤불, 관목|중등
+business|사업, 업무|초등
+busy|바쁜|초등
+butcher|정육점 주인, 도살하다|고등
+butter|버터|초등
+button|단추|초등
+buy|사다|초등
+buzz|윙윙거리다|고등
+cable|케이블|중등
+cage|우리|중등
+cake|케이크|초등
+calculate|계산하다|중등
+calculator|계산기|고등
+calendar|달력|중등
+call|부르다|초등
+calm|고요한|중등
+camera|카메라|초등
+camp|캠프|초등
+campaign|캠페인|초등
+cancel|취소하다|고등
+cancer|암|고등
+candidate|후보자|고등
+candy|사탕|초등
+canvas|캔버스|고등
+cap|모자|초등
+capable|능력 있는|중등
+cape|곶|중등
+capital|수도|중등
+captain|선장|중등
+capture|붙잡다|고등
+car|자동차|초등
+card|카드|초등
+care|돌봄|초등
+career|경력|중등
+carpet|양탄자|중등
+carrot|당근|초등
+carry|나르다|초등
+cart|수레|중등
+carve|조각하다|고등
+case|경우|초등
+casual|격식 없는|고등
+cash|현금|초등
+cast|던지다|중등
+castle|성|중등
+cat|고양이|초등
+catalogue|카탈로그|중등
+catalog|카탈로그|중등
+catch|잡다|초등
+category|범주|중등
+cater|음식을 제공하다|고등
+cattle|소|고등
+cause|원인|중등
+causal|인과 관계의|고등
+caution|조심|고등
+cave|동굴|고등
+cease|멈추다, 중지하다|고등
+ceiling|천장|중등
+celebrate|축하하다, 기념하다|고등
+celebrity|유명인사, 연예인|고등
+cell|세포; 작은 방; 감방; 휴대전화|중등
+censor|검열관, 검열하다|고등
+center|중심, 중앙; 집중시키다|초등
+century|세기, 100년|중등
+certain|확실한, 어떤|초등
+certificate|증명서, 자격증|고등
+chain|사슬, 체인; 연쇄; 묶다|중등
+chair|의자; 의장|초등
+chairman|의장, 회장|중등
+challenge|도전; 난제; 도전하다|중등
+chamber|방, 회의실; 의회|고등
+champion|우승자, 챔피언; 옹호자|중등
+chance|기회; 우연; 가능성|초등
+change|변화, 변경; 잔돈; 바꾸다|초등
+channel|채널; 수로; 통로|중등
+chaos|혼돈, 혼란|고등
+character|성격, 인물; 등장인물; 문자|중등
+characteristic|특징, 특성; 특징적인|중등
+charge|요금; 책임; 비난; 충전; 고발하다; 청구하다|중등
+discharge|방출하다, 해고하다; 퇴원시키다; 방전|고등
+charity|자선, 자선단체|고등
+charm|매력, 부적; 매혹하다|중등
+chart|차트, 도표; 해도|중등
+chase|추격하다, 쫓다; 추격|중등
+chat|잡담하다, 수다를 떨다; 잡담|중등
+cheap|싼, 저렴한; 인색한|초등
+check|확인하다; 수표; 점검; 확인|초등
+cheque|수표|초등
+cheek|뺨, 볼|중등
+cheer|환호하다, 응원하다; 환호|중등
+cheese|치즈|초등
+chef|요리사, 주방장|고등
+chemical|화학의; 화학 물질|고등
+chest|가슴; 궤; 서랍장|중등
+chew|씹다|중등
+chicken|닭, 닭고기; 겁쟁이|초등
+chief|최고위의; 우두머리; 추장|중등
+child|아이, 어린이|초등
+chill|냉기; 오한; 으스스한 느낌; 식히다|고등
+chin|턱|고등
+chip|칩; 조각; 감자튀김|중등
+chocolate|초콜릿|초등
+choice|선택, 선택권|중등
+choir|합창단|고등
+choose|선택하다, 고르다|초등
+chop|썰다, 다지다; (돼지) 갈비|중등
+chorus|합창|고등
+chronic|만성의|고등
+church|교회|초등
+cigarette|담배|중등
+cinema|영화관|중등
+circle|원|초등
+circulate|순환하다|고등
+circumstance|상황|중등
+cite|인용하다|고등
+citizen|시민|중등
+city|도시|초등
+civil|시민의|중등
+claim|주장하다|중등
+clap|박수치다|고등
+clash|충돌하다|고등
+class|수업|초등
+classic|고전|고등
+classify|분류하다|고등
+clause|절|고등
+clay|점토|고등
+clean|깨끗한|초등
+clear|분명한|초등
+clarify|명확히 하다|고등
+clerk|사무원|중등
+clever|영리한|초등
+click|딸깍 소리 나다|중등
+client|의뢰인|중등
+cliff|절벽|중등
+climate|기후|중등
+climb|오르다|초등
+cling|매달리다|고등
+clinic|진료소|고등
+clip|클립|중등
+clock|시계|초등
+close|닫다|초등
+disclose|폭로하다|고등
+enclose|둘러싸다|고등
+clothes|옷|초등
+cloud|구름|초등
+club|클럽|초등
+clue|단서|중등
+cluster|무리|고등
+coach|코치|중등
+coal|석탄|중등
+coast|해안|중등
+coat|코트|초등
+code|암호|중등
+coffee|커피|초등
+coin|동전|중등
+coincide|동시에 일어나다|고등
+cold|추운|초등
+collaborate|협력하다|고등
+collapse|붕괴하다|고등
+collar|칼라|고등
+colleague|동료|고등
+collect|모으다|초등
+college|대학|초등
+colony|식민지|고등
+color|색|초등
+colour|색|초등
+column|기둥|고등
+combat|전투|고등
+combine|결합하다|중등
+come|오다|초등
+comedy|코미디|중등
+comfort|위로|중등
+comfortable|편안한|고등
+comic|만화|초등
+command|명령하다|중등
+comment|논평|중등
+commerce|상업|중등
+commit|저지르다|고등
+commission|위원회|고등
+committee|위원회|중등
+commodity|상품|고등
+common|흔한|중등
+communicate|의사소통하다|중등
+communication|의사소통|고등
+communist|공산주의자|고등
+community|공동체|중등
+companion|동반자|고등
+company|회사|초등
+compare|비교하다|중등
+compatible|호환되는|고등
+compel|강요하다|고등
+compensate|보상하다|고등
+compete|경쟁하다|고등
+competent|유능한|고등
+compile|편집하다|고등
+complain|불평하다|중등
+complement|보완하다|고등
+complete|완성하다|중등
+complex|복잡한|중등
+complexity|복잡성|고등
+complicate|복잡하게 하다|중등
+component|부품|고등
+compose|구성하다|고등
+compound|화합물|고등
+comprehend|이해하다|고등
+comprehensive|포괄적인|고등
+comprise|~으로 구성되다, 포함하다|고등
+compromise|타협하다; 타협|고등
+compute|계산하다|초등
+computer|컴퓨터|고등
+conceal|숨기다, 감추다|고등
+conceive|상상하다; 임신하다|고등
+concentrate|집중하다; 농축하다|중등
+concept|개념|중등
+concern|걱정시키다; 관심사|중등
+concert|콘서트; 조화|중등
+conclude|결론 내리다; 끝내다|고등
+concrete|구체적인; 콘크리트|고등
+condemn|비난하다; 선고하다|고등
+condition|조건; 상태|초등
+conduct|수행하다; 행동|고등
+confer|협의하다; 수여하다|고등
+confess|고백하다, 인정하다|고등
+confide|털어놓다|고등
+confident|자신감 있는, 확신하는|고등
+confine|가두다; 제한하다|고등
+confirm|확인하다, 확정하다|중등
+conflict|갈등, 충돌; 충돌하다|중등
+conform|따르다, 순응하다|고등
+confront|직면하다, 맞서다|고등
+confuse|혼란시키다, 혼동하다|중등
+congratulate|축하하다|초등
+congress|의회, 국회|고등
+connect|연결하다|중등
+conscience|양심|고등
+conscious|의식하는, 지각하는|중등
+consent|동의하다; 동의|고등
+conserve|보존하다, 보호하다|고등
+consider|고려하다, 여기다|중등
+consist|~으로 구성되다|고등
+consistent|일관된, 모순 없는|고등
+constant|끊임없는; 불변의|중등
+constitute|구성하다; 설립하다|고등
+constitution|헌법; 구성|고등
+constrain|강요하다; 제한하다|고등
+construct|건설하다, 구성하다|고등
+construction|건설; 건축물|고등
+consult|상담하다; 참고하다|고등
+consume|소비하다, 소모하다|중등
+consumer|소비자|고등
+consumption|소비, 소모|고등
+contact|접촉; 연락하다|중등
+contain|포함하다, 함유하다|중등
+contemporary|현대의; 동시대의|고등
+contend|다투다; 주장하다|고등
+content|내용물; 만족하는|중등
+contest|경쟁, 대회|중등
+context|문맥, 상황|중등
+continent|대륙|고등
+continue|계속하다, 지속하다|중등
+contract|계약, 계약하다; 수축하다|중등
+contradict|반박하다, 모순되다|고등
+contrary|반대의, 반대|고등
+contrast|대조, 대조하다|고등
+contribute|기여하다, 공헌하다|중등
+control|통제하다, 통제|초등
+controversy|논쟁, 논란|고등
+convene|소집하다, 모이다|고등
+convenient|편리한|고등
+convention|관습, 회의, 협약|고등
+converse|대화하다, 정반대의|중등
+conversation|대화|고등
+convert|전환하다, 개조하다|고등
+convey|전달하다, 운반하다|고등
+convict|유죄를 선고하다, 죄수|고등
+convince|설득하다, 납득시키다|중등
+cook|요리하다, 요리사|초등
+cookie|쿠키|초등
+cooky|쿠키|초등
+cool|시원한, 멋진, 식히다|초등
+cooperate|협력하다, 협동하다|고등
+coordinate|조정하다, 조율하다; 좌표|고등
+cop|경찰관|중등
+cope|대처하다|중등
+copy|복사하다, 복사본|중등
+copyright|저작권|고등
+cord|끈, 코드|고등
+core|핵심, 중심|고등
+corn|옥수수|고등
+corner|모퉁이, 구석|초등
+corporate|기업의, 회사의|고등
+corporation|기업, 법인|고등
+correct|정확한, 수정하다|중등
+correspond|일치하다, 서신을 주고받다|고등
+corridor|복도|고등
+corrupt|부패한, 부패시키다|고등
+cost|비용, 비용이 들다|초등
+costume|의상, 복장|고등
+cottage|오두막집|중등
+cotton|면, 목화|중등
+cough|기침, 기침하다|중등
+could|~할 수 있었다, ~할 수도 있다|초등
+council|협의회, 의회|중등
+counsel|상담, 조언, 상담하다|고등
+count|세다, 계산하다, 수|중등
+discount|할인, 할인하다|고등
+counter|계산대, 반대하다|고등
+counterpart|상대방, 대응물|고등
+country|나라, 시골|초등
+countryside|시골|중등
+county|카운티|중등
+couple|한 쌍, 두 명, 커플|초등
+coupon|쿠폰|고등
+courage|용기|고등
+discourage|낙담시키다, 단념시키다|고등
+encourage|격려하다, 장려하다|고등
+course|과정, 코스, 강좌|초등
+court|법원, 코트, 궁정|초등
+cousin|사촌|초등
+cover|덮다, 씌우다, 표지, 덮개|초등
+discover|발견하다|고등
+cow|암소|초등
+crack|금, 균열, 깨다, 갈라지다|중등
+craft|공예, 기술, 선박|고등
+crash|충돌하다, 추락하다, 충돌, 추락|중등
+crawl|기어가다|중등
+crayon|크레용|초등
+craze|열풍, 유행|고등
+crazy|미친, 제정신이 아닌|고등
+cream|크림, 최상급|초등
+create|창조하다, 만들다|중등
+creature|생물, 동물|고등
+credible|믿을 수 있는, 신뢰할 수 있는|고등
+incredible|믿을 수 없는, 엄청난|고등
+credit|신용, 학점, 칭찬|중등
+creep|살금살금 움직이다, 기어가다|고등
+crew|승무원, 팀|고등
+crime|범죄|중등
+criminal|범죄자, 형사상의|고등
+crisis|위기|중등
+crisp|바삭바삭한, 선명한|중등
+criterion|기준, 척도|고등
+critic|비평가, 비판자|고등
+criticize|비판하다, 비평하다|고등
+criticise|비판하다, 비평하다|고등
+criticism|비판, 비평|고등
+crop|작물, 수확물|고등
+cross|횡단하다, 건너다, 십자가|초등
+crowd|군중, 무리, 붐비다|중등
+crown|왕관, 즉위시키다|중등
+crucial|결정적인, 매우 중요한|고등
+cruel|잔인한, 잔혹한|중등
+cruise|유람선 여행, 순항하다|고등
+crush|으깨다, 반하다, 혼잡|고등
+cry|울다, 외치다, 울음|초등
+crystal|크리스털, 수정, 명백한|고등
+cultivate|경작하다, 재배하다|고등
+culture|문화|초등
+cup|컵|초등
+cure|치료하다, 치료법|중등
+curious|호기심이 많은|중등
+curiosity|호기심|고등
+curl|곱슬거리다, 곱슬머리|중등
+currency|통화|고등
+current|현재의, 현재, 해류|중등
+curriculum|교육과정, 커리큘럼|고등
+curry|카레|고등
+curse|저주하다, 욕하다, 저주|고등
+curtain|커튼|초등
+curve|곡선, 구부러지다|고등
+custody|양육권, 보호|고등
+custom|관습, 풍습|고등
+customer|손님, 고객|초등
+cut|자르다, 베다, 삭감하다|초등
+cute|귀여운|중등
+cycle|순환, 주기, 자전거|중등
+recycle|재활용하다|고등
+cyclist|자전거 타는 사람, 사이클 선수|고등
+cynical|냉소적인|고등
+dairy|낙농업의, 유제품|고등
+damage|손상시키다, 손상|중등
+damp|축축한, 축축하게 하다|고등
+dance|춤추다, 춤|초등
+danger|위험|초등
+dare|감히 ~하다, 도전하다|중등
+dark|어두운, 어둠|초등
+darling|사랑스러운 사람, 자기|중등
+dash|돌진하다, 질주, 약간|고등
+database|데이터베이스|고등
+date|날짜, 데이트, 대추야자|초등
+datum|자료, 데이터(단수형)|고등
+data|자료, 데이터(복수형)|고등
+daughter|딸|초등
+dawn|새벽, 동이 트다|중등
+day|날, 낮|초등
+dead|죽은|초등
+deal|다루다, 거래, 양|중등
+death|죽음|초등
+debate|토론하다, 토론|중등
+debt|빚|중등
+decade|10년|고등
+decay|부패하다, 쇠퇴하다, 부패|고등
+decent|괜찮은, 품위 있는|고등
+decide|결정하다|초등
+decision|결정|고등
+deck|갑판, 마루, 카드 한 벌|중등
+declare|선언하다, 공표하다|고등
+decline|감소하다, 거절하다, 쇠퇴하다|고등
+declension|(명사·대명사·형용사의) 어미 변화, 굴절|고등
+decorate|장식하다, 꾸미다|중등
+decrease|감소하다, 줄다|고등
+dedicate|헌신하다, 바치다|고등
+deep|깊은|초등
+defeat|패배시키다, 이기다, 패배|고등
+defend|방어하다, 변호하다|고등
+defendant|피고인|고등
+defense|방어, 수비, 변호|중등
+defence|방어, 수비, 변호|중등
+deficiency|부족, 결핍|고등
+deficit|적자, 부족액|고등
+define|정의하다, 규정하다|중등
+definite|명확한, 확실한|중등
+degree|정도, 학위, 도|중등
+delay|지연시키다, 연기하다, 지연|중등
+delegate|대표자, 위임하다|고등
+delete|삭제하다|고등
+deliberate|고의적인, 신중한, 숙고하다|고등
+delicate|섬세한, 미묘한, 연약한|고등
+delicious|맛있는|초등
+delight|기쁨, 즐거움, 기쁘게 하다|중등
+deliver|배달하다, 전달하다, (연설 등을) 하다|중등
+demand|요구하다, 수요, 요구|중등
+democracy|민주주의|고등
+democrat|민주주의자, 민주당원|고등
+demon|악마|고등
+demonstrate|시위하다, 입증하다, 보여주다|중등
+dense|밀집한, 빽빽한, (머리가) 둔한|고등
+dentist|치과의사|중등
+deny|부인하다, 거부하다|중등
+depart|출발하다, 떠나다|고등
+department|부서, 학과, 매장|고등
+departure|출발|고등
+depend|의존하다, ~에 달려있다|중등
+dependence|의존, 의존성|고등
+independent|독립적인|고등
+depict|묘사하다, 그리다|고등
+deposit|예금하다, 놓다, 보증금, 예금|고등
+depress|우울하게 하다, 불경기로 만들다|중등
+deprive|박탈하다, 빼앗다|고등
+derive|~에서 얻다, 유래하다|고등
+descend|내려가다, 하강하다|고등
+describe|묘사하다, 설명하다|중등
+description|묘사, 설명|고등
+desert|사막, 버리다|중등
+deserve|~할 가치가 있다, ~을 받을 만하다|중등
+design|디자인하다, 설계하다, 디자인, 설계|초등
+designate|지정하다, 지명하다|고등
+desire|욕구, 열망; 바라다|중등
+desk|책상|초등
+despair|절망; 절망하다|고등
+desperate|필사적인, 절망적인|중등
+despite|~에도 불구하고|중등
+destine|운명 짓다|고등
+destination|목적지|고등
+destiny|운명|고등
+destroy|파괴하다|중등
+destruct|파괴하다, 자폭하다|고등
+destruction|파괴|고등
+detach|떼어내다, 분리하다|고등
+detail|세부 사항; 자세히 설명하다|중등
+detect|감지하다, 발견하다|중등
+determine|결정하다, 결심하다|중등
+develop|개발하다, 발전시키다|중등
+device|장치, 기기|고등
+devil|악마|고등
+devise|고안하다, 궁리하다|고등
+devote|바치다, 헌신하다|고등
+diabetes|당뇨병|고등
+dialogue|대화|초등
+dialog|대화|초등
+diary|일기|중등
+dictate|지시하다, 받아쓰게 하다|고등
+dictionary|사전|중등
+die|죽다|초등
+diet|식단, 다이어트|중등
+differ|다르다, 의견을 달리하다|고등
+different|다른|고등
+difficult|어려운|초등
+dig|(땅을) 파다|중등
+dignity|위엄, 품위|고등
+dimension|차원, 치수|고등
+diminish|줄어들다, 감소시키다|고등
+dine|식사하다|고등
+dinner|저녁 식사|초등
+dip|(액체에) 살짝 담그다|고등
+diplomat|외교관|고등
+direct|직접적인; 지시하다|중등
+dirt|흙, 먼지|중등
+dirty|더러운|고등
+disappoint|실망시키다|중등
+disaster|재난, 참사|고등
+disc|원반, 디스크|중등
+disk|원반, 디스크|고등
+discipline|훈련, 규율; 훈련하다|중등
+discourse|담론, 담화|고등
+discriminate|차별하다, 구별하다|고등
+discuss|토론하다|초등
+disgust|혐오감|중등
+dish|접시|중등
+dismiss|해고하다|고등
+display|전시하다|중등
+dispute|논쟁|고등
+disrupt|방해하다|고등
+distance|거리|중등
+distinct|뚜렷한|고등
+distinguish|구별하다|고등
+distort|왜곡하다|고등
+distract|주의를 흩뜨리다|고등
+distribute|분배하다|고등
+district|구역|중등
+disturb|방해하다|중등
+dive|다이빙하다|중등
+diverse|다양한|고등
+divide|나누다|중등
+divine|신성한|고등
+divorce|이혼|중등
+doctor|의사|초등
+document|문서|중등
+dog|개|초등
+doll|인형|초등
+dolphin|돌고래|중등
+domain|영역|고등
+domestic|국내의|중등
+dominate|지배하다|고등
+dominant|지배적인|고등
+donate|기부하다|중등
+door|문|초등
+dose|복용량|고등
+dot|점|고등
+double|두 배의|초등
+doubt|의심|중등
+doughnut|도넛|초등
+down|아래로|초등
+dozen|12개|중등
+draft|초안|고등
+drag|끌다|중등
+drain|배수하다|고등
+drama|드라마|중등
+draw|그리다|초등
+drawer|서랍|고등
+dread|두려움|고등
+dream|꿈|초등
+dress|옷|초등
+drill|훈련|고등
+drink|마시다|초등
+drive|운전하다|초등
+drop|떨어뜨리다|초등
+drown|물에 빠져 죽다|고등
+drug|약|중등
+drum|드럼|초등
+dry|마른|초등
+dual|이중의|고등
+duck|오리|초등
+due|만기가 된|중등
+dull|따분한|고등
+dump|버리다|중등
+during|~동안에|초등
+dust|먼지|중등
+duty|의무|중등
+dwell|살다|고등
+dynamic|역동적인|고등
+each|각각|중등
+eager|열렬한|고등
+ear|귀|초등
+early|일찍|초등
+earn|벌다|중등
+earth|지구|초등
+ease|편안함|중등
+disease|질병|고등
+easy|쉬운|고등
+east|동쪽|초등
+eat|먹다|초등
+economy|경제|중등
+edge|가장자리|중등
+edit|편집하다|중등
+educate|교육하다|중등
+effect|효과|중등
+effective|효과적인|고등
+efficient|효율적인|고등
+effort|노력|중등
+egg|달걀|초등
+eight|여덟|초등
+either|둘 중 하나|중등
+elaborate|정교한|고등
+elect|선출하다|중등
+electric|전기의|중등
+electronic|전자의|고등
+elegant|우아한|고등
+element|요소|중등
+elementary|기본적인|고등
+elephant|코끼리|초등
+elevate|승진시키다|고등
+elevator|엘리베이터|고등
+eleven|열하나|초등
+eliminate|제거하다|고등
+elite|엘리트|고등
+else|다른, 그 밖의|중등
+embarrass|당황하게 하다, 난처하게 하다|중등
+embassy|대사관|고등
+embrace|포옹하다, 받아들이다|고등
+emerge|나타나다, 출현하다|고등
+emergence|출현, 발생|고등
+emergency|비상사태, 응급|고등
+emit|방출하다, 내뿜다|고등
+emission|배출, 방출|고등
+emotion|감정, 정서|중등
+emphasis|강조, 주안점|고등
+emphasize|강조하다, 역설하다|중등
+empire|제국|중등
+employ|고용하다, 사용하다|중등
+empty|비어 있는, 비우다|중등
+encounter|마주치다, 접하다|고등
+end|끝, 끝내다|초등
+endure|견디다, 참다|고등
+enemy|적, 원수|중등
+energy|에너지, 활력|초등
+engage|참여하다, 약혼하다|중등
+engine|엔진, 기관차|중등
+engineer|기술자, 공학자|중등
+enhance|향상시키다, 높이다|고등
+enormous|거대한, 엄청난|중등
+enough|충분한, 충분히|초등
+enter|들어가다, 입력하다|초등
+enterprise|기업, 사업|고등
+entertain|즐겁게 하다, 대접하다|중등
+enthusiastic|열정적인, 열광적인|고등
+entire|전체의, 모든|중등
+entry|입장, 출입, 항목|고등
+envelope|봉투|중등
+environ|둘러싸다|고등
+environment|환경|고등
+envy|부러움, 부러워하다|고등
+equal|같은, 동등한, ~와 같다|중등
+equip|장비를 갖추다|고등
+equipment|장비, 용품|고등
+era|시대, 시기|고등
+erase|지우다|고등
+eraser|지우개|고등
+erect|세우다, 직립한|고등
+err|실수하다, 틀리다|고등
+error|오류, 실수|고등
+escape|탈출하다, 도망치다|중등
+especial|특별한|중등
+especially|특히|고등
+essay|수필, 논문|중등
+essence|본질, 정수|고등
+essential|본질적인, 필수적인|고등
+establish|설립하다, 확립하다|중등
+estate|재산, 부동산|고등
+estimate|추정하다, 평가하다|중등
+ethic|윤리, 도덕|고등
+ethical|윤리적인, 도덕적인|고등
+ethnic|민족의, 인종의|고등
+evacuate|대피시키다, 비우다|고등
+evaluate|평가하다, 감정하다|고등
+even|~조차도, 평평한, 균등한|중등
+evening|저녁, 밤|초등
+event|사건, 행사|중등
+eventually|결국, 마침내|고등
+ever|늘, 언제나, 한번이라도|중등
+every|모든, 각 ~|초등
+evidence|증거, 흔적|중등
+evil|악, 사악한|중등
+evitable|피할 수 있는|고등
+inevitable|피할 수 없는, 불가피한|고등
+evolution|진화, 발전|고등
+evolve|진화하다, 발전하다|고등
+exact|정확한, 정밀한|중등
+exaggerate|과장하다|고등
+examine|조사하다, 검사하다|중등
+examination|시험, 검사|고등
+exam|시험|고등
+example|예, 본보기|초등
+exceed|초과하다, 능가하다|고등
+excel|뛰어나다, 탁월하다|고등
+excellent|훌륭한, 탁월한|고등
+except|~을 제외하고|중등
+excess|초과, 과도함|고등
+exchange|교환하다, 환전하다|중등
+excite|흥분시키다, 자극하다|중등
+exclude|제외하다, 배제하다|고등
+exclusive|독점적인, 배타적인|고등
+excuse|변명, 용서하다|중등
+executive|임원, 경영진, 실행의|고등
+exercise|운동, 연습, 운동하다|초등
+exhaust|지치게 하다, 다 써버리다|중등
+exhibit|전시하다, 전시품|고등
+exist|존재하다, 실재하다|중등
+exit|출구, 나가다|중등
+exotic|이국적인, 외래의|고등
+expand|확장하다, 확대하다|중등
+expect|기대하다, 예상하다|중등
+expense|비용, 지출|중등
+expensive|비싼, 돈이 많이 드는|고등
+experience|경험, 경험하다|중등
+experiment|실험, 실험하다|중등
+expert|전문가|중등
+expertise|전문 지식|고등
+explain|설명하다|중등
+explicit|명백한, 분명한|고등
+explode|폭발하다|고등
+explore|탐험하다, 탐구하다|고등
+export|수출하다, 수출|고등
+expose|노출시키다, 드러내다|중등
+express|표현하다, 급행|중등
+extend|확장하다, 연장하다|중등
+extent|정도, 범위|고등
+external|외부의|고등
+extinct|멸종된|고등
+extra|여분의, 추가의|중등
+extract|추출하다, 발췌하다|고등
+extraordinary|비범한, 특별한|고등
+extreme|극도의, 극심한|중등
+eye|눈|초등
+eyebrow|눈썹|고등
+fabric|직물, 천|고등
+face|얼굴, 직면하다|초등
+facilitate|용이하게 하다, 촉진하다|고등
+facility|시설, 재능|고등
+fact|사실|초등
+factual|사실에 기반을 둔|고등
+factor|요인, 요소|중등
+factory|공장|중등
+faculty|교수진, 능력|고등
+fade|희미해지다, 사라지다|고등
+fail|실패하다|초등
+faint|희미한, 기절하다|중등
+fair|공정한, 박람회|중등
+faith|신념, 믿음|중등
+fall|떨어지다, 가을|초등
+false|거짓된, 틀린|고등
+fame|명성|고등
+famous|유명한|고등
+familiar|익숙한, 친숙한|중등
+family|가족|초등
+fan|팬, 부채|초등
+fancy|화려한, 공상하다|중등
+fantastic|환상적인, 멋진|중등
+far|먼, 멀리|초등
+fare|요금|고등
+farm|농장, 경작하다|초등
+fascinate|매료시키다|중등
+fashion|유행, 패션|중등
+fast|빠른, 빨리|초등
+fasten|매다, 고정시키다|고등
+fat|뚱뚱한, 지방|초등
+fate|운명|고등
+fatal|치명적인|고등
+father|아버지|초등
+dad|아빠|고등
+daddy|아빠|고등
+fault|잘못|중등
+favor|호의|중등
+favour|호의|중등
+favorite|가장 좋아하는|초등
+favourite|가장 좋아하는|초등
+fear|두려움|중등
+feature|특징|중등
+federal|연방의|고등
+fee|요금|중등
+feed|먹이를 주다|중등
+feel|느끼다|초등
+fellow|동료|중등
+female|여성의|중등
+fence|울타리|중등
+ferry|나룻배|고등
+fertile|비옥한|고등
+festival|축제|초등
+fever|열|중등
+few|몇몇의|중등
+fiber|섬유|고등
+fibre|섬유|고등
+fiction|소설|고등
+field|들판|초등
+fierce|맹렬한|고등
+fight|싸움|초등
+figure|숫자|중등
+file|파일|초등
+fill|채우다|초등
+film|영화|초등
+filter|필터|고등
+final|최종의|중등
+finance|재정|중등
+find|찾다|초등
+fine|좋은|초등
+finger|손가락|초등
+finish|끝내다|초등
+finite|유한한|고등
+fire|불|초등
+firm|회사|중등
+first|첫 번째의|초등
+fish|물고기|초등
+fit|적합한|중등
+five|다섯|초등
+fix|고치다|초등
+flag|깃발|중등
+flame|불꽃,화염|중등
+flash|번쩍임,섬광|중등
+flat|평평한,납작한|중등
+flavor|맛,풍미|고등
+flavour|맛,풍미|고등
+flaw|결점,흠|고등
+flee|도망치다|고등
+flesh|살,육체|고등
+flexible|유연한,융통성 있는|고등
+flight|비행,항공편|중등
+flip|휙 뒤집다|고등
+float|(물에) 뜨다|중등
+flock|떼,무리|고등
+flood|홍수,범람하다|중등
+floor|바닥,층|초등
+flourish|번성하다,번창하다|고등
+flow|흐름,흐르다|중등
+flower|꽃,피다|초등
+flush|(얼굴이) 붉어지다,물을 쏟아 씻다|고등
+fly|날다,파리|초등
+focus|초점,집중하다|초등
+fog|안개|중등
+fold|접다,주름|중등
+folk|사람들,민속의|중등
+follow|따르다,뒤를 잇다|중등
+fond|좋아하는,애정 어린|고등
+food|음식|초등
+fool|바보,속이다|초등
+foot|발,피트|초등
+football|축구|초등
+forbid|금지하다|고등
+force|힘,강요하다|중등
+enforce|(법 등을) 시행하다,집행하다|고등
+forecast|예보하다,예측하다|고등
+forehead|이마|고등
+foreign|외국의,이질적인|중등
+forest|숲,삼림|초등
+forever|영원히|중등
+forget|잊다,망각하다|초등
+forgive|용서하다|중등
+fork|포크,갈래|초등
+form|형태,양식|초등
+formal|공식적인,격식 있는|고등
+formation|형성,대형|고등
+informal|비공식적인,격식 없는|고등
+format|형식,포맷|고등
+former|이전의,예전의|고등
+formula|공식,방식|고등
+forth|앞으로,나아가|중등
+fortunate|운 좋은,다행스러운|중등
+fortune|재산, 운|중등
+forward|앞으로, 앞쪽으로|중등
+foster|양육하다, 육성하다|고등
+found|설립하다|중등
+foundation|토대, 재단, 기초|고등
+fountain|분수|고등
+four|넷, 4|초등
+fox|여우|초등
+fraction|부분, 분수|고등
+frame|틀, 액자|중등
+framework|틀, 뼈대, 체계|고등
+frankly|솔직히|중등
+free|자유로운, 무료의|초등
+freeze|얼다, 냉동하다|중등
+frequent|잦은, 빈번한|고등
+fresh|신선한|초등
+friend|친구|초등
+friendship|우정|고등
+fright|공포, 섬뜩함|중등
+frog|개구리|중등
+front|앞, 정면|초등
+frost|서리|고등
+frown|찡그리다, 찌푸리다|고등
+fruit|과일|초등
+frustrate|좌절시키다|중등
+fry|튀기다, 볶다|중등
+fuel|연료|고등
+fulfil|이행하다, 성취하다|고등
+full|가득 찬, 완전한|초등
+fun|재미|초등
+function|기능, 역할|중등
+fund|기금, 자금|중등
+fundamental|근본적인, 기본적인|고등
+funeral|장례식|고등
+fur|털, 모피|중등
+furnish|비치하다, 공급하다|고등
+furniture|가구|중등
+furthermore|더욱이, 게다가|고등
+fury|격분, 분노|고등
+furious|몹시 화난, 맹렬한|고등
+fuse|퓨즈, 녹이다|고등
+future|미래|초등
+gain|얻다, 이익|중등
+gallery|화랑, 미술관|고등
+gamble|도박하다, 도박|고등
+game|게임, 경기|초등
+gang|갱단, 무리|고등
+gap|틈, 간격|고등
+garage|차고|중등
+garden|정원|초등
+gas|가스, 기체, 휘발유|초등
+gasoline|휘발유|고등
+petrol|휘발유|고등
+gate|문, 출입구|중등
+gather|모으다, 모이다|중등
+gaze|응시하다, 바라보다|고등
+gear|장비, 기어|중등
+gender|성별|고등
+gene|유전자|고등
+genetic|유전의, 유전학의|고등
+general|일반적인, 전반적인, 장군|중등
+generate|생성하다, 발생시키다|고등
+generation|세대, 발생|고등
+generous|관대한, 후한|고등
+genius|천재|고등
+gentle|온화한, 부드러운|중등
+gentleman|신사|초등
+genuine|진짜의, 진정한|고등
+geography|지리, 지리학|고등
+geology|지질학|고등
+gesture|제스처, 몸짓|중등
+get|얻다, 받다, 되다|초등
+ghost|유령, 귀신|중등
+giant|거인, 거대한|중등
+gift|선물, 재능|중등
+giraffe|기린|중등
+girl|소녀, 여자아이|초등
+give|주다|초등
+glad|기쁜|초등
+glance|흘긋 보다, 흘긋 봄|중등
+glare|노려보다, 번쩍이는 빛|고등
+glass|유리, 유리잔, 안경|초등
+globe|지구, 구|고등
+global|세계적인, 지구상의|고등
+glory|영광|중등
+glove|장갑|중등
+glow|빛나다, 빛|고등
+glue|풀, 접착제|중등
+goal|목표, 골|초등
+goat|염소|고등
+god|신|초등
+gold|금, 황금|초등
+golf|골프|중등
+good|좋은, 선|초등
+goods|상품, 물품|고등
+goodbye|안녕, 작별|초등
+bye|안녕, 작별|고등
+gorgeous|멋진, 화려한|중등
+govern|통치하다, 다스리다|중등
+government|정부|고등
+grab|잡다|중등
+grace|우아함|중등
+grade|학년, 등급|중등
+gradual|점진적인|고등
+graduate|졸업하다|고등
+grain|곡물|고등
+grand|웅장한|중등
+grandfather|할아버지|초등
+grant|승인하다, 주다|중등
+grape|포도|초등
+graph|그래프|중등
+graphic|그래픽의|고등
+grasp|붙잡다, 이해하다|고등
+grass|풀|초등
+grateful|감사하는|고등
+grave|무덤, 심각한|고등
+gray|회색|초등
+grey|회색|초등
+great|위대한, 훌륭한|초등
+greed|탐욕|고등
+green|초록색|초등
+greet|인사하다|중등
+grief|슬픔|고등
+grip|붙잡음, 파악|고등
+grocery|식료품|중등
+gross|총계의, 역겨운|고등
+ground|땅, 바닥|초등
+group|그룹|초등
+grow|자라다, 성장하다|초등
+guarantee|보증하다|중등
+guard|경비원, 지키다|중등
+guardian|보호자|고등
+guess|추측하다|초등
+guest|손님|중등
+guide|안내하다, 안내자|중등
+guideline|지침|고등
+guilt|죄책감|중등
+guilty|유죄의|고등
+guitar|기타|초등
+gulf|만(灣)|고등
+gum|껌, 잇몸|초등
+gun|총|중등
+guy|남자, 녀석|초등
+gymnasium|체육관|고등
+gym|체육관|고등
+habit|습관|초등
+habitat|서식지|고등
+hair|머리카락|초등
+half|절반|중등
+hall|복도, 홀|중등
+halt|멈추다, 중단, 정지|고등
+hamburger|햄버거|초등
+hammer|망치, 망치로 치다|고등
+hand|손, 건네주다|초등
+handicap|장애, 불리한 조건, 불리하게 만들다|고등
+handle|다루다, 처리하다, 손잡이|중등
+handsome|잘생긴, 상당한|중등
+hang|매달다, 걸다, 교수형에 처하다|초등
+happen|발생하다, 일어나다|중등
+happy|행복한, 기쁜|초등
+harbor|항구, 숨겨주다, (생각 등을) 품다|고등
+harbour|항구, 숨겨주다, (생각 등을) 품다|고등
+hard|단단한, 어려운, 열심히|초등
+hardly|거의 ~않다, 간신히|고등
+harm|해를 끼치다, 해악|중등
+harmony|조화, 화합|고등
+harmonious|조화로운, 화목한|고등
+harsh|가혹한, 혹독한|고등
+harvest|수확, 수확하다|고등
+hat|모자|초등
+hate|미워하다, 싫어하다, 증오|초등
+haunt|(귀신이) 출몰하다, 뇌리에서 떠나지 않다|고등
+hazard|위험, 위험 요소|고등
+head|머리, 우두머리, 향하다|초등
+headquarters|본부, 본사|고등
+heal|치유하다, 낫다|고등
+health|건강|중등
+healthy|건강한|고등
+hear|듣다|중등
+heart|심장, 마음|초등
+heat|열, 뜨겁게 하다, 가열하다|초등
+heaven|천국, 하늘|중등
+heavy|무거운, 심한|초등
+heel|발뒤꿈치, 뒤축|고등
+height|높이, 키, 절정|중등
+heir|상속인, 후계자|고등
+helicopter|헬리콥터|중등
+hell|지옥|중등
+hello|안녕하세요, 여보세요|초등
+hey|이봐, 저기|초등
+helmet|헬멧|초등
+help|돕다, 도움|초등
+hence|그러므로, 따라서|고등
+here|여기, 이곳|초등
+heritage|유산|고등
+hero|영웅|초등
+hesitate|망설이다, 주저하다|중등
+hide|숨기다, 숨다, 가죽|중등
+hierarchy|계급, 계층|고등
+high|높은, 고도의, 최고조의|초등
+highlight|강조하다, 하이라이트|고등
+highway|고속도로|중등
+hike|도보여행, 하이킹|초등
+hill|언덕|초등
+hint|힌트, 암시|중등
+hire|고용하다, 빌리다|중등
+history|역사|초등
+hit|치다, 때리다|초등
+hobby|취미|초등
+hold|잡다, 들다, 개최하다|초등
+hole|구멍|중등
+holiday|휴일, 방학|초등
+holy|신성한, 성스러운|고등
+home|집, 가정|초등
+homework|숙제|초등
+honest|정직한|초등
+honey|꿀, 여보|중등
+honor|명예, 존경하다|중등
+honour|명예, 존경하다|중등
+hook|갈고리, 걸다|고등
+hope|희망, 바라다|초등
+horizon|수평선, 지평선|고등
+horror|공포, 공포심|고등
+horse|말|초등
+hospital|병원|초등
+host|주인, 진행자, 주최하다|고등
+hostile|적대적인|고등
+hot|뜨거운, 더운|초등
+hotel|호텔|중등
+hour|시간|초등
+house|집, 주택|초등
+household|가정, 가구|고등
+however|하지만, 그러나|초등
+hug|포옹, 껴안다|중등
+huge|거대한, 엄청난|중등
+human|인간, 사람|초등
+humor|유머|중등
+humour|유머|중등
+hundred|백|초등
+hunger|굶주림, 배고픔|중등
+hungry|배고픈|고등
+hunt|사냥하다, 사냥|초등
+hurry|서두르다, 서두름|초등
+hurt|다치게 하다, 아프다|중등
+husband|남편|초등
+hut|오두막|고등
+hypothesis|가설|고등
+ice|얼음|초등
+idea|생각, 아이디어|초등
+ideal|이상적인, 이상|고등
+identical|동일한|고등
+identity|정체성|중등
+identify|확인하다|고등
+ideology|이념|고등
+ignore|무시하다|중등
+ill|아픈|중등
+illude|착각하게 하다|고등
+illusion|환상|고등
+illustrate|설명하다|중등
+image|이미지|초등
+imagine|상상하다|중등
+imitate|모방하다|고등
+immediate|즉각적인|중등
+immense|막대한|고등
+immigrate|이민 오다|고등
+immune|면역의|고등
+impact|영향|고등
+imperial|제국의|고등
+implement|실행하다|고등
+imply|암시하다|고등
+import|수입하다|고등
+importance|중요성|고등
+important|중요한|고등
+impose|부과하다|고등
+impress|깊은 인상을 주다|중등
+improve|개선하다|중등
+incentive|장려금|고등
+incident|사건|고등
+incline|경사지다|고등
+include|포함하다|중등
+income|수입|중등
+incorporate|포함하다|고등
+increase|증가하다|중등
+indeed|정말로|중등
+index|지수|고등
+indicate|나타내다|중등
+individual|개인|중등
+induce|유도하다|고등
+industry|산업|중등
+infant|유아|고등
+infect|감염시키다|고등
+infer|추론하다|고등
+inference|추론|고등
+inflate|부풀리다|고등
+influence|영향|중등
+inform|알리다|중등
+ingredient|재료|고등
+inhabit|거주하다|고등
+inherent|내재하는|고등
+inhibit|억제하다|고등
+initial|처음의|고등
+inject|주사하다|고등
+injure|다치게 하다|중등
+inn|여관|고등
+innocent|무죄의|중등
+innovate|혁신하다|고등
+input|입력|고등
+inquire|문의하다|고등
+enquire|문의하다|고등
+insect|곤충|고등
+insert|삽입하다|고등
+inside|안쪽|초등
+insight|통찰력|고등
+insist|주장하다|중등
+inspect|검사하다|중등
+inspire|영감을 주다|고등
+install|설치하다|고등
+instance|사례|중등
+instant|즉각적인|중등
+instead|대신에|중등
+instinct|본능|고등
+institute|기관|고등
+institution|기관|고등
+instruct|지시하다|중등
+instrument|도구|중등
+insult|모욕하다|고등
+insure|보험에 들다|중등
+insurance|보험|고등
+integrate|통합하다|고등
+intellect|지성|고등
+intellectual|지적인|고등
+intelligent|똑똑한|고등
+intend|의도하다|중등
+intense|강렬한|중등
+intent|의도|중등
+intention|의도|고등
+interest|흥미|중등
+interfere|간섭하다|고등
+interior|내부|고등
+intermediate|중간의|고등
+internal|내부의|중등
+internet|인터넷|초등
+interpret|해석하다|고등
+interrupt|방해하다|중등
+interval|간격|고등
+intervene|개입하다|고등
+intimate|친밀한|고등
+into|~안으로|초등
+intrigue|흥미를 끌다|고등
+introduce|소개하다|초등
+invade|침략하다|고등
+invent|발명하다|중등
+inventor|발명가|고등
+invest|투자하다|중등
+investigate|조사하다|중등
+invite|초대하다|초등
+involve|관련시키다|중등
+iron|철,다리미|중등
+irony|아이러니|고등
+irritate|짜증나게 하다|고등
+island|섬|중등
+isolate|고립시키다|고등
+issue|문제,쟁점|초등
+item|항목,물품|중등
+jacket|재킷|초등
+jail|감옥|고등
+jam|잼,막히다|초등
+jar|항아리,병|고등
+jaw|턱|중등
+jeans|청바지|중등
+job|직업|초등
+jog|조깅하다|고등
+join|합류하다,연결하다|초등
+joint|관절,공동의|고등
+joke|농담|중등
+journal|일기,신문|고등
+journey|여행|중등
+joy|기쁨|중등
+enjoy|즐기다|고등
+judge|판단하다,판사|중등
+juice|주스|초등
+jump|점프하다|초등
+junior|하급의,후배|중등
+jury|배심원단|고등
+just|단지,막,정의로운|초등
+justice|정의|중등
+keen|열심인,예리한|고등
+keep|유지하다,지키다|초등
+key|열쇠,핵심|초등
+kick|차다|초등
+kid|아이|초등
+kill|죽이다|초등
+kind|친절한,종류|초등
+king|왕|초등
+kiss|키스|초등
+kit|도구 세트|고등
+kitchen|부엌|초등
+knee|무릎|중등
+knife|칼|초등
+knight|기사|고등
+knock|노크하다|중등
+knot|매듭|고등
+know|알다|초등
+knowledge|지식|중등
+label|라벨|중등
+labor|노동|중등
+labour|노동|중등
+laboratory|실험실|중등
+lab|실험실|중등
+lack|부족|중등
+ladder|사다리|고등
+lady|숙녀|초등
+lake|호수|초등
+lamb|어린 양|중등
+lamp|램프|중등
+land|땅|초등
+landscape|풍경|고등
+lane|차선|중등
+language|언어|중등
+lap|무릎|고등
+large|큰|초등
+laser|레이저|초등
+last|마지막의|초등
+late|늦은|초등
+latter|후자의|고등
+laugh|웃다|중등
+launch|발사하다|고등
+laundry|세탁물|고등
+law|법|중등
+lawn|잔디밭|중등
+lawyer|변호사|중등
+lay|놓다|중등
+layer|층|고등
+lazy|게으른|초등
+lead|이끌다|중등
+leaf|잎|중등
+league|리그|중등
+leak|새다|고등
+lean|기울다|중등
+leap|뛰어오르다|중등
+learn|배우다|초등
+lease|임대|고등
+leather|가죽|고등
+leave|떠나다|중등
+lecture|강의|고등
+left|왼쪽의|초등
+leg|다리|초등
+legal|합법적인|중등
+legend|전설|고등
+legislate|입법하다|고등
+legitimate|합법적인, 정당한|고등
+leisure|여가|고등
+lemon|레몬|중등
+lend|빌려주다|중등
+lesson|수업, 교훈|초등
+let|~하게 하다, 허락하다|중등
+letter|편지, 글자|초등
+literal|글자 그대로의, 문자의|고등
+level|수준, 단계, 평평한|중등
+liberal|자유주의의, 관대한|고등
+liberty|자유|고등
+library|도서관|초등
+license|면허, 허가|중등
+licence|면허, 허가|중등
+lid|뚜껑|중등
+lie|눕다, 거짓말하다, 거짓말|초등
+life|삶, 생명|초등
+lift|들어 올리다, 승강기|중등
+light|빛, 가벼운, 밝은|초등
+like|~처럼, 좋아하다|초등
+likely|~할 것 같은, 아마|고등
+likewise|마찬가지로|고등
+limit|한계, 제한하다|중등
+line|선, 줄|초등
+linguistic|언어의, 언어학의|고등
+link|연결하다, 연결|중등
+lion|사자|초등
+lip|입술|초등
+liquid|액체, 액체의|고등
+list|목록, 목록을 만들다|중등
+listen|듣다|초등
+literature|문학|고등
+little|작은, 적은|초등
+live|살다, 살아있는|초등
+livingroom|거실|중등
+load|짐, 싣다|중등
+loan|대출, 빌려주다|중등
+local|지역의, 현지의|중등
+locate|~의 위치를 찾다, 위치하다|중등
+lock|잠그다, 자물쇠|중등
+log|통나무, 기록하다|중등
+logic|논리|고등
+lone|혼자의, 고독한|고등
+long|긴, 오래|초등
+look|보다, ~처럼 보이다|초등
+loose|헐거운, 느슨한|중등
+lose|잃다, 지다|중등
+loss|손실, 상실|중등
+lot|많음, (추첨) 제비|중등
+loud|시끄러운, 큰 소리의|중등
+love|사랑|초등
+low|낮은|초등
+loyal|충성스러운|고등
+luck|운|초등
+lump|덩어리|고등
+lunch|점심|초등
+luxury|사치|고등
+machine|기계|중등
+mad|미친|초등
+magazine|잡지|중등
+magic|마법|중등
+magnet|자석|고등
+magnificent|웅장한|고등
+mail|우편|초등
+main|주요한|중등
+maintain|유지하다|중등
+major|주요한|중등
+majority|대다수|고등
+make|만들다|초등
+male|남성|중등
+man|남자|초등
+manage|관리하다|중등
+manifest|명백히 하다|고등
+manipulate|조작하다|고등
+manner|방식|중등
+manufacture|제조하다|중등
+many|많은|초등
+map|지도|초등
+marathon|마라톤|초등
+margin|여백|고등
+marine|해양의|고등
+mark|표시|중등
+market|시장|초등
+marry|결혼하다|초등
+marvel|경이로움|중등
+mask|마스크|중등
+mass|질량|중등
+master|달인|중등
+match|경기|중등
+mate|짝|중등
+mathematics|수학|초등
+maths|수학|초등
+math|수학|초등
+matter|문제|중등
+material|재료|고등
+mature|성숙한|고등
+maximum|최대|중등
+may|~일지도 모른다|초등
+maybe|아마|중등
+mayor|시장|고등
+meal|식사|중등
+mean|의미하다,비열한|중등
+meanwhile|한편|고등
+measure|측정하다,조치|중등
+meat|고기|초등
+mechanic|정비사|고등
+mechanism|기구,메커니즘|고등
+medal|메달|초등
+mediate|중재하다|고등
+medical|의료의|중등
+medicine|약,의학|중등
+medieval|중세의|고등
+medium|중간의,매체|고등
+media|매체,미디어|고등
+meet|만나다,충족시키다|초등
+melon|멜론|중등
+melt|녹다|중등
+member|회원,구성원|초등
+membership|회원 자격|고등
+memory|기억,메모리|초등
+mental|정신의|중등
+mention|언급하다|중등
+menu|메뉴|중등
+merchant|상인|고등
+mere|단순한,단지|고등
+merge|합병하다|고등
+merit|장점,가치|고등
+mess|엉망,혼란|중등
+message|메시지|중등
+metal|금속|중등
+method|방법|중등
+metropolitan|대도시의|고등
+microphone|마이크|고등
+microwave|전자레인지|중등
+middle|중간,가운데|초등
+might|힘|초등
+migrate|이주하다|고등
+migrant|이주자|고등
+mild|온화한,순한|고등
+military|군사의,군대|중등
+milk|우유|초등
+mill|방앗간,공장|중등
+million|백만|고등
+mind|마음,정신|초등
+mine|나의 것,광산|고등
+miner|광부|고등
+mineral|광물|고등
+minimal|최소의|고등
+minimum|최소,최소한|고등
+ministry|부처|고등
+minor|작은, 사소한|중등
+minute|분|중등
+miracle|기적|고등
+mirror|거울|중등
+miss|놓치다, 그리워하다|초등
+missile|미사일|고등
+mission|임무|중등
+mix|섞다|중등
+mobile|움직일 수 있는, 이동식의|고등
+mock|조롱하다, 흉내 내다|고등
+mode|방식, 양식|고등
+modify|수정하다, 변경하다|고등
+model|모형, 모델|초등
+moderate|적당한, 온건한|고등
+modern|현대의|중등
+modest|겸손한, 수수한|고등
+moist|축축한|고등
+moisture|습기|고등
+molecule|분자|고등
+moment|순간|중등
+money|돈|초등
+monitor|감시하다, 모니터|중등
+monkey|원숭이|초등
+monster|괴물|고등
+month|달, 개월|초등
+monument|기념비, 기념물|고등
+mood|기분, 분위기|중등
+moon|달|초등
+moral|도덕적인|중등
+moreover|게다가, 더욱이|중등
+morning|아침|초등
+mortal|죽을 운명의, 치명적인|고등
+mother|어머니|초등
+mom|엄마|고등
+mommy|엄마|고등
+motion|움직임, 동작|중등
+motive|동기|고등
+motor|모터, 발동기|중등
+mount|오르다, 설치하다|중등
+mountain|산|초등
+mouse|쥐, 마우스|초등
+mouth|입|초등
+move|움직이다, 이사하다|초등
+movie|영화|초등
+much|많은|초등
+mud|진흙|중등
+multiple|다수의, 다양한|고등
+murder|살인|고등
+muscle|근육|중등
+museum|박물관|중등
+mushroom|버섯|중등
+music|음악|초등
+must|~해야 한다|초등
+mutual|상호의|고등
+mystery|미스터리|중등
+myth|신화|고등
+nail|못|중등
+naive|순진한|고등
+naked|벌거벗은|고등
+name|이름|초등
+narrate|이야기하다|고등
+narrow|좁은|중등
+nasty|불쾌한|고등
+nation|국가|초등
+international|국제적인|고등
+native|토착의|중등
+nature|자연|초등
+navy|해군|중등
+near|가까이|초등
+neat|깔끔한|중등
+necessary|필요한|중등
+neck|목|초등
+need|필요|초등
+needle|바늘|고등
+negate|부정하다|고등
+negative|부정적인|고등
+neglect|소홀히 하다|고등
+negotiate|협상하다|고등
+neighbor|이웃|중등
+neighbour|이웃|중등
+neither|~도 ~도 아니다|중등
+nephew|남자 조카|고등
+nerve|신경|중등
+nervous|긴장한|고등
+nest|둥지|중등
+net|그물|중등
+network|네트워크|고등
+neutral|중립적인|고등
+never|결코 ~않다|초등
+nevertheless|그럼에도 불구하고|고등
+new|새로운|초등
+news|뉴스|초등
+newspaper|신문|초등
+next|다음의|초등
+nice|좋은|초등
+night|밤|초등
+nightmare|악몽|고등
+nine|아홉|초등
+nope|아니|초등
+nay|아니오|초등
+noble|고귀한, 숭고한|고등
+nod|끄덕이다, 끄덕임|고등
+noise|소음|중등
+nominate|지명하다, 추천하다|고등
+none|아무것도 ~않다, 아무도 ~않다|중등
+nonetheless|그럼에도 불구하고|고등
+noon|정오|중등
+nor|~도 또한 ~아니다|중등
+norm|규범, 기준|고등
+normal|정상적인, 보통의|고등
+north|북쪽|초등
+nose|코|초등
+note|메모, 쪽지, 주목하다, 음표|초등
+notion|개념, 생각|고등
+notebook|공책, 노트북|초등
+nothing|아무것도 ~않다, 무|초등
+notice|통지, 공지, 알아차리다|중등
+novel|소설, 새로운|고등
+now|지금, 이제|초등
+nowadays|요즘, 오늘날|중등
+nowhere|아무 데도 ~않다|중등
+nuclear|핵의, 원자력의|고등
+number|숫자, 번호, 수|초등
+numerous|수많은|고등
+nurse|간호사, 간호하다|초등
+nut|견과류|중등
+oak|참나무|중등
+obey|복종하다, 따르다|고등
+object|물체, 대상, 반대하다|중등
+objective|목표, 객관적인|고등
+oblige|의무를 지우다, 돕다|고등
+observe|관찰하다, 준수하다|중등
+obsess|~에 사로잡히다, 집착하다|고등
+obtain|얻다, 획득하다|고등
+obvious|명백한, 분명한|중등
+occasion|경우, 때, 행사|중등
+occupy|차지하다, 점령하다|고등
+occupation|직업, 점령|고등
+occur|발생하다, 일어나다|중등
+occurrence|발생, 사건|고등
+ocean|대양, 바다|중등
+odd|이상한, 홀수의|중등
+off|~에서 떨어져, ~을 벗어나|초등
+offend|불쾌하게 하다, 기분을 상하게 하다|고등
+offer|제안하다, 제공하다, 제안|중등
+office|사무실, 직무|초등
+official|공식적인, 공무원|고등
+officer|장교, 경찰관, 공무원|중등
+often|자주, 종종|초등
+oil|기름, 석유|초등
+okay|좋은, 괜찮은|초등
+okey|좋은, 괜찮은|초등
+old|늙은, 오래된|초등
+once|한 번, 언젠가|중등
+one|하나|초등
+only|오직, 유일한|초등
+open|열다, 열린|초등
+opera|오페라|중등
+operate|작동하다, 수술하다|중등
+opinion|의견|중등
+opportune|시기 적절한|고등
+opportunity|기회|고등
+oppose|반대하다|중등
+opt|선택하다|고등
+option|선택권, 옵션|고등
+optimist|낙천주의자|고등
+oral|구두의, 입의|고등
+orange|오렌지, 주황색|초등
+orbit|궤도, 궤도를 돌다|고등
+orchestra|오케스트라|고등
+order|순서, 주문, 질서|중등
+disorder|무질서, 혼란|고등
+ordinary|평범한, 보통의|중등
+organ|장기, 기관, 오르간|고등
+organic|유기농의, 유기적인|고등
+organize|조직하다, 정리하다|고등
+organise|조직하다, 정리하다|고등
+orient|동양, 지향하게 하다|고등
+orientation|지향, 오리엔테이션|고등
+origin|기원, 출신|고등
+original|원래의, 독창적인|고등
+other|다른, 그 밖의|중등
+otherwise|그렇지 않으면, 다른 방법으로|중등
+ought|~해야 한다|중등
+out|밖에, 밖으로|초등
+outcome|결과|고등
+outline|개요, 윤곽|고등
+output|생산량, 출력|고등
+outrage|격분, 분노|고등
+outstanding|뛰어난, 미결제의|고등
+oven|오븐|중등
+over|~위에, 넘어서|초등
+overall|전반적인, 전체의|중등
+overcome|극복하다|고등
+overhead|머리 위의, 간접비|고등
+overlap|겹치다, 중복되다|고등
+overlook|간과하다, 내려다보다|고등
+overnight|밤새, 하룻밤 동안|고등
+oversea|해외의|고등
+overseas|해외로, 해외의|고등
+overwhelm|압도하다|고등
+owe|빚지고 있다|고등
+own|소유하다|중등
+pace|속도|고등
+pack|싸다|중등
+pad|패드|고등
+page|페이지|초등
+pain|고통|중등
+paint|페인트|초등
+pair|한 쌍|중등
+palace|궁전|중등
+pale|창백한|고등
+palm|손바닥|고등
+pan|프라이팬|중등
+panel|패널|고등
+panic|공황|중등
+pants|바지|초등
+paper|종이|초등
+parade|퍼레이드|중등
+paragraph|단락|중등
+parallel|평행한|고등
+pardon|용서하다|중등
+parent|부모|초등
+park|공원|초등
+parliament|의회|고등
+part|부분|초등
+participate|참가하다|고등
+particle|입자|고등
+particular|특정한|중등
+particularly|특히|고등
+partner|파트너|초등
+party|파티|초등
+pass|지나가다|초등
+passage|통로|고등
+passenger|승객|고등
+passion|열정|고등
+passport|여권|고등
+past|과거|중등
+pat|쓰다듬다|고등
+patch|조각|고등
+patent|특허|고등
+path|길|중등
+patient|환자|중등
+pattern|패턴|중등
+pause|일시정지|중등
+pave|포장하다|고등
+pay|지불하다|초등
+peace|평화|중등
+peaceful|평화로운|고등
+peak|절정|고등
+pear|배|중등
+peasant|소작농|고등
+peel|껍질을 벗기다|고등
+peer|응시하다|고등
+pen|펜|초등
+penalty|벌칙|고등
+pencil|연필|초등
+people|사람들|초등
+pepper|후추|중등
+per|~당|중등
+perceive|인지하다|고등
+perception|지각|고등
+perfect|완벽한|중등
+perform|수행하다|중등
+perhaps|아마도|중등
+period|기간|중등
+permanent|영구적인|고등
+permit|허용하다|고등
+persist|고집하다|고등
+person|사람|중등
+personality|성격|고등
+perspective|관점|고등
+persuade|설득하다|고등
+pet|애완동물|중등
+phase|단계|고등
+phenomenon|현상|고등
+philosophy|철학|고등
+photograph|사진|중등
+photo|사진|중등
+phrase|구|고등
+physical|신체의|중등
+physics|물리학|고등
+piano|피아노|초등
+pick|고르다|초등
+picnic|소풍|중등
+picture|그림|초등
+pie|파이|중등
+piece|조각|중등
+pig|돼지|초등
+pile|더미|중등
+pill|알약|고등
+pilot|조종사|초등
+pin|핀|중등
+pinch|꼬집다|고등
+pine|소나무|중등
+pink|분홍색|초등
+pioneer|개척자|고등
+pipe|파이프|중등
+pitch|던지다|중등
+pity|연민|중등
+pizza|피자|초등
+place|장소|초등
+displace|대체하다|고등
+plain|평범한|중등
+plan|계획|초등
+plane|비행기|중등
+planet|행성|중등
+plant|식물|중등
+plastic|플라스틱|초등
+plate|접시|중등
+platform|플랫폼|고등
+play|놀다|초등
+please|제발|초등
+pleasant|즐거운|고등
+pleasure|기쁨|고등
+plenty|풍부|중등
+plot|줄거리|고등
+plus|더하기|중등
+pocket|주머니|중등
+poem|시|중등
+poet|시인|중등
+point|점|초등
+poison|독|중등
+pole|막대기|중등
+polar|극지의|고등
+police|경찰|초등
+policy|정책|중등
+polish|광내다|고등
+polite|공손한|중등
+politics|정치|중등
+poll|여론조사|고등
+pollute|오염시키다|중등
+pond|연못|고등
+pool|수영장|중등
+poor|가난한|초등
+pop|튀다|중등
+popular|인기 있는|중등
+populate|거주시키다|고등
+population|인구|고등
+pork|돼지고기|중등
+port|항구|중등
+portion|부분|고등
+portrait|초상화|고등
+pose|자세|고등
+dispose|배치하다|고등
+posit|가정하다|고등
+position|위치|고등
+positive|긍정적인|고등
+possess|소유하다|중등
+possible|가능한|중등
+post|게시물, 우편, 기둥, 직책|중등
+poster|포스터, 벽보|고등
+pot|냄비, 항아리, 화분|중등
+potato|감자|초등
+potential|잠재력, 가능성|중등
+pour|붓다, 따르다|중등
+powder|가루, 분말|중등
+power|힘, 권력, 전력|초등
+practical|실용적인, 실제적인|중등
+practice|연습, 실행, 관행|중등
+practise|연습하다, 실행하다|중등
+praise|칭찬, 칭찬하다|고등
+pray|기도하다|중등
+preach|설교하다, 역설하다|고등
+precede|선행하다, 앞서다|고등
+unprecedented|전례 없는, 유례없는|고등
+precise|정확한, 정밀한|고등
+predator|포식자, 약탈자|고등
+predict|예측하다, 예견하다|고등
+prefer|선호하다, 더 좋아하다|중등
+pregnant|임신한|중등
+prejudice|편견, 선입견|고등
+premium|할증료, 보험료, 고급의|고등
+prepare|준비하다|중등
+prescribe|처방하다, 규정하다|고등
+presence|존재, 있음, 참석|중등
+present|선물, 현재, 제시하다, 출석한|초등
+preserve|보존하다, 보호하다|고등
+preside|(회의 등을) 주재하다, 사회를 보다|고등
+president|대통령, 회장|고등
+press|누르다, 압력을 가하다, 언론|중등
+presume|추정하다, 가정하다|고등
+pretend|~인 척하다, 가장하다|중등
+pretty|예쁜, 꽤, 상당히|초등
+prevail|만연하다, 우세하다|고등
+prevent|막다, 예방하다|중등
+previous|이전의, 앞선|중등
+prey|먹이, 희생물|고등
+price|가격, 값|중등
+pride|자부심, 자존심|중등
+priest|사제, 성직자|고등
+prime|주요한, 최고의, 전성기|중등
+primary|주요한, 기본적인, 초등의|고등
+primitive|원시적인, 미개한|고등
+prince|왕자|초등
+principal|주요한, 교장, 원금|고등
+principle|원칙, 원리|중등
+print|인쇄하다, 출력하다, 인쇄물|초등
+prior|이전의, 앞선|고등
+prison|감옥, 교도소|중등
+privacy|사생활|중등
+private|개인적인, 사적인|중등
+privilege|특권, 특전|고등
+prize|상, 상품, 소중히 여기다|중등
+probable|있을 법한, 개연성 있는|중등
+probably|아마, 아마도|고등
+problem|문제|초등
+proceed|진행하다, 나아가다|중등
+procedure|절차, 수순|고등
+process|과정, 처리하다|중등
+produce|생산하다, 만들다, 농산물|중등
+profession|직업, 전문직|중등
+professor|교수|고등
+profile|프로필, 개요, 옆모습|고등
+profit|이익, 수익|중등
+profound|심오한, 깊은|고등
+program|프로그램, 계획|초등
+programme|프로그램, 계획|초등
+programmatic|프로그램 방식의, 계획적인|고등
+progress|진전, 발전, 진행하다|중등
+prohibit|금지하다|고등
+project|프로젝트, 계획, 예상하다|초등
+prominent|눈에 띄는, 저명한|고등
+promise|약속, 약속하다|중등
+promote|홍보하다, 승진시키다, 장려하다|중등
+prompt|즉각적인, 신속한, 촉발하다|고등
+pronounce|발음하다, 선언하다|중등
+pronunciation|발음|고등
+proof|증거, 증명|고등
+proper|적절한, 올바른|중등
+property|재산, 부동산, 속성|중등
+proportion|비율, 비례|고등
+propose|제안하다, 청혼하다|중등
+prospect|전망, 예상, 가능성|고등
+prosper|번영하다, 번창하다|고등
+protect|보호하다|중등
+protein|단백질|고등
+protest|시위, 항의, 항의하다|중등
+proud|자랑스러운|중등
+prove|증명하다, 입증하다|중등
+provide|제공하다, 공급하다|중등
+province|주, 지방|고등
+provoke|자극하다, 유발하다|고등
+psychology|심리학|고등
+pub|술집, 펍|중등
+public|공공의, 대중|중등
+publish|출판하다, 발행하다|고등
+publisher|출판사, 발행인|고등
+pull|당기다, 끌다|중등
+pump|펌프, 뿜어내다|중등
+punch|펀치, 주먹으로 치다|중등
+punish|처벌하다, 벌주다|중등
+pupil|학생, 눈동자|고등
+puppy|강아지|초등
+purchase|구매하다, 구매|중등
+pure|순수한, 깨끗한|중등
+purple|보라색, 자주색|중등
+purpose|목적, 용도|중등
+pursue|추구하다, 뒤쫓다|고등
+push|밀다, 추진하다|초등
+put|놓다, 두다|초등
+puzzle|퍼즐, 수수께끼, 당황하게 하다|중등
+quality|품질, 자질|중등
+qualify|자격을 얻다, 자격을 주다|고등
+quantity|양, 수량|고등
+quarter|4분의 1, 15분, 25센트, 지역|중등
+queen|여왕|초등
+question|질문, 문제, 질문하다|초등
+questionnaire|설문지|고등
+quick|빠른, 신속한|초등
+quiet|조용한, 고요한|초등
+quit|그만두다, 떠나다|중등
+quite|꽤, 상당히|중등
+quiz|퀴즈, 시험|초등
+quote|인용하다, 견적을 내다, 인용문|중등
+rabbit|토끼|초등
+race|경주, 인종, 경주하다|초등
+racial|인종의, 인종적인|고등
+radio|라디오, 무선 통신|초등
+rage|분노, 격노|고등
+rail|철도, 난간, 레일|중등
+rain|비, 비가 오다|초등
+rainbow|무지개|중등
+raise|올리다, 기르다, 모금하다|중등
+rally|집회, 재결집하다, 회복하다|고등
+random|무작위의, 임의의|고등
+range|범위, 사정거리, ~에 이르다|중등
+rank|계급, 순위, ~에 들다|고등
+rapid|빠른, 신속한|중등
+rare|드문, 희귀한|중등
+rat|쥐|중등
+rate|비율, 속도, 요금, 평가하다|중등
+rather|오히려, 차라리|중등
+rational|합리적인, 이성적인|고등
+raw|날것의, 가공하지 않은|고등
+reach|도달하다, 닿다|중등
+react|반응하다|중등
+read|읽다|초등
+ready|준비된, 기꺼이 ~하는|초등
+real|진짜의, 실제의|중등
+realize|깨닫다, 실현하다|고등
+realise|깨닫다, 실현하다|고등
+rear|뒤쪽, 기르다|고등
+reason|이유, 이성|중등
+reasonable|합리적인, 이성적인|고등
+rebel|반역자, 반란을 일으키다|고등
+receipt|영수증|고등
+receive|받다|중등
+reception|환영, 접수처|고등
+recent|최근의|중등
+recipe|조리법, 레시피|중등
+recognize|알아보다, 인식하다|중등
+recommend|추천하다|중등
+record|기록, 기록하다|중등
+recover|회복하다, 되찾다|중등
+recreation|오락, 여가 활동|초등
+recruit|모집하다, 신병|고등
+red|빨간, 빨간색|초등
+reduce|줄이다, 감소시키다|중등
+refer|참조하다, 언급하다|중등
+refine|정제하다, 개선하다|고등
+reflect|반사하다, 반영하다, 숙고하다|중등
+reform|개혁하다, 개혁|고등
+refrigerate|냉장하다|고등
+refrigerator|냉장고|고등
+refuse|거절하다|중등
+regard|~을 여기다, 간주하다|중등
+region|지역, 지방|중등
+register|등록하다, 등록부|중등
+regret|후회하다, 후회|고등
+regular|규칙적인, 정기적인|중등
+regulate|규제하다, 조절하다|고등
+reinforce|강화하다|고등
+reject|거절하다, 거부하다|고등
+relate|관련시키다, 이야기하다|중등
+relative|친척, 상대적인|고등
+relation|관계|고등
+relationship|관계, 인간관계|고등
+relax|쉬다, 긴장을 풀다|중등
+release|풀어주다, 공개하다, 발매|중등
+relevant|관련된, 적절한|고등
+relief|안도, 경감|중등
+relieve|완화하다, 안심시키다|고등
+religion|종교|고등
+reluctant|꺼리는, 마지못해 하는|고등
+rely|의존하다, 믿다|중등
+remain|남다, 머무르다|중등
+remark|발언, 언급하다|중등
+remedy|치료법, 해결책, 고치다|고등
+remember|기억하다|초등
+remind|상기시키다|중등
+remote|먼|고등
+remove|제거하다|중등
+rent|임대료|중등
+repair|수리하다|중등
+repeat|반복하다|중등
+replace|대체하다|중등
+reply|대답하다|중등
+report|보고하다|중등
+represent|대표하다|중등
+republic|공화국|고등
+reputation|명성|고등
+request|요청하다|중등
+require|필요로 하다|중등
+rescue|구조하다|고등
+research|연구하다|중등
+resemble|닮다|고등
+reserve|예약하다|중등
+reside|거주하다|고등
+resident|거주자|고등
+resign|사임하다|고등
+resist|저항하다|중등
+resolve|해결하다|고등
+resort|휴양지|고등
+resource|자원|중등
+respect|존경하다|중등
+respective|각각의|고등
+respond|응답하다|중등
+responsible|책임감 있는|중등
+rest|쉬다|중등
+restaurant|식당|초등
+restore|복구하다|고등
+restrain|억제하다|고등
+restrict|제한하다|고등
+restroom|화장실|초등
+result|결과|중등
+resume|재개하다|고등
+retail|소매|고등
+retain|보유하다|고등
+retire|은퇴하다|중등
+retreat|후퇴하다|고등
+return|돌아오다|초등
+reveal|드러내다|고등
+revenge|복수|고등
+reverse|뒤집다|고등
+revise|수정하다|고등
+revive|회복시키다|고등
+revolution|혁명|고등
+reward|보상|고등
+rhythm|리듬|고등
+ribbon|리본|초등
+rice|쌀, 밥|중등
+rich|부유한, 풍부한|초등
+rid|없애다, 제거하다|고등
+ride|타다, 타기|중등
+ridicule|비웃다, 조롱|고등
+ridiculous|우스꽝스러운, 어리석은|고등
+right|옳은, 오른쪽, 권리|초등
+ring|반지, 울리다|초등
+riot|폭동, 소란|고등
+rise|오르다, 상승|중등
+risk|위험, 위험을 감수하다|중등
+rival|경쟁자, 경쟁하는|고등
+river|강|초등
+road|길, 도로|초등
+roar|으르렁거리다, 함성|고등
+roast|굽다, 구운 고기|고등
+rob|강탈하다, 훔치다|중등
+robot|로봇|초등
+rock|바위, 흔들다|초등
+rocket|로켓, 치솟다|중등
+rod|막대기, 낚싯대|고등
+role|역할|중등
+roll|구르다, 두루마리|중등
+enroll|등록하다, 입학하다|고등
+enrol|등록하다, 입학하다|고등
+romantic|낭만적인|고등
+roof|지붕|중등
+room|방, 공간|초등
+root|뿌리, 근원|중등
+rope|밧줄, 끈|중등
+rose|장미|초등
+rot|썩다, 부패|고등
+rough|거친, 대략적인|중등
+round|둥근, 한 바퀴|중등
+route|경로, 노선|중등
+routine|일상적인 일, 정해진 순서|고등
+row|줄, 열, 노 젓다|중등
+royal|왕족의, 왕실의|중등
+rub|문지르다, 비비다|중등
+rubber|고무, 지우개|고등
+rude|무례한, 버릇없는|중등
+ruin|망치다, 폐허|중등
+rule|규칙, 지배하다|중등
+rumor|소문, 풍문|고등
+rumour|소문, 풍문|고등
+run|달리다, 운영하다|초등
+rural|시골의, 전원의|고등
+rush|서두르다, 돌진하다|중등
+sack|자루, 해고하다|고등
+sacred|신성한|고등
+sacrifice|희생하다|고등
+sad|슬픈|초등
+safe|안전한|초등
+sail|항해하다|중등
+salad|샐러드|초등
+salary|봉급|중등
+sale|판매|초등
+salt|소금|초등
+same|같은|초등
+sample|견본|중등
+sand|모래|초등
+sandwich|샌드위치|초등
+satellite|위성|고등
+satisfy|만족시키다|중등
+sauce|소스|중등
+save|구하다|초등
+say|말하다|초등
+scale|규모|중등
+scan|훑어보다|고등
+scandal|스캔들|고등
+scarce|부족한|고등
+scare|겁주다|중등
+scarf|스카프|중등
+scatter|흩뿌리다|고등
+scene|장면|중등
+schedule|일정|중등
+scheme|계획|고등
+scholar|학자|고등
+school|학교|초등
+science|과학|초등
+scissors|가위|초등
+scope|범위|고등
+score|점수|초등
+scramble|뒤섞다|고등
+scratch|긁다|중등
+scream|비명 지르다|중등
+screen|화면|중등
+screw|나사|고등
+sculpt|조각하다|고등
+sculpture|조각|고등
+sea|바다|초등
+seal|봉인하다|중등
+search|찾다|중등
+season|계절|초등
+seat|좌석|중등
+second|두 번째의|초등
+secondary|부차적인|고등
+secret|비밀|중등
+secretary|비서|중등
+section|부분|중등
+sector|분야|고등
+secure|안전한|중등
+see|보다|초등
+seed|씨앗|중등
+seek|찾다|중등
+seem|처럼 보이다|중등
+seize|붙잡다|고등
+select|선택하다|중등
+self|자기|중등
+sell|팔다|초등
+send|보내다|초등
+senior|선임의|중등
+sense|감각|중등
+sensation|감각|고등
+sensible|분별 있는|고등
+sentence|문장|중등
+sentiment|정서|고등
+separate|분리하다|중등
+sequence|순서|고등
+series|연속|중등
+serious|심각한|중등
+serve|봉사하다|중등
+service|서비스|초등
+session|회의|중등
+set|놓다|초등
+settle|정착하다|중등
+seven|일곱|초등
+several|몇몇의|중등
+severe|심한|고등
+sew|바느질하다|중등
+sex|성별|중등
+shade|그늘|중등
+shadow|그림자|중등
+shake|흔들다|중등
+shall|~할 것이다|중등
+shallow|얕은|고등
+shame|수치심|중등
+shape|모양|중등
+share|공유하다|중등
+sharp|날카로운|중등
+shave|면도하다|중등
+she|그녀|초등
+sheep|양|중등
+sheet|시트|중등
+shelf|선반|중등
+shell|껍질|중등
+shelter|피난처|중등
+shift|이동하다|중등
+shine|빛나다|중등
+ship|선박|초등
+shirt|셔츠|초등
+shock|충격|중등
+shoe|신발|초등
+shoot|쏘다|중등
+shop|가게|초등
+shore|해안|중등
+short|짧은|초등
+should|~해야 한다|초등
+shoulder|어깨|중등
+shout|소리치다|중등
+show|보여주다|초등
+shower|샤워|중등
+shut|닫다|중등
+shy|수줍어하는|초등
+sick|아픈|초등
+side|옆|초등
+sigh|한숨 쉬다|고등
+sight|시야|중등
+sign|신호|중등
+significant|중요한|고등
+silent|침묵하는|고등
+silly|어리석은|중등
+silver|은|중등
+similar|비슷한|중등
+simple|간단한|중등
+simulate|모의실험하다|고등
+simultaneous|동시의|고등
+sin|죄|고등
+since|~이후|중등
+sing|노래하다|초등
+single|하나의|중등
+sink|가라앉다|중등
+sister|자매|초등
+sit|앉다|초등
+site|장소|중등
+situate|위치시키다|중등
+situation|상황|고등
+six|여섯|초등
+size|크기|초등
+skate|스케이트|초등
+ski|스키|초등
+skill|기술|중등
+skin|피부|초등
+skip|건너뛰다|고등
+skirt|치마|초등
+sky|하늘|초등
+slave|노예|중등
+sleep|잠|초등
+slice|조각|고등
+slide|미끄러지다|중등
+slight|약간의|중등
+slim|날씬한|고등
+slip|미끄러지다|중등
+slope|경사|고등
+slow|느린|초등
+small|작은|초등
+smart|영리한|중등
+smash|박살내다|중등
+smell|냄새|초등
+smile|미소|초등
+smoke|연기|중등
+smooth|매끄러운|중등
+snack|간식|중등
+snake|뱀|중등
+snap|찰칵 소리를 내다|중등
+sneak|살금살금 움직이다|고등
+snow|눈|초등
+soak|담그다|고등
+soap|비누|고등
+soccer|축구|초등
+social|사회적인|중등
+society|사회|중등
+sociology|사회학|고등
+sock|양말|초등
+soft|부드러운|초등
+software|소프트웨어|초등
+soil|흙|중등
+soldier|군인|중등
+sole|발바닥|고등
+solid|고체의|중등
+solve|해결하다|중등
+some|약간의|초등
+somewhat|다소|중등
+son|아들|초등
+song|노래|초등
+soon|곧|중등
+sophisticate|세련되게 만들다|고등
+sore|아픈|중등
+sorry|미안한|초등
+sort|종류|중등
+soul|영혼|중등
+sound|소리|초등
+soup|수프|초등
+sour|신|중등
+source|원천|중등
+south|남쪽|초등
+space|공간|초등
+spaghetti|스파게티|초등
+span|기간|고등
+spare|여분의, 할애하다|중등
+spark|불꽃, 스파크, 유발하다|고등
+speak|말하다|초등
+species|종|중등
+special|특별한|고등
+specific|특정한, 구체적인|중등
+spectacle|장관, 안경|고등
+spectrum|스펙트럼, 범위|고등
+speech|연설, 말|중등
+speed|속도|초등
+spell|철자를 말하다, 주문|중등
+spend|(돈을) 쓰다, (시간을) 보내다|중등
+sphere|구, 영역|고등
+spill|엎지르다, 흘리다|고등
+spin|돌다, 회전시키다, 실을 잣다|중등
+spirit|정신, 영혼|중등
+spit|침을 뱉다|고등
+splash|튀기다, 첨벙거리다|고등
+split|쪼개다, 분열시키다|고등
+spoil|망치다, 상하다|중등
+sponsor|후원하다, 후원자|중등
+spoon|숟가락|초등
+sport|스포츠, 운동|초등
+spot|점, 장소, 발견하다|중등
+spouse|배우자|고등
+spray|뿌리다, 분무기|중등
+spread|퍼뜨리다, 펼치다|중등
+spring|봄, 용수철, 튀어 오르다|초등
+spy|스파이, 염탐하다|중등
+square|정사각형, 광장, 제곱|중등
+squeeze|짜다, 쥐어짜다|고등
+stable|안정된, 마구간|중등
+stack|쌓다, 더미|고등
+staff|직원, 막대|초등
+stage|무대, 단계|중등
+stain|얼룩, 더럽히다|고등
+stairs|계단|중등
+stamp|우표, 도장, 발을 구르다|중등
+stand|서다, 참다|초등
+standard|표준, 기준|중등
+star|별, 주연 배우|초등
+stare|빤히 쳐다보다|중등
+start|시작하다|초등
+starve|굶주리다|고등
+state|상태, 국가, 진술하다|중등
+station|역, 정거장, 방송국|중등
+statistic|통계, 통계 자료|고등
+statue|조각상|고등
+status|지위, 신분|고등
+stay|머무르다, 유지하다|초등
+steady|꾸준한, 안정된|중등
+steak|스테이크|초등
+steal|훔치다|중등
+steam|증기|중등
+steel|강철|중등
+steep|가파른|고등
+stem|줄기|고등
+step|걸음, 단계|중등
+stick|막대기, 들러붙다|중등
+stiff|뻣뻣한|고등
+still|여전히, 아직, 고요한|중등
+stimulate|자극하다|고등
+stir|휘젓다, 선동하다|중등
+stitch|바느질, 꿰매다|고등
+stock|재고, 주식|중등
+stomach|위, 배|중등
+stone|돌|초등
+stop|멈추다|초등
+store|가게, 저장하다|초등
+storm|폭풍|중등
+story|이야기, 층|초등
+stove|난로, 스토브|고등
+straight|곧은, 솔직한|중등
+strain|긴장, 부담|고등
+strange|낯선, 이상한|중등
+strategy|전략|중등
+strawberry|딸기|중등
+stream|개울, 흐름|중등
+street|거리, 길|초등
+stress|스트레스, 강조|중등
+stretch|늘리다, 뻗다|중등
+strict|엄격한|고등
+strike|치다, 파업|중등
+string|끈, 줄|중등
+strip|벗기다, 가늘고 긴 조각|고등
+stripe|줄무늬|고등
+stroke|쓰다듬다, 뇌졸중, 타격|고등
+strong|강한|초등
+structure|구조|중등
+struggle|고군분투하다, 싸움|중등
+studio|스튜디오|중등
+study|공부하다, 연구|초등
+student|학생|고등
+stuff|물건, 채우다|중등
+style|스타일, 양식|초등
+subject|주제, 과목, 주어|중등
+subjective|주관적인|고등
+submarine|잠수함|고등
+submit|제출하다|고등
+submission|제출, 복종|고등
+subscribe|구독하다|고등
+substance|물질|고등
+substantial|상당한|고등
+substitute|대체하다|고등
+subtle|미묘한|고등
+suburb|교외|고등
+subway|지하철|초등
+succeed|성공하다|중등
+success|성공|중등
+such|그러한|중등
+suck|빨다|고등
+sudden|갑작스러운|중등
+suffer|고통받다|중등
+suffice|충분하다|고등
+sufficient|충분한|고등
+sugar|설탕|초등
+suggest|제안하다|중등
+suicide|자살|고등
+suit|정장|중등
+suite|스위트룸|고등
+sum|합계|중등
+summary|요약|고등
+summer|여름|초등
+summit|정상회담|고등
+sun|태양|초등
+super|최고의|중등
+superb|훌륭한|고등
+superior|우월한|고등
+supervise|감독하다|고등
+supper|저녁식사|중등
+supplement|보충하다|고등
+supply|공급하다|중등
+support|지지하다|중등
+suppose|가정하다|중등
+sure|확실한|초등
+ensure|보장하다|고등
+surface|표면|중등
+surgery|수술|고등
+surprise|놀라게 하다|중등
+surrender|항복하다|고등
+surround|둘러싸다|중등
+survey|조사하다|중등
+survive|살아남다|중등
+suspect|의심하다|중등
+suspend|매달다|고등
+sustain|유지하다|고등
+swallow|삼키다|중등
+swear|맹세하다|고등
+sweat|땀|고등
+sweater|스웨터|중등
+sweep|쓸다|중등
+sweet|달콤한|중등
+swell|붓다|고등
+swift|빠른|고등
+swim|수영하다|초등
+swing|흔들다|중등
+switch|스위치|중등
+symbol|상징|고등
+sympathy|동정|고등
+symphony|교향곡|고등
+symptom|증상|고등
+system|체계|중등
+table|탁자|초등
+tackle|다루다|고등
+tag|꼬리표|고등
+tail|꼬리|초등
+take|가져가다|초등
+mistake|실수|고등
+tale|이야기|중등
+talent|재능|고등
+talk|말하다|초등
+tall|키가 큰|초등
+tank|탱크|중등
+tap|두드리다|중등
+tape|테이프|초등
+target|목표|중등
+task|과업|고등
+taste|맛|초등
+tax|세금|중등
+taxi|택시|초등
+tea|차|중등
+teach|가르치다|초등
+team|팀|초등
+tear|눈물|중등
+tease|놀리다|고등
+technique|기술|중등
+technic|기술|중등
+technology|기술|중등
+teenage|십대의|중등
+telegraph|전보|고등
+telephone|전화|초등
+phone|전화|초등
+television|텔레비전|초등
+tell|말하다|초등
+temperature|온도|중등
+temple|사원|고등
+temporary|일시적인|고등
+tempt|유혹하다|고등
+ten|열|초등
+tenant|세입자|고등
+tend|경향이 있다, 돌보다|중등
+tender|부드러운, 연한|고등
+tennis|테니스|초등
+tense|긴장한, 시제|중등
+tent|텐트, 천막|초등
+term|용어, 학기, 조건|중등
+terminal|단말기, 종착역, 말기의|고등
+terminate|끝내다, 종료하다|고등
+terrace|테라스, 옥상|고등
+terrible|끔찍한, 형편없는|중등
+terrific|아주 멋진, 훌륭한|고등
+territory|영토, 영역|고등
+terror|공포, 테러|고등
+terrorist|테러리스트|고등
+test|시험, 검사|초등
+text|텍스트, 문자 메시지, 본문|중등
+textbook|교과서|초등
+than|~보다|초등
+thank|감사하다|초등
+theater|극장, 영화관|중등
+theatre|극장, 영화관|중등
+theme|주제, 테마|고등
+then|그때, 그러고 나서|중등
+theory|이론|중등
+therapy|치료, 요법|고등
+there|거기에, 그곳에|초등
+therefore|그러므로, 따라서|중등
+thick|두꺼운, 짙은|중등
+thief|도둑|중등
+thin|얇은, 마른|중등
+thing|것, 물건|초등
+think|생각하다|초등
+third|세 번째의, 3분의 1|초등
+thirst|갈증, 목마름|초등
+thirteen|열셋, 13|초등
+thirty|서른, 30|초등
+thorough|철저한, 완전한|고등
+though|비록 ~일지라도|중등
+thousand|천|중등
+thread|실, 스레드|고등
+threat|위협, 협박|중등
+three|셋, 3|초등
+thrill|전율, 스릴|고등
+throat|목, 목구멍|중등
+through|~을 통하여, ~을 거쳐|중등
+throw|던지다|중등
+thumb|엄지손가락|고등
+thus|따라서, 그러므로|중등
+tick|똑딱 소리, 체크 표시, 진드기|고등
+ticket|티켓, 표|초등
+tide|밀물과 썰물, 조수|중등
+tidy|단정한, 깔끔한; 정리하다|고등
+tie|묶다, 매다; 넥타이; 동점|중등
+tiger|호랑이|초등
+tight|꽉 조이는, 단단한; 빡빡한|중등
+till|~까지; 경작하다; 금전등록기|중등
+timber|재목, 목재|고등
+time|시간; 때; 번|초등
+tin|주석; 양철통, 깡통|중등
+tiny|아주 작은|중등
+tip|끝; 팁; 조언; 기울이다|중등
+tire|지치게 하다; 타이어|초등
+tired|피곤한, 지친|고등
+tissue|(생체) 조직; 얇은 천; 휴지|고등
+title|제목; 직함; 권리; 칭호|중등
+entitle|~에게 자격을 주다; ~라는 제목을 붙이다|고등
+toast|토스트; 건배; 굽다|중등
+today|오늘|초등
+toe|발가락|중등
+together|함께, 같이|초등
+toilet|변기; 화장실|중등
+tomato|토마토|초등
+tomorrow|내일|초등
+tone|음색, 어조; 색조|중등
+tongue|혀; 말; 언어|중등
+tonight|오늘 밤|초등
+too|너무; 또한|초등
+tool|도구, 연장|중등
+tooth|이, 치아|초등
+top|꼭대기, 맨 위; 최고의|초등
+topic|주제, 화제|중등
+torture|고문; 고통을 주다|고등
+toss|(가볍게) 던지다; 뒤척이다|고등
+total|총계, 전체의; 합계|중등
+touch|만지다; 접촉; 감동시키다|초등
+tough|힘든, 어려운; 강인한|중등
+tour|여행, 관광|중등
+toward|~쪽으로, ~향하여|중등
+towards|~쪽으로, ~향하여|중등
+towel|수건, 타월|중등
+tower|탑; 솟아오르다|중등
+town|읍, 도시|초등
+toxic|유독한, 독성의|고등
+toy|장난감|초등
+trace|흔적; 추적하다|중등
+track|길, 자국; 추적하다; 경주로|초등
+trade|무역, 거래; 거래하다|중등
+tradition|전통|중등
+traffic|교통; 불법 거래|중등
+tragic|비극적인|고등
+trail|길, 흔적, 추적하다|고등
+train|기차, 훈련하다|초등
+transact|거래하다|고등
+transfer|이동하다, 옮기다, 환승하다|중등
+transform|변형시키다, 변화시키다|고등
+transition|전환, 이행|고등
+translate|번역하다|고등
+transmit|전송하다, 전달하다|고등
+transport|운송하다, 운반하다|중등
+transportation|운송, 교통수단|고등
+trap|덫, 함정, 가두다|중등
+travel|여행하다, 여행|초등
+tray|쟁반, 트레이|중등
+treasure|보물, 소중히 하다|고등
+treat|대하다, 치료하다, 한턱내다|중등
+treaty|조약, 협정|고등
+tree|나무|초등
+tremendous|엄청난, 막대한|고등
+trend|경향, 추세|고등
+triangle|삼각형|중등
+tribe|부족, 종족|고등
+trick|속임수, 재주, 속이다|중등
+trigger|방아쇠, 유발하다|고등
+trim|다듬다, 장식, 손질하다|고등
+trip|여행, 발을 헛디디다, 넘어지다|초등
+triumph|승리, 대성공|고등
+troop|부대, 병력|고등
+trouble|문제, 곤경|중등
+truck|트럭|초등
+true|사실인, 진실한|초등
+trunk|코끼리 코, 나무 몸통, 트렁크|중등
+trust|신뢰, 믿다|중등
+truth|진실, 사실|중등
+try|노력하다, 시도하다|초등
+trial|재판, 시험, 시도|고등
+tube|관, 튜브|고등
+tune|곡조, 조율하다|중등
+tunnel|터널|고등
+turn|돌다, 회전, 차례|초등
+turnover|회전율, 매출액, 이직률|고등
+twelve|열둘|초등
+twenty|스물|초등
+twice|두 번, 두 배|초등
+twin|쌍둥이, 쌍둥이의|중등
+twist|비틀다, 뒤틀다, 왜곡하다|중등
+two|둘|초등
+type|유형, 종류, 타자하다|초등
+ugly|못생긴, 추한|초등
+ultimate|궁극적인, 최후의|고등
+umbrella|우산|초등
+uncle|삼촌|초등
+under|아래에|초등
+undergo|겪다|고등
+underlie|근저에 있다|고등
+undermine|약화시키다|고등
+understand|이해하다|초등
+undertake|착수하다|고등
+uniform|제복|중등
+unify|통일하다|고등
+unique|독특한|고등
+unit|단위|중등
+unite|결합하다|중등
+union|연합|고등
+universe|우주|고등
+university|대학교|중등
+unless|~하지 않는 한|중등
+until|~까지|중등
+update|갱신하다|고등
+upon|위에|중등
+upper|위의|중등
+upset|뒤엎다|중등
+upward|위쪽으로|고등
+upwards|위쪽으로|고등
+urban|도시의|고등
+urge|재촉하다|고등
+urgent|긴급한|고등
+use|사용하다|초등
+usual|평소의|고등
+utilize|활용하다|고등
+utilise|활용하다|고등
+utter|말하다|고등
+vacate|비우다|고등
+vacation|휴가|고등
+vaccine|백신|고등
+vacuum|진공|고등
+vague|모호한|고등
+valid|유효한|고등
+valley|계곡|중등
+value|가치|중등
+van|밴|중등
+vanish|사라지다|고등
+various|다양한|중등
+vary|다르다|중등
+vast|광대한|고등
+vegetable|채소|초등
+vehicle|차량|중등
+venture|모험|고등
+verb|동사|고등
+verbal|언어의|고등
+verse|운문|고등
+version|버전, 판|중등
+versus|~대,~에 맞서|고등
+vertical|수직의, 세로의|고등
+very|매우, 아주|초등
+vessel|선박, 혈관, 용기|고등
+veterinarian|수의사|고등
+via|~을 통하여,~경유로|고등
+vice|악, 부도덕, (조직의) 부-|고등
+victim|희생자, 피해자|중등
+victory|승리|고등
+video|비디오, 동영상|초등
+view|견해, 시야, 경치, 보다|중등
+interview|면접, 인터뷰, 면접하다|고등
+review|검토, 재검토, 비평, 복습하다|고등
+vigor|활력, 기력|고등
+vigorous|활기찬, 원기 왕성한|고등
+villa|별장, 빌라|중등
+village|마을|중등
+violent|폭력적인, 맹렬한|중등
+violin|바이올린|초등
+virgin|처녀의, 미개척의, 처녀|고등
+virtue|미덕, 장점|고등
+virtual|사실상의, 가상의|고등
+virus|바이러스|고등
+visible|눈에 보이는, 가시적인|고등
+vision|시력, 비전, 환상|중등
+visit|방문하다, 방문|초등
+visual|시각의, 시각적인|고등
+vital|지극히 중요한, 생명 유지에 필수적인|고등
+vivid|생생한, 선명한|고등
+vocabulary|어휘|고등
+vocation|천직, 소명|고등
+voice|목소리, 음성|초등
+volume|부피, 용량, 책, 음량|중등
+volunteer|자원봉사자, 자원하다|중등
+vote|투표, 표, 투표하다|중등
+wage|임금, 급료|중등
+wait|기다리다, 기다림|초등
+wake|깨어나다, 깨우다|초등
+walk|걷다, 걷기, 산책|초등
+wall|벽, 담|초등
+wander|헤매다, 돌아다니다|고등
+want|원하다, 욕구|초등
+war|전쟁|초등
+warehouse|창고|고등
+warm|따뜻한, 따뜻하게 하다|초등
+warn|경고하다|중등
+warrant|영장, 보증, 정당화하다|고등
+wash|씻다, 세탁하다|초등
+waste|낭비하다, 쓰레기, 낭비|중등
+watch|시계, 지켜보다|초등
+water|물|초등
+watermelon|수박|초등
+wave|파도, 흔들다|중등
+way|길, 방법|초등
+weak|약한|중등
+wealth|부, 재산|고등
+weapon|무기|중등
+wear|입다|초등
+weather|날씨|초등
+weave|짜다, 엮다|고등
+website|웹사이트|초등
+wedding|결혼식|초등
+weed|잡초|고등
+week|주|초등
+weekend|주말|초등
+weigh|무게를 재다|중등
+weight|무게|초등
+weird|이상한|고등
+welcome|환영하다|초등
+welfare|복지|고등
+well|잘, 우물|초등
+west|서쪽|초등
+wet|젖은|초등
+whale|고래|중등
+wheat|밀|고등
+wheel|바퀴|중등
+when|언제|초등
+where|어디에|초등
+whereas|~인 반면에|고등
+whether|~인지 (아닌지)|중등
+while|~하는 동안에|중등
+whip|채찍, 채찍질하다|고등
+whisper|속삭이다|중등
+whistle|휘파람, 휘파람 불다|중등
+white|하얀, 흰색|초등
+whole|전체의|중등
+why|왜|초등
+wicked|사악한|고등
+wide|넓은|중등
+wife|아내|초등
+wild|야생의|중등
+win|이기다|초등
+wind|바람, 감다|초등
+window|창문|초등
+wine|와인|초등
+wing|날개|중등
+winter|겨울|초등
+wipe|닦다|중등
+wire|전선|중등
+wise|현명한|중등
+wish|바라다|초등
+wit|재치|고등
+withdraw|철회하다|고등
+within|~안에|중등
+without|~없이|중등
+witness|목격자|고등
+woman|여자|초등
+wonder|궁금해하다|중등
+wood|나무|초등
+wool|양털|중등
+word|단어|초등
+work|일하다|초등
+world|세계|초등
+worry|걱정하다|초등
+worship|숭배하다|고등
+worth|가치|중등
+would|~일 것이다|중등
+wound|상처|중등
+wrap|싸다|중등
+wreck|난파선|고등
+write|쓰다|초등
+wrong|틀린|초등
+year|년|초등
+yell|소리 지르다|중등
+yellow|노란색|초등
+yes|네|초등
+yeah|응|초등
+yep|응|초등
+yesterday|어제|초등
+yet|아직|중등
+yield|생산하다|고등
+young|어린|초등
+zebra|얼룩말|중등
+zero|영|중등
+zone|구역|고등
+zoo|동물원|초등
+hello|안녕하세요|듣기
+students|학생들|듣기
+your|당신의|듣기
+vice|부-|듣기
+principal|교장|듣기
+our|우리의|듣기
+school|학교|듣기
+preparing|준비하는|듣기
+launch|시작하다|듣기
+newspaper|신문|듣기
+before|~전에|듣기
+publish|발행하다|듣기
+first|첫 번째의|듣기
+issue|호|듣기
+need|필요하다|듣기
+help|도움|듣기
+important|중요한|듣기
+part|부분|듣기
+project|프로젝트|듣기
+looking|찾는|듣기
+great|훌륭한|듣기
+name|이름|듣기
+reflects|반영하다|듣기
+spirit|정신|듣기
+creative|창의적인|듣기
+idea|아이디어|듣기
+please|부디|듣기
+submit|제출하다|듣기
+scanning|스캔하는|듣기
+code|코드|듣기
+notice|공지|듣기
+board|게시판|듣기
+next|다음|듣기
+friday|금요일|듣기
+once|일단 ~하면|듣기
+suggestions|제안들|듣기
+been|~였다|듣기
+collected|수집된|듣기
+there|~이 있다|듣기
+student|학생|듣기
+vote|투표하다|듣기
+choose|선택하다|듣기
+final|최종의|듣기
+suggests|제안하다|듣기
+winning|우승하는|듣기
+mentioned|언급된|듣기
+look|보다|듣기
+forward|앞으로|듣기
+participation|참여|듣기
+thank|감사하다|듣기
+don|입다|듣기
+happy|행복한|듣기
+jason|제이슨|듣기
+wrong|틀린|듣기
+nothing|아무것도|듣기
+serious|진지한|듣기
+feeling|느낌|듣기
+bit|조금|듣기
+down|우울한|듣기
+because|~때문에|듣기
+things|것들|듣기
+between|~사이에|듣기
+friend|친구|듣기
+sarah|사라|듣기
+really|정말로|듣기
+thought|생각|듣기
+two|둘|듣기
+best|최고의|듣기
+friends|친구들|듣기
+close|가까운|듣기
+thing|것|듣기
+sometimes|가끔|듣기
+different|다른|듣기
+thoughts|생각들|듣기
+hard|어려운|듣기
+express|표현하다|듣기
+feel|느끼다|듣기
+understand|이해하다|듣기
+keeping|유지하는 것|듣기
+feelings|감정들|듣기
+yourself|너 자신|듣기
+only|오직|듣기
+making|만드는 것|듣기
+worse|더 나쁜|듣기
+just|단지|듣기
+want|원하다|듣기
+make|만들다|듣기
+awkward|어색한|듣기
+know|알다|듣기
+creates|만든다|듣기
+distance|거리|듣기
+think|생각하다|듣기
+honestly|솔직히|듣기
+being|존재|듣기
+open|열린|듣기
+about|~에 대해|듣기
+emotions|감정들|듣기
+better|더 나은|듣기
+yes|네|듣기
+hiding|숨기는 것|듣기
+leads|이끌다|듣기
+misunderstandings|오해|듣기
+telling|말하는|듣기
+her|그녀의|듣기
+truly|정말로|듣기
+solve|해결하다|듣기
+problem|문제|듣기
+doctor|의사|듣기
+robert|로버트|듣기
+morgan|모건|듣기
+today|오늘|듣기
+going|가는|듣기
+talk|이야기하다|듣기
+good|좋은|듣기
+choice|선택|듣기
+let|~하게 하다|듣기
+give|주다|듣기
+example|예시|듣기
+imagine|상상하다|듣기
+trying|시도하는|듣기
+something|무언가|듣기
+store|가게|듣기
+might|~일지도 모른다|듣기
+spending|소비하는|듣기
+more|더 많은|듣기
+time|시간|듣기
+lead|이끌다|듣기
+decision|결정|듣기
+research|연구|듣기
+shows|보여주다|듣기
+initial|초기의|듣기
+often|자주|듣기
+one|하나|듣기
+true|진실된|듣기
+preference|선호|듣기
+influenced|영향을 받은|듣기
+outside|외부의|듣기
+factors|요인들|듣기
+when|~할 때|듣기
+too|너무|듣기
+much|많은|듣기
+every|모든|듣기
+possible|가능한|듣기
+outcome|결과|듣기
+keep|유지하다|듣기
+changing|변하는|듣기
+struggle|고군분투하다|듣기
+even|심지어|듣기
+simple|간단한|듣기
+decisions|결정들|듣기
+lose|잃다|듣기
+confidence|자신감|듣기
+why|왜|듣기
+trusting|신뢰하는|듣기
+instinct|본능|듣기
+actually|실제로|듣기
+result|결과|듣기
+end|끝|듣기
+judy|주디|듣기
+take|가지다|듣기
+picture|사진|듣기
+hotel|호텔|듣기
+room|방|듣기
+booked|예약된|듣기
+looks|보이다|듣기
+family|가족|듣기
+trip|여행|듣기
+since|이후로|듣기
+three|셋|듣기
+decided|결정했다|듣기
+then|그때|듣기
+beds|침대들|듣기
+seems|보인다|듣기
+perfect|완벽한|듣기
+exactly|정확히|듣기
+lamp|램프|듣기
+corner|모퉁이|듣기
+useful|유용한|듣기
+night|밤|듣기
+right|옳은|듣기
+also|또한|듣기
+window|창문|듣기
+offer|제공하다|듣기
+ocean|바다|듣기
+view|전망|듣기
+main|주요한|듣기
+reasons|이유들|듣기
+chose|선택했다|듣기
+see|보다|듣기
+round|둥근|듣기
+table|테이블|듣기
+nice|좋은|듣기
+place|장소|듣기
+enjoy|즐기다|듣기
+some|약간의|듣기
+snacks|간식들|듣기
+agree|동의하다|듣기
+electric|전기의|듣기
+teapot|찻주전자|듣기
+tea|차|듣기
+wait|기다리다|듣기
+emily|에밀리|듣기
+ready|준비된|듣기
+hike|하이킹하다|듣기
+tomorrow|내일|듣기
+almost|거의|듣기
+over|끝난|듣기
+list|목록|듣기
+okay|좋아요|듣기
+wanted|원했다|듣기
+hiking|하이킹|듣기
+trail|오솔길|듣기
+picked|골랐다|듣기
+doesn|하지 않는다|듣기
+many|많은|듣기
+stairs|계단|듣기
+lunch|점심|듣기
+should|~해야 한다|듣기
+pack|짐을 싸다|듣기
+sandwiches|샌드위치|듣기
+worry|걱정하다|듣기
+sounds|들리다|듣기
+care|신경 쓰다|듣기
+already|이미|듣기
+bought|샀다|듣기
+yesterday|어제|듣기
+bring|가져오다|듣기
+trash|쓰레기|듣기
+bags|가방|듣기
+carry|나르다|듣기
+back|뒤|듣기
+thinking|생각하다|듣기
+get|얻다|듣기
+windy|바람이 부는|듣기
+top|꼭대기|듣기
+mountain|산|듣기
+probably|아마도|듣기
+windbreaker|바람막이|듣기
+extra|여분의|듣기
+lend|빌려주다|듣기
+thanks|고맙습니다|듣기
+welcome|환영하다|듣기
+sweet|달콤한|듣기
+hands|손|듣기
+baking|베이킹|듣기
+studio|스튜디오|듣기
+like|좋아하다|듣기
+join|참여하다|듣기
+cupcake|컵케이크|듣기
+class|수업|듣기
+clock|시계|듣기
+any|어떤|듣기
+spots|점들|듣기
+left|남은|듣기
+sure|확실한|듣기
+fee|요금|듣기
+adult|성인|듣기
+child|아이|듣기
+sign|표지판|듣기
+children|아이들|듣기
+anything|무엇이든|듣기
+basic|기본적인|듣기
+tools|도구들|듣기
+ingredients|재료들|듣기
+included|포함된|듣기
+pay|지불하다|듣기
+buy|사다|듣기
+special|특별한|듣기
+decorating|장식하는|듣기
+kit|키트|듣기
+add|추가하다|듣기
+kits|키트들|듣기
+membership|멤버십|듣기
+coupon|쿠폰|듣기
+use|사용하다|듣기
+off|할인된|듣기
+total|총액|듣기
+here|여기|듣기
+credit|신용|듣기
+card|카드|듣기
+cloudnest|클라우드네스트|듣기
+customer|고객|듣기
+service|서비스|듣기
+may|일지도모른다|듣기
+cancel|취소하다|듣기
+cloud|구름|듣기
+subscription|구독|듣기
+sorry|미안한|듣기
+hear|듣다|듣기
+ask|묻다|듣기
+cost|비용|듣기
+came|왔다|듣기
+out|밖으로|듣기
+cheaper|더싼|듣기
+plan|계획|듣기
+price|가격|듣기
+isn|아니다|듣기
+dissatisfied|불만족스러운|듣기
+storage|저장|듣기
+capacity|용량|듣기
+system|시스템|듣기
+performance|성능, 실적|듣기
+did|~했다|듣기
+experience|경험, 경험하다|듣기
+server|서버|듣기
+errors|오류|듣기
+everything|모든 것|듣기
+runs|작동하다, 달리다|듣기
+smoothly|순조롭게|듣기
+liked|좋아했다|듣기
+smartphone|스마트폰|듣기
+app|앱|듣기
+used|사용했다|듣기
+lot|많이|듣기
+company|회사|듣기
+recently|최근에|듣기
+changed|변경했다|듣기
+its|그것의|듣기
+data|데이터|듣기
+security|보안|듣기
+policy|정책|듣기
+access|접근, 접근하다|듣기
+work|일, 직장, 작동하다|듣기
+proceed|진행하다, 나아가다|듣기
+cancellation|취소|듣기
+phone|전화, 전화하다|듣기
+kate|케이트|듣기
+event|행사, 사건|듣기
+post|게시하다, 우편|듣기
+upcoming|다가오는|듣기
+history|역사|듣기
+lecture|강의|듣기
+come|오다|듣기
+topic|주제|듣기
+independence|독립|듣기
+korea|한국|듣기
+ireland|아일랜드|듣기
+interesting|흥미로운|듣기
+heard|들었다|듣기
+both|둘 다|듣기
+countries|국가들|듣기
+similar|비슷한|듣기
+histories|역사들|듣기
+giving|주는|듣기
+professor|교수|듣기
+matthew|매튜|듣기
+stevens|스티븐스|듣기
+expert|전문가|듣기
+modern|현대의|듣기
+him|그를|듣기
+scheduled|예정된|듣기
+april|4월|듣기
+free|자유로운, 무료의|듣기
+day|날, 하루|듣기
+where|어디에, ~하는 곳|듣기
+national|국가의, 국립의|듣기
+museum|박물관|듣기
+downtown|도심, 시내|듣기
+love|사랑하다, 사랑|듣기
+meet|만나다|듣기
+world|세계|듣기
+folk|민속의|듣기
+dance|춤추다, 춤|듣기
+everyone|모든 사람|듣기
+chloe|클로이|듣기
+anderson|앤더슨|듣기
+festival|축제|듣기
+committee|위원회|듣기
+invite|초대하다|듣기
+magical|마법 같은|듣기
+evening|저녁|듣기
+music|음악|듣기
+held|개최된|듣기
+march|3월|듣기
+maplehurst|메이플허스트|듣기
+square|광장|듣기
+six|여섯|듣기
+amazing|놀라운|듣기
+teams|팀들|듣기
+stage|무대|듣기
+representing|대표하는|듣기
+south|남쪽|듣기
+bulgaria|불가리아|듣기
+poland|폴란드|듣기
+india|인도|듣기
+russia|러시아|듣기
+peru|페루|듣기
+each|각각의|듣기
+team|팀|듣기
+perform|공연하다|듣기
+their|그들의|듣기
+traditional|전통적인|듣기
+chance|기회|듣기
+try|시도하다|듣기
+costumes|의상들|듣기
+these|이것들|듣기
+after|~후에|듣기
+performances|공연들|듣기
+photos|사진들|듣기
+performers|공연자들|듣기
+admission|입장|듣기
+residents|거주자들|듣기
+addition|추가|듣기
+visitors|방문객들|듣기
+receive|받다|듣기
+souvenir|기념품|듣기
+miss|놓치다|듣기
+clara|클라라|듣기
+running|달리기|듣기
+vest|조끼|듣기
+got|얻었다|듣기
+website|웹사이트|듣기
+always|항상|듣기
+show|보여주다|듣기
+typing|타자|듣기
+sound|소리|듣기
+budget|예산|듣기
+mind|마음|듣기
+under|~아래에|듣기
+usually|보통|듣기
+run|달리다|듣기
+led|이끌었다|듣기
+lights|불빛|듣기
+reflective|반사하는|듣기
+strips|띠|듣기
+weight|무게|듣기
+medium|중간의|듣기
+model|모델|듣기
+durable|튼튼한|듣기
+while|~하는 동안|듣기
+lightweight|가벼운|듣기
+speed|속도|듣기
+bottle|병|듣기
+holders|홀더|듣기
+hmm|음|듣기
+enough|충분한|듣기
+option|선택|듣기
+telephone|전화|듣기
+rings|울린다|듣기
+cathy|캐시|듣기
+arrived|도착했다|듣기
+station|역|듣기
+way|길|듣기
+waiting|기다리는|듣기
+platform|승강장|듣기
+train|기차|듣기
+leaves|떠난다|듣기
+twenty|스물|듣기
+minutes|분|듣기
+taxi|택시|듣기
+taking|가져가는, 취하는|듣기
+longer|더 긴|듣기
+than|~보다|듣기
+expected|예상된|듣기
+traffic|교통|듣기
+ten|열|듣기
+dad|아빠|듣기
+job|일|듣기
+big|큰|듣기
+little|작은|듣기
+nervous|긴장한|듣기
+mistake|실수|듣기
+club|클럽, 동아리|듣기
+shirts|셔츠들|듣기
+ordered|주문했다, 주문된|듣기
+shop|가게|듣기
+called|전화했다, 불렀다|듣기
+said|말했다|듣기
+logo|로고|듣기
+complicated|복잡한|듣기
+print|인쇄하다, 인쇄물|듣기
+quickly|빨리|듣기
+them|그들을, 그것들을|듣기
+other|다른|듣기
+faster|더 빠른|듣기
+suggested|제안했다, 제안된|듣기
+simplifying|단순화하는|듣기
+design|디자인|듣기
+still|여전히, 아직도|듣기
+relief|안도|듣기
+software|소프트웨어|듣기
+well|잘|듣기
+program|프로그램|듣기
+could|~할 수 있었다, ~일 수도 있었다|듣기
+send|보내다|듣기
+updated|업데이트된, 갱신된|듣기
+later|나중에|듣기
+council|의회, 협의회|듣기
+meeting|회의|듣기
+afternoon|오후|듣기
+definitely|분명히|듣기
+finish|끝내다|듣기
+tonight|오늘 밤|듣기
+does|~하니? (do의 3인칭 단수 현재형)|듣기
+honey|여보, 꿀|듣기
+visiting|방문하는|듣기
+local|지역의|듣기
+farmers|농부들|듣기
+market|시장|듣기
+move|움직이다|듣기
+another|또 다른|듣기
+walk|걷다|듣기
+around|주위에|듣기
+suitcases|여행 가방들|듣기
+heavy|무거운|듣기
+luggage|짐|듣기
+delivery|배달|듣기
+picks|고르다|듣기
+drops|떨어뜨리다|듣기
+says|말하다|듣기
+available|이용 가능한|듣기
+hotels|호텔들|듣기
+deal|거래|듣기
+totally|완전히|듣기
+worth|가치|듣기
+ahead|미리|듣기
+book|예약하다|듣기
+now|지금|듣기
+hailey|헤일리|듣기
+brian|브라이언|듣기
+along|함께|듣기
+classmates|반 친구들|듣기
+communicate|소통하다|듣기
+through|~을 통해|듣기
+group|그룹|듣기
+chat|채팅|듣기
+mainly|주로|듣기
+share|공유하다|듣기
+information|정보|듣기
+life|삶|듣기
+worked|일했다|듣기
+together|함께|듣기
+science|과학|듣기
+took|가져갔다|듣기
+several|몇몇의|듣기
+during|~동안|듣기
+activity|활동|듣기
+shared|공유했다|듣기
+didn|하지 않았다|듣기
+however|하지만|듣기
+sees|보다|듣기
+herself|그녀 자신|듣기
+she|그녀는|듣기
+feels|느끼다|듣기
+embarrassed|당황한|듣기
+pictures|사진들|듣기
+would|~일 것이다|듣기
+posted|게시했다|듣기
+stay|머무르다|듣기
+decides|결정하다|듣기
+delete|삭제하다|듣기
+situation|상황|듣기
+most|가장|듣기
+likely|~할 것 같은|듣기
+say|말하다|듣기
+last|마지막의|듣기
+talked|이야기했다|듣기
+importance|중요성|듣기
+eating|먹는 것|듣기
+healthy|건강한|듣기
+food|음식|듣기
+foods|음식들|듣기
+check|확인하다|듣기
+nutrition|영양|듣기
+labels|라벨|듣기
+light|가벼운|듣기
+salad|샐러드|듣기
+dressing|드레싱|듣기
+though|비록 ~일지라도|듣기
+marketed|판매된|듣기
+contains|포함하다|듣기
+surprisingly|놀랍게도|듣기
+high|높은|듣기
+levels|수준|듣기
+salt|소금|듣기
+sugar|설탕|듣기
+second|두 번째의|듣기
+nut|견과류|듣기
+bars|바|듣기
+contain|포함하다|듣기
+sweetened|단맛을 낸|듣기
+nuts|견과류|듣기
+chocolate|초콜릿|듣기
+small|작은|듣기
+bar|바|듣기
+calories|칼로리|듣기
+expect|기대하다|듣기
+unwanted|원치 않는|듣기
+gain|얻다|듣기
+third|세 번째의|듣기
+wheat|밀|듣기
+bread|빵|듣기
+breads|빵 종류|듣기
+made|만들어진|듣기
+whole|전체의|듣기
+grains|곡물|듣기
+provide|제공하다|듣기
+dietary|식이의|듣기
+fiber|섬유질|듣기
+finally|마침내|듣기
+veggie|채소|듣기
+chips|칩|듣기
+processed|가공된|듣기
+fried|튀긴|듣기
+removes|제거한다|듣기
+original|원래의|듣기
+although|비록 ~일지라도|듣기
+taste|맛|듣기
+vegetables|채소|듣기
+same|같은|듣기
+health|건강|듣기
+benefits|이점|듣기
+careful|조심하는|듣기
+fooled|속았다|듣기
+inclusive|포괄적인|하이스트
+adjacent|인접한|하이스트
+cumulative|누적되는|하이스트
+spur|자극|하이스트
+alleviate|완화하다|하이스트
+dispute|분쟁|하이스트
+viable|실행 가능한|하이스트
+endeavor|노력|하이스트
+submerge|잠기다|하이스트
+decline|감소하다|하이스트
+acquisition|인수|하이스트
+remark|언급|하이스트
+obsess|집착하다|하이스트
+friction|마찰|하이스트
+startle|깜짝 놀라게 하다|하이스트
+overload|과부하|하이스트
+hazard|위험|하이스트
+spoil|망치다|하이스트
+standstill|정지|하이스트
+allocation|할당|하이스트
+domain|영역|하이스트
+hover|맴돌다|하이스트
+curb|억제하다|하이스트
+encompass|포함하다|하이스트
+fierce|사나운|하이스트
+detest|혐오하다|하이스트
+urban|도시의|하이스트
+howl|울부짖다|하이스트
+lay|놓다|하이스트
+claim|주장하다|하이스트
+stricken|시달리는|하이스트
+pedestrian|보행자|하이스트
+vegetation|초목|하이스트
+aptitude|적성|하이스트
+simulate|모의실험하다|하이스트
+legendary|전설적인|하이스트
+perpetuate|영속시키다|하이스트
+vigorous|활발한|하이스트
+destined|~할 운명의|하이스트
+durable|내구성이 있는|하이스트
+pious|경건한|하이스트
+infuse|주입하다|하이스트
+withhold|보류하다|하이스트
+attentive|주의를 기울이는|하이스트
+deposit|보증금|하이스트
+esteem|존경|하이스트
+proceed|진행하다|하이스트
+discriminate|차별하다|하이스트
+confine|국한시키다|하이스트
+signify|의미하다|하이스트
+incurable|불치의|하이스트
+ascribe|~의 탓으로 돌리다|하이스트
+authorize|권한을 부여하다|하이스트
+dispel|떨쳐버리다|하이스트
+collide|충돌하다|하이스트
+numerical|수의|하이스트
+futile|헛된|하이스트
+monopoly|독점|하이스트
+induce|유도하다|하이스트
+large|큰|하이스트
+inclined|~하는 경향이 있는|하이스트
+bewilder|어리둥절하게 만들다|하이스트
+stale|신선하지 않은|하이스트
+enlightened|계몽된|하이스트
+vein|정맥|하이스트
+deterioration|악화|하이스트
+herbicide|제초제|하이스트
+airborne|공기로 운반되는|하이스트
+elusive|찾기 힘든|하이스트
+arithmetic|산수|하이스트
+scent|향기|하이스트
+implement|시행하다|하이스트
+peasant|소작농|하이스트
+dismiss|해고하다|하이스트
+compound|화합물|하이스트
+offspring|자손|하이스트
+adhere|들러붙다|하이스트
+microbe|미생물|하이스트
+crawl|기어가다|하이스트
+metaphor|은유|하이스트
+famine|기근|하이스트
+apparatus|장치|하이스트
+midst|중앙|하이스트
+relocate|이전하다|하이스트
+apprehend|체포하다|하이스트
+adverse|부정적인|하이스트
+rotate|회전하다|하이스트
+graze|풀을 뜯다|하이스트
+adorn|장식하다|하이스트
+regard|~로 여기다|하이스트
+give|주다|하이스트
+way|길|하이스트
+monetary|화폐의|하이스트
+innate|타고난|하이스트
+sentiment|정서|하이스트
+itinerary|여행 일정표|하이스트
+affirm|단언하다|하이스트
+alienate|소원하게 만들다|하이스트
+mimic|흉내 내다|하이스트
+mobilize|동원하다|하이스트
+perilous|위험한|하이스트
+abide|견디다|하이스트
+deem|여기다|하이스트
+counteract|대응하다|하이스트
+dejected|낙담한|하이스트
+surrender|항복하다|하이스트
+flourish|번창하다|하이스트
+modify|수정하다|하이스트
+edible|먹을 수 있는|하이스트
+villain|악당|하이스트
+strenuous|몹시 힘든|하이스트
+ascend|오르다|하이스트
+configuration|구성|하이스트
+humiliation|굴욕|하이스트
+anguish|고통|하이스트
+coverage|보도|하이스트
+opponent|상대|하이스트
+rear|뒤쪽|하이스트
+optical|시각의|하이스트
+deception|속임수|하이스트
+liable|책임이 있는|하이스트
+live|살다|하이스트
+retention|보유|하이스트
+entail|수반하다|하이스트
+alliance|동맹|하이스트
+designate|지정하다|하이스트
+consent|동의|하이스트
+intake|섭취|하이스트
+ponder|심사숙고하다|하이스트
+susceptible|영향 받기 쉬운|하이스트
+delegate|위임하다|하이스트
+terminate|종료하다|하이스트
+defect|결함|하이스트
+governance|통치|하이스트
+superficial|피상적인|하이스트
+refute|반박하다|하이스트
+intermediate|중간의|하이스트
+astound|크게 놀라게 하다|하이스트
+stray|길을 잃다|하이스트
+ballot|투표|하이스트
+tolerance|관용|하이스트
+hypothesize|가설을 세우다|하이스트
+migrate|이주하다|하이스트
+capacity|능력|하이스트
+entice|유인하다|하이스트
+antipathy|반감|하이스트
+monotonous|단조로운|하이스트
+receptive|수용적인|하이스트
+joint|공동의|하이스트
+resort|휴양지|하이스트
+stick|붙이다|하이스트
+single|하나의|하이스트
+out|밖에|하이스트
+pervade|만연하다|하이스트
+oppose|반대하다|하이스트
+prohibit|금지하다|하이스트
+ratio|비율|하이스트
+expenditure|지출|하이스트
+commerce|상업|하이스트
+bystander|방관자|하이스트
+determinant|결정 요인|하이스트
+crude|가공하지 않은|하이스트
+infrastructure|사회 기반 시설|하이스트
+attain|달성하다|하이스트
+nutrient|영양소|하이스트
+devour|게걸스럽게 먹다|하이스트
+solidify|굳히다|하이스트
+mutation|돌연변이|하이스트
+involuntary|비자발적인|하이스트
+dismay|실망|하이스트
+gratification|만족감|하이스트
+skeptical|회의적인|하이스트
+expire|만료되다|하이스트
+transmit|전송하다|하이스트
+impart|전하다|하이스트
+subset|부분 집합|하이스트
+inscribe|새기다|하이스트
+assent|동의|하이스트
+pinpoint|정확히 찾아내다|하이스트
+myriad|무수한|하이스트
+downplay|경시하다|하이스트
+extent|정도|하이스트
+optimal|최적의|하이스트
+patronize|후원하다|하이스트
+hygiene|위생|하이스트
+deficit|적자|하이스트
+clarity|명확성|하이스트
+diameter|지름|하이스트
+roar|포효하다|하이스트
+inanimate|무생물의|하이스트
+radioactive|방사성의|하이스트
+tedious|지루한|하이스트
+stir|젓다|하이스트
+perspective|관점|하이스트
+criterion|기준|하이스트
+sturdy|튼튼한|하이스트
+tumor|종양|하이스트
+compliment|칭찬|하이스트
+diffuse|확산시키다|하이스트
+erode|침식하다|하이스트
+strive|노력하다|하이스트
+neutral|중립의|하이스트
+synchronize|동기화하다|하이스트
+astronomical|천문학적인|하이스트
+disdain|경멸|하이스트
+conceit|자만심|하이스트
+archaeology|고고학|하이스트
+descriptive|묘사적인|하이스트
+anarchy|무정부 상태|하이스트
+intuitive|직관적인|하이스트
+entitled|자격이 있는|하이스트
+expense|비용|하이스트
+encounter|마주치다|하이스트
+artifact|유물|하이스트
+symmetry|대칭|하이스트
+ornamental|장식용의|하이스트
+outbreak|발생|하이스트
+fragile|깨지기 쉬운|하이스트
+embed|끼워 넣다|하이스트
+immature|미숙한|하이스트
+consolidate|통합하다|하이스트
+radical|급진적인|하이스트
+blink|눈을 깜박이다|하이스트
+affiliation|소속|하이스트
+assertive|적극적인|하이스트
+terrain|지형|하이스트
+precede|~에 앞서다|하이스트
+volatile|변덕스러운|하이스트
+cling|달라붙다|하이스트
+specify|명시하다|하이스트
+multiple|다수의|하이스트
+imprison|투옥하다|하이스트
+contemporary|현대의|하이스트
+explicit|명백한|하이스트
+deviant|일탈적인|하이스트
+demolish|철거하다|하이스트
+surplus|과잉|하이스트
+deploy|배치하다|하이스트
+disapprove|반대하다|하이스트
+conscientious|양심적인|하이스트
+make|만들다|하이스트
+given|주어진|하이스트
+incorporate|포함하다|하이스트
+dissolve|녹다|하이스트
+perish|죽다|하이스트
+envision|상상하다|하이스트
+reap|수확하다|하이스트
+miser|구두쇠|하이스트
+chronic|만성적인|하이스트
+affluent|부유한|하이스트
+outburst|폭발|하이스트
+accelerate|가속하다|하이스트
+stun|기절시키다|하이스트
+aspiration|열망|하이스트
+ban|금지하다|하이스트
+enthusiasm|열정|하이스트
+victimize|희생시키다|하이스트
+mindset|사고방식|하이스트
+amplify|증폭시키다|하이스트
+diplomatic|외교적인|하이스트
+incur|초래하다|하이스트
+vessel|선박|하이스트
+devastate|완전히 파괴하다|하이스트
+plunge|급락하다|하이스트
+depict|묘사하다|하이스트
+notable|주목할 만한|하이스트
+capture|포착하다|하이스트
+assimilate|동화되다|하이스트
+replicate|복제하다|하이스트
+vertical|수직의|하이스트
+come|오다|하이스트
+pass|지나가다|하이스트
+get|얻다|하이스트
+anywhere|어디든지|하이스트
+communal|공동의|하이스트
+anthropologist|인류학자|하이스트
+deplete|고갈시키다|하이스트
+rationalize|합리화하다|하이스트
+benevolent|자비로운|하이스트
+declare|선언하다|하이스트
+outspoken|솔직한|하이스트
+prospective|장래의|하이스트
+strain|긴장|하이스트
+agonize|고뇌하다|하이스트
+undue|과도한|하이스트
+activate|활성화하다|하이스트
+desolate|황량한|하이스트
+swell|부풀다|하이스트
+notorious|악명 높은|하이스트
+translate|번역하다|하이스트
+consensus|합의|하이스트
+embrace|받아들이다|하이스트
+estimate|추정하다|하이스트
+lease|임대하다|하이스트
+sprout|싹이 트다|하이스트
+crave|갈망하다|하이스트
+contradict|반박하다|하이스트
+supervise|감독하다|하이스트
+acoustic|음향의|하이스트
+heed|주의를 기울이다|하이스트
+metropolitan|대도시의|하이스트
+keep|유지하다|하이스트
+hold|잡다|하이스트
+check|확인하다|하이스트
+output|결과물|하이스트
+away|떨어져|하이스트
+boundary|경계|하이스트
+reveal|드러내다|하이스트
+stack|더미|하이스트
+lean|기대다|하이스트
+cognition|인지|하이스트
+enhance|향상시키다|하이스트
+arrogant|거만한|하이스트
+straightforward|솔직한|하이스트
+dormant|휴면기의|하이스트
+sacred|신성한|하이스트
+verify|확인하다|하이스트
+deforestation|삼림 벌채|하이스트
+curse|저주|하이스트
+marvelous|놀라운|하이스트
+unprecedented|전례 없는|하이스트
+discord|불화|하이스트
+agitate|불안하게 만들다|하이스트
+dispatch|파견하다|하이스트
+inflammation|염증|하이스트
+dangle|매달리다|하이스트
+prestige|위신|하이스트
+despise|경멸하다|하이스트
+imperative|필수적인|하이스트
+flip|뒤집다|하이스트
+normative|규범적인|하이스트
+connotation|함축|하이스트
+intricate|복잡한|하이스트
+equate|동일시하다|하이스트
+behalf|대신|하이스트
+capitalize|이용하다|하이스트
+abstract|추상적인|하이스트
+proponent|지지자|하이스트
+obedient|순종적인|하이스트
+tyranny|폭정|하이스트
+nurture|양육하다|하이스트
+dilute|희석하다|하이스트
+characterize|특징짓다|하이스트
+wary|경계하는|하이스트
+eruption|분출|하이스트
+immerse|담그다|하이스트
+expertise|전문 지식|하이스트
+debris|잔해|하이스트
+tenant|세입자|하이스트
+discourse|담론|하이스트
+reinforce|강화하다|하이스트
+numerous|수많은|하이스트
+respective|각각의|하이스트
+latitude|위도|하이스트
+peculiar|이상한|하이스트
+deprivation|박탈|하이스트
+disgust|혐오감|하이스트
+sustainable|지속 가능한|하이스트
+particle|입자|하이스트
+sterile|살균한|하이스트
+infiltrate|침투하다|하이스트
+array|배열|하이스트
+neural|신경의|하이스트
+articulate|분명히 표현하다|하이스트
+set|설정하다|하이스트
+let|~하게 하다|하이스트
+alone|혼자|하이스트
