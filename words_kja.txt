@@ -1,0 +1,340 @@
+astonished|깜짝 놀란|고등
+scroll|스크롤하다|고등
+share|공유하다, 나누다|중등
+undamaged|피해 없는, 손상되지 않은|고등
+fake|가짜의, 허위의|고등
+embarrassed|당황한|중등
+spread|널리 퍼지다, 퍼뜨리다|중등
+fake news|허위 정보|고등
+remind|상기시키다|중등
+incident|사건|고등
+issue|문제, 쟁점|초등
+turn out|결국 ~로 드러나다|고등
+creator|제작자|고등
+provocative|자극적인, 도발적인|고등
+false|가짜의, 거짓의|고등
+post|게시물, 게시하다|중등
+criticize|비판하다|고등
+confuse|혼란스럽게 하다|중등
+contribute|기여하다, 공헌하다|중등
+accidentally|우연히, 실수로, 뜻하지 않게|고등
+accidental|우발적인, 우연한|고등
+distributor|유포자, 배급자|고등
+deliberate|의도적인, 고의적인|고등
+manipulate|조종하다, 조작하다|고등
+attempt|시도, 시도하다|중등
+inaccurate|부정확한|고등
+intention|의도|고등
+attract|끌어당기다|중등
+profits|이익, 수익|중등
+gain|얻다, 획득하다|중등
+benefit|이득, 혜택|중등
+disturb|어지럽히다, 방해하다|중등
+harm|해를 끼치다|중등
+emergency|비상사태, 긴급 상황|고등
+resident|주민, 거주자|고등
+shelter|대피소, 피난처|중등
+return|돌아가다|초등
+followed by|뒤따라 오는|고등
+be about to|막 ~할 예정이다|고등
+apparently|명백히, 분명히, 겉보기에|고등
+sink|가라앉다|중등
+up to you|당신 마음에 달린, 당신에게 맡겨진|고등
+displaced|자리를 잃은, 쫓겨난|고등
+aftershock|여진|고등
+announce|알리다, 발표하다|중등
+significantly|훨씬, 상당히|고등
+average|평균|중등
+explanation|설명|고등
+phenomenon|현상|고등
+astonishing|놀라운|고등
+surprising|놀라운|중등
+stimulating|자극적인, 흥미로운|고등
+viral|널리 퍼지는, 빠르게 퍼지는|고등
+tend|경향이 있다|중등
+effortlessly|쉽게, 수월하게|고등
+critically|비판적으로, 중요하게|고등
+examine|조사하다, 살펴보다, 검토하다|중등
+prejudice|편견|고등
+inclined|경향이 있는|고등
+process|과정, 처리하다|중등
+trap|함정, 가두다|중등
+accept|수용하다, 받아들이다|중등
+confirm|확인하다, 확증하다|중등
+ignore|무시하다|중등
+favored|선호되는|고등
+unconsciously|무의식적으로|고등
+ensure|확신하다, 보장하다|고등
+mislead|현혹하다, 오도하다|고등
+face value|액면가, 표면적 가치|고등
+critical thinking|비판적 사고|고등
+analyze|분석하다|고등
+evaluate|평가하다|고등
+bias|편견, 편향|고등
+affect|영향을 미치다|중등
+judgment|판단|고등
+article|기사|중등
+suit|맞다, 적합하다|중등
+look for|찾다|중등
+source|출처, 원천|중등
+intent|의도|중등
+reliable|신뢰할 수 있는|고등
+media source|미디어 출처|고등
+valid|타당한, 유효한|고등
+eliminate|없애다, 제거하다, 배변하다|고등
+objectively|객관적으로|고등
+reduce|줄이다, 감소시키다|중등
+cause|야기하다, 유발하다, 원인|중등
+access|접하다, 접근, 접근성|중등
+selectively|선택적으로|고등
+encounter|노출하다, 마주치다, 우연히 만나다|고등
+perspective|관점, 시각|고등
+consider|고려하다, 숙고하다|중등
+alternative|대안적인, 대체의|고등
+trapped|갇힌|고등
+enclosed|밀폐된, 둘러싸인, 폐쇄된|고등
+leak|새다, 누설하다|고등
+distort|왜곡하다|고등
+think critically|비판적으로 사고하다|고등
+engage|교류하다, 참여하다|중등
+meaningful|의미 있는|고등
+debate|토론, 토론하다|중등
+foster|조장하다, 촉진하다, 발전시키다|고등
+social division|사회적 분열|고등
+collaboration|협력, 공동 작업|고등
+actively|활동적으로, 적극적으로|고등
+diverse|다양한, 서로 다른, 여러 가지의|고등
+receive|받다|중등
+open-minded|개방적인 마음의|고등
+discuss|논의하다, 토론하다|초등
+anthropologist|인류학자|고등
+dirt|흙, 먼지, 더러움|중등
+out of place|제자리에 있지 않은|고등
+relative|상대적인, 친척|고등
+emphasize|강조하다|중등
+sort|분류하다, 가려내다, 종류|중등
+systematic|체계적인|고등
+ordering|정리, 정돈, 질서 부여|고등
+classify|분류하다|고등
+positive|긍정적인|고등
+show off|과시하다, 드러내 보이다|고등
+idiosyncratic|독특한, 개인적인|고등
+reflect on|~을 성찰하다, 되돌아보다|고등
+trial and error|시행착오|고등
+decade|10년|고등
+conclusively|결정적으로, 단호하게|고등
+lecture|강의, 강의하다|고등
+pull together|종합하다, 모으다|고등
+break off|(그룹으로) 나뉘다, 분리되다|고등
+eventually|결국, 마침내|고등
+stick with|(기억에) 남아 있다|고등
+pretend|~인 척하다, 가장하다|중등
+volunteer|자원봉사자, 자원하다|중등
+survey|설문조사하다, 조사하다|중등
+lawn|잔디밭|중등
+participant|참가자|고등
+refuse|거절하다|중등
+incredible|믿을 수 없는, 엄청난|고등
+approve|승인하다, 찬성하다|고등
+commitment|약속, 헌신|고등
+initial|처음의, 초기의|고등
+willingness|기꺼이 하려는 마음, 의지|고등
+conduct|수행하다, 실시하다|고등
+assign|할당하다, 배정하다|중등
+interact|상호작용하다|고등
+agreement|합의, 동의|고등
+disagreement|의견 불일치, 이견|고등
+noticeable|눈에 띄는, 현저한|고등
+reveal|드러내다, 밝히다|고등
+thirst|갈증, 열망|초등
+firm|회사, 기업, 확고한|중등
+dismiss|해고하다, 묵살하다|고등
+recession|경기 침체, 불황|고등
+unemployment|실업|고등
+earnings|소득, 수입|고등
+leakage|누출, 새어 나감|고등
+back and forth|앞뒤로, 주고받는|고등
+draw on|~에 의존하다, ~을 이용하다|고등
+pace|속도, 보폭|고등
+invention|꾸며낸 이야기, 발명|고등
+recall|기억해 내다, 상기하다|고등
+stored|저장된|고등
+time lag|시간 지연, 시차|고등
+make up|(이야기 등을) 지어내다|고등
+disbelieve|믿지 않다, 의심하다|고등
+pause|잠시 멈추다, 일시정지|중등
+consistently|일관되게, 지속적으로|고등
+predictably|예측 가능하게|고등
+distress|고통, 괴로움|고등
+predictable|예측 가능한|고등
+discomfort|불편함, 불쾌감|고등
+companion|동반자, 반려자|고등
+withhold|보류하다, 주지 않고 두다|고등
+confident|자신감 있는|고등
+calm|침착한, 평온한|중등
+distinguish|구별하다|고등
+legally|법적으로, 합법적으로|고등
+effective|실질적인, 유효한, 효과적인|고등
+incapable|할 수 없는, 무능한|고등
+restriction|제약, 제한|고등
+restrain|제지하다, 억제하다|고등
+means|수단, 방법|고등
+overestimate|과대평가하다|고등
+defining|결정적인|고등
+underestimate|과소평가하다|고등
+convince|설득하다, 확신시키다|중등
+massive|거대한, 엄청난|고등
+earthshaking|지축을 흔들 만한, 중대한|고등
+meanwhile|한편|고등
+notable|눈에 띄는, 주목할 만한|고등
+conversely|반대로, 역으로|고등
+decline|감소하다, 하락하다, 거절하다|고등
+add up to|결국 ~이 되다, 합계가 ~이 되다|고등
+present|존재하는, 있는, 현재의|초등
+empathy|공감, 감정이입|고등
+fundamental|근본적인, 핵심적인|고등
+artificial|인공의, 인위적인|고등
+think twice|두 번 생각하다, 망설이다|고등
+overpromise|과도한 약속, 과대 약속|고등
+differential|차등적인, 차별적인|고등
+pricing|가격 책정|고등
+distribution|유통, 분배|고등
+truthfulness|진실성, 정직함|고등
+forum|포럼, 공개 토론의 장|고등
+talk back|반박하다, 말대꾸하다|고등
+instantly|즉시, 즉각적으로|고등
+mobile|이동할 수 있는, 이동식의|고등
+intuitive|직관적인|고등
+spark|불러일으키다, 자극하다, 불꽃|고등
+pathway|길, 경로|고등
+catalyst|촉매제, 기폭제|고등
+vital|필수적인, 지극히 중요한|고등
+destination|목적지|고등
+aspire|열망하다, 갈망하다|고등
+strengthen|강화하다|고등
+expand|확장하다, 확대하다|중등
+go under|파산하다, 망하다|고등
+beg|간청하다, 구걸하다|중등
+turn down|거절하다|고등
+tremendous|엄청난, 막대한|고등
+executive|경영진, 임원|고등
+sustain|유지하다, 지속하다|고등
+establish|확립하다, 설립하다|중등
+margin|여유, 여백|고등
+thrive|번창하다, 번성하다|고등
+flail|허우적거리다, 마구 흔들리다|고등
+principal|주요한, 주된|고등
+preferential|우선적인|고등
+reliably|신뢰할 수 있게, 확실히|고등
+external|외부의|고등
+cue|신호, 단서|고등
+precise|정확한, 정밀한|고등
+blindness|시각 장애, 실명|고등
+entirely|완전히, 전적으로|고등
+circadian rhythm|일주기 리듬, 24시간 주기 리듬|고등
+trigger|유발 요인, 방아쇠, 유발하다|고등
+term|일컫다, 부르다, 용어|중등
+synchronizer|동기화 장치, 시간 조절자|고등
+primary|주요한, 일차적인|고등
+absence|부재, 없음|고등
+colleague|동료|고등
+tendency|경향, 성향|고등
+identify with|~와 동일시하다, 동질감을 느끼다|고등
+infancy|유아기|고등
+innate|선천적인, 타고난|고등
+bunch|무리, 다발|중등
+affinity|선호도, 친밀감, 친화력|고등
+stare|응시하다, 빤히 쳐다보다|중등
+routinely|일상적으로, 흔히|고등
+cite|인용하다|고등
+built-in|내재된, 타고난|고등
+evolutionary|진화적인, 진화의|고등
+preference|선호, 선호도|고등
+evolve|진화하다, 발전하다|고등
+species|종(種)|중등
+structure|구조|중등
+domestication|가축화, 길들이기|고등
+reduction|감소, 축소|고등
+ancestor|조상, 선조|고등
+capacity|능력, 용량|고등
+occur|발생하다, 일어나다|중등
+domesticate|가축화하다, 길들이다|고등
+firmly|확고하게, 단단히|고등
+shrink|줄어들다, 축소되다|고등
+survival|생존|고등
+acquire|습득하다, 얻다|고등
+trait|특성, 특징|고등
+adulthood|성인기|고등
+compete|경쟁하다|고등
+cooperate|협력하다, 협동하다|고등
+anniversary|기념일|고등
+approach|다가오다, 접근하다|중등
+peak|최고조에 달하다, 절정|고등
+surrounding|전후의, 주변의|고등
+drop off|감소하다, 줄어들다|고등
+thereafter|그 후에|고등
+prior to|~이전에, ~에 앞서|고등
+blitz|집중 공세, 대대적인 보도|고등
+respondent|응답자|고등
+intensify|강화되다, 심해지다|고등
+identify|지목하다, 확인하다|고등
+reportage|보도, 보도량|고등
+coverage|(언론의) 보도, 취재 범위|고등
+perceived|인지된, 인식되는|고등
+significance|중요성, 의의|고등
+observer|관찰자|고등
+expose|노출시키다|중등
+newborn|신생아|고등
+infant|유아, 아기|고등
+comfort|위로하다, 달래다, 위안|중등
+rock|흔들다, 흔들리다|초등
+motion|움직임, 동작|중등
+womb|자궁|고등
+to date|현재까지, 지금까지|고등
+convincing|설득력 있는, 확실한|고등
+demonstrate|입증하다, 보여주다|중등
+significant|유의미한, 중요한|고등
+pregnancy|임신|고등
+associate|연관 짓다, 연상하다|중등
+repetitive|반복적인|고등
+reinforcer|강화물, 강화제|고등
+fondness|애착, 좋아함|고등
+condition|조건화하다, 길들이다|초등
+associative|연관의, 연합의|고등
+surface|표면|중등
+reflect|반사하다, 반영하다|중등
+reflection|반사된 상, 반사|고등
+ray|빛줄기, 광선|고등
+retina|망막|고등
+reverse|뒤집다, 반대로 하다|고등
+coded|암호화된|고등
+upright|똑바로, 수직으로|고등
+backwards|거꾸로, 뒤로|고등
+reciprocity|호혜성, 상호성|고등
+explore|탐구하다, 탐험하다|고등
+captivity|사육, 감금|고등
+obtain|얻다, 획득하다|고등
+sizable|상당한 크기의, 꽤 많은|고등
+distribute|분배하다, 나누어 주다|고등
+beggar|구걸하는 자, 거지|고등
+complain|불평하다|중등
+aggressive|공격적인|고등
+conflict|충돌, 갈등|중등
+rare|드문, 희귀한|중등
+possessor|소유자|고등
+bark|소리 지르다, 짖다|중등
+high-pitched|고음의, 날카로운 소리의|고등
+rank|서열, 지위, 계급|고등
+obvious|분명한, 명백한|중등
+assessment|평가, 판단|고등
+visual|시각적인, 시각의|고등
+appearance|외관, 외모, 등장|고등
+input|입력, 정보|고등
+override|압도하다, 우선하다|고등
+flavoured|~맛이 나는|고등
+striking|놀라운, 두드러진|고등
+appropriate|적합한, 적절한|중등
+prune|자두, 건자두|고등
+dye|염료, 색소, 염색하다|고등
+expert|전문가|중등
+trick|속이다, 속임수|중등
