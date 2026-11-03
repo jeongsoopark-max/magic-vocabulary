@@ -6495,3 +6495,102 @@ review|평론, 복습하다|오산2
 extract|뽑다, 추출물|오산2
 discharge|짐을 부리다. 해제하다|오산2
 compose|작곡하다. 구성시키다,|오산2
+resilience|회복력|오산3
+overcome|극복하다|오산3
+deal with|~을 다루다|오산3
+cultivate|기르다|오산3
+adversity|역경|오산3
+take the form of|~의 모습을 취하다|오산3
+cope|대처하다|오산3
+be known as|~로 알려져 있다|오산3
+bounce back|회복되다, 반등하다|오산3
+benefit|득을 보다|오산3
+survive|견뎌 내다, 살아남다|오산3
+poverty|가난|오산3
+loss|죽음, 인명 손실|오산3
+blessing|축복|오산3
+inspire ~ to ...|~를 고무시켜 …하게 하다|오산3
+athlete|운동 선수|오산3
+opportunity|기회|오산3
+medical condition|질병, 질환|오산3
+surgery|수술|오산3
+compete against|~와 경쟁하다|오산3
+disability|장애|오산3
+participate|참가하다|오산3
+potential|가능성, 잠재력|오산3
+despite|~에도 불구하고|오산3
+exceptional|예외의, 특별한|오산3
+muscle|근육|오산3
+strategy|전략|오산3
+passive|수동적인, 소극적인|오산3
+suffering|고통, 괴로움|오산3
+single out|뽑아내다, 선정하다|오산3
+obstacle|장애물|오산3
+confront|맞서다|오산3
+look after|살피다, 돌보다|오산3
+regret|후회하다|오산3
+meditate|명상하다|오산3
+breath|숨|오산3
+observe|관찰하다|오산3
+judge|평가하다|오산3
+proceed|진행하다|오산3
+clarity|명료, 명확|오산3
+particularly|특히|오산3
+uncertainty|불확실성|오산3
+apply ~ to ...|~을 …에 적용하다|오산3
+gradually|서서히|오산3
+fulfilled|만족하는|오산3
+mindset|마음가짐, 사고방식|오산3
+psychologist|심리학자|오산3
+tend to|(~하는) 경향이 있다|오산3
+reject|거부하다, 거절하다|오산3
+constructive|건설적인|오산3
+defeated|패배한|오산3
+confidence|자신감|오산3
+empower ~ to ...|~에게 …할 권한을 부여하다|오산3
+imperfection|불완전, 결함|오산3
+microscope|현미경|오산3
+structure|구조|오산3
+organism|유기체|오산3
+accessible|접근 가능한|오산3
+magnification|확대|오산3
+infectious|전염성의|오산3
+come across|~을 우연히 발견하다|오산3
+diagnosis|진단|오산3
+crucial|결정적인|오산3
+bulky|부피가 큰|오산3
+awkward|곤란한|오산3
+delicate|부서지기 쉬운|오산3
+instrument|기구|오산3
+affordable|(가격 등이) 감당할 수 있는|오산3
+take shape|구체화되다|오산3
+eyepiece|접안 렌즈|오산3
+component|부품|오산3
+specimen|표본, 시료|오산3
+illuminate|비추다|오산3
+compromise|타협|오산3
+middle ground|절충안|오산3
+determined|단호한|오산3
+remain|남아 있다|오산3
+precision|정밀|오산3
+waterproof|방수의|오산3
+capable|~을 할 수 있는|오산3
+examine|검사하다|오산3
+portable|휴대가 쉬운|오산3
+external|외부의|오산3
+enhance|높이다|오산3
+compatibility|호환성|오산3
+project|투사하다|오산3
+high-resolution|고해상도의|오산3
+distribute|배포하다|오산3
+detect|발견하다, 탐지하다|오산3
+crush|눌러 부수다, 으스러뜨리다|오산3
+uniform|균일한|오산3
+particle|입자|오산3
+mere|단순한|오산3
+publish|발표하다, 출판하다|오산3
+in progress|진행 중인|오산3
+emerge|생겨나다|오산3
+establish|설립하다|오산3
+resource|재료, 자원|오산3
+expand|확장되다|오산3
