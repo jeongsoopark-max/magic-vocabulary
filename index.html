@@ -12,6 +12,8 @@
     <link rel="manifest" href="./manifest.json">
     <title>스마트 영단어 · MAGIC VOCAB</title>
     <meta name="description" content="MAGIC ENGLISH 스마트 영단어 실력 체크 전용 앱 (Wake-up 시간 0초 초고속 버전)">
+    <link rel="icon" type="image/png" sizes="512x512" href="./icon-512.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="./icon-192.png">
     <link rel="icon" type="image/svg+xml" href="./favicon.svg">
     <link rel="icon" type="image/x-icon" href="./favicon.ico">
     <link rel="apple-touch-icon" sizes="180x180" href="./apple-touch-icon.png">
@@ -306,17 +308,30 @@
                 <p class="text-slate-500 text-xs mt-1">기존 <b>MAGIC ENGLISH(M)</b> 아이콘과 별도로,<br>보라색 <b>스마트 영단어(V)</b> 전용 아이콘이 추가됩니다!</p>
             </div>
 
-            <div id="vocabOneClickBox" class="hidden mb-4 bg-indigo-50 border-2 border-indigo-400 rounded-2xl p-4 text-center">
-                <p class="text-xs font-extrabold text-indigo-900 mb-2">✨ 원클릭으로 '스마트 영단어' 아이콘을 바로 설치할 수 있어요!</p>
+            <div id="vocabOneClickBox" class="mb-4 bg-indigo-50 border-2 border-indigo-400 rounded-2xl p-4 text-center space-y-2">
+                <p class="text-xs font-extrabold text-indigo-900">✨ '스마트 영단어' 아이콘을 바로 설치할 수 있어요!</p>
                 <button type="button" onclick="triggerVocabInstall()" class="w-full py-3 bg-gradient-to-r from-indigo-600 to-violet-600 hover:from-indigo-700 hover:to-violet-700 text-white font-black rounded-xl text-sm flex items-center justify-center gap-2 shadow-md transition-all">
-                    <i class="fa-solid fa-download"></i> '스마트 영단어' 아이콘 지금 설치
+                    <i class="fa-solid fa-download"></i> <span>'스마트 영단어' 아이콘 지금 설치</span>
                 </button>
+                <a href="https://magic-english-video-3.onrender.com/api/shortcut?app=vocab" onclick="return downloadVocabDesktopShortcut(event)" class="w-full py-2 bg-white hover:bg-indigo-100 border border-indigo-400 text-indigo-800 font-extrabold rounded-xl text-xs flex items-center justify-center gap-1.5 transition-all">
+                    <i class="fa-brands fa-apple"></i> <span>맥북·PC 바탕화면 바로가기 파일(.webloc) 받기</span>
+                </a>
             </div>
 
             <div class="space-y-2.5 text-left">
+                <div class="p-3 rounded-2xl bg-indigo-50/60 border border-indigo-200">
+                    <div class="font-extrabold text-slate-900 text-xs flex items-center gap-2">
+                        <i class="fa-brands fa-apple text-slate-900"></i> 맥북 (MacBook · Safari / Chrome)
+                    </div>
+                    <p class="text-xs text-slate-600 mt-1 leading-relaxed">
+                        • <b>바탕화면 아이콘 파일:</b> 위 <b>[맥북·PC 바탕화면 바로가기 파일(.webloc) 받기]</b> 클릭<br>
+                        • <b>Safari:</b> 맥북 상단 메뉴바 <b>[파일(File)] → [Dock에 추가...(Add to Dock...)]</b> 클릭<br>
+                        • <b>Chrome:</b> 우측 상단 <b>[⋮] → [전송, 저장, 공유] → [페이지를 앱으로 설치...]</b> 클릭
+                    </p>
+                </div>
                 <div class="p-3 rounded-2xl bg-slate-50 border border-slate-200">
                     <div class="font-extrabold text-slate-900 text-xs flex items-center gap-2">
-                        <i class="fa-solid fa-desktop text-indigo-600"></i> 데스크탑 · 노트북 (Chrome / Edge)
+                        <i class="fa-solid fa-desktop text-indigo-600"></i> 윈도우 데스크탑 · 노트북 (Chrome / Edge)
                     </div>
                     <p class="text-xs text-slate-600 mt-1 leading-relaxed">
                         주소창 오른쪽 끝의 <b>[앱 설치]</b> 아이콘 또는 브라우저 메뉴(⋮) → <b>[전송, 저장, 공유] → [페이지를 앱으로 설치]</b>를 누르면 바탕화면에 <b>스마트 영단어(V)</b> 아이콘이 따로 생성됩니다.
@@ -1377,34 +1392,66 @@
             if (m) { m.classList.add("hidden"); m.classList.remove("flex"); }
         }
 
+        function downloadVocabDesktopShortcut(e) {
+            if (e && e.preventDefault) e.preventDefault();
+            var ua = navigator.userAgent || "";
+            var isMac = /Macintosh|Mac OS X/i.test(ua) && !/iPhone|iPad|iPod/i.test(ua);
+            var content = isMac
+                ? '<?xml version="1.0" encoding="UTF-8"?>\n<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">\n<plist version="1.0">\n<dict>\n\t<key>URL</key>\n\t<string>https://jeongsoopark-max.github.io/magic-vocabulary/</string>\n</dict>\n</plist>\n'
+                : '[InternetShortcut]\r\nURL=https://jeongsoopark-max.github.io/magic-vocabulary/\r\nIconFile=https://jeongsoopark-max.github.io/magic-vocabulary/favicon.ico\r\nIconIndex=0\r\n';
+            var filename = isMac ? "스마트 영단어.webloc" : "스마트 영단어.url";
+            var blob = new Blob([content], { type: "application/octet-stream" });
+            var blobUrl = URL.createObjectURL(blob);
+            var a = document.createElement("a");
+            a.href = blobUrl;
+            a.download = filename;
+            document.body.appendChild(a);
+            a.click();
+            setTimeout(function () {
+                try { document.body.removeChild(a); URL.revokeObjectURL(blobUrl); } catch (err) {}
+            }, 600);
+            return false;
+        }
+
         async function triggerVocabInstall() {
-            if (!vocabDeferredPrompt) {
-                if (!isOnStandaloneDomain()) jumpToStandaloneInstaller();
+            if (vocabDeferredPrompt) {
+                try {
+                    vocabDeferredPrompt.prompt();
+                    var choice = await vocabDeferredPrompt.userChoice;
+                    if (choice && choice.outcome === "accepted") {
+                        vocabDeferredPrompt = null;
+                        closeVocabInstallModal();
+                    }
+                    return;
+                } catch (e) {}
+            }
+            if (!isOnStandaloneDomain()) {
+                jumpToStandaloneInstaller();
                 return;
             }
-            try {
-                vocabDeferredPrompt.prompt();
-                var choice = await vocabDeferredPrompt.userChoice;
-                if (choice && choice.outcome === "accepted") {
-                    vocabDeferredPrompt = null;
-                    var box = document.getElementById("vocabOneClickBox");
-                    if (box) box.classList.add("hidden");
-                    closeVocabInstallModal();
+            var ua = navigator.userAgent || "";
+            var isMac = /Macintosh|Mac OS X/i.test(ua) && !/iPhone|iPad|iPod/i.test(ua);
+            var isMobile = /Android|iPhone|iPad|iPod/i.test(ua);
+            if (!isMobile) {
+                downloadVocabDesktopShortcut(null);
+                if (isMac) {
+                    var isSafari = /Safari/i.test(ua) && !/Chrome|Chromium|Edg|OPR|Whale/i.test(ua);
+                    alert(
+                        isSafari
+                            ? "🍎 [맥북 Safari 안내]\n\n1) '스마트 영단어.webloc' 바로가기 파일이 다운로드되었습니다! (바탕화면에 두고 더블클릭 시 즉시 실행)\n\n2) 맥북 하단 Dock에 앱 아이콘(V)으로 고정하려면:\n화면 맨 위 상단 메뉴바에서 [파일(File)] → [Dock에 추가...(Add to Dock...)]를 눌러주세요!"
+                            : "🍎 [맥북 Chrome 안내]\n\n1) '스마트 영단어.webloc' 바탕화면 바로가기 파일이 다운로드되었습니다!\n\n2) 독립 앱(V 아이콘)으로 설치하려면:\n• 크롬 주소창 오른쪽 끝 [🖥↓ 앱 설치] 아이콘 클릭\n• 또는 크롬 우측 상단 [⋮] → [전송, 저장, 공유] → [페이지를 앱으로 설치...] 클릭!"
+                    );
                 }
-            } catch (e) {}
+            }
         }
 
         window.addEventListener("beforeinstallprompt", function (e) {
             e.preventDefault();
             vocabDeferredPrompt = e;
-            var box = document.getElementById("vocabOneClickBox");
-            if (box) box.classList.remove("hidden");
         });
 
         window.addEventListener("appinstalled", function () {
             vocabDeferredPrompt = null;
-            var box = document.getElementById("vocabOneClickBox");
-            if (box) box.classList.add("hidden");
             closeVocabInstallModal();
         });
 
@@ -1438,9 +1485,7 @@
         }
 
         if ("serviceWorker" in navigator) {
-            window.addEventListener("load", function () {
-                navigator.serviceWorker.register("./sw.js", { scope: "./" }).catch(function () {});
-            });
+            navigator.serviceWorker.register("./sw.js", { scope: "./" }).catch(function () {});
         }
 
         // 초기 실행
