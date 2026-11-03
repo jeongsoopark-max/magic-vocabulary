@@ -2,8 +2,51 @@ import streamlit as st
 import random
 import os
 import io
+import time
+import uuid
+import json
+import urllib.request
 from gtts import gTTS
 from google import genai
+
+TRACK_API_BASE = "https://magic-english-video-3.onrender.com"
+
+def sync_usage_to_portal():
+    try:
+        sid = st.session_state.get("student_id", "일반") or "일반"
+        started = st.session_state.get("session_start_ts", time.time())
+        active_sec = max(1, int(time.time() - started))
+        q_ans = st.session_state.get("total_questions_answered", 0)
+        if sid == "일반" and active_sec < 5 and q_ans == 0:
+            return
+        payload = json.dumps({
+            "sk": st.session_state.get("session_key", "st_default") + ":" + sid,
+            "vid": st.session_state.get("visitor_id", "streamlit_user"),
+            "student_id": sid,
+            "level": st.session_state.get("current_level", ""),
+            "quiz_type": st.session_state.get("quiz_type", ""),
+            "active_sec": active_sec,
+            "questions_answered": q_ans,
+            "correct_count": st.session_state.get("total_correct_count", 0),
+            "completed_quizzes": st.session_state.get("total_completed_quizzes", 0),
+            "last_score": st.session_state.get("last_score_pct", None),
+        }).encode("utf-8")
+        req = urllib.request.Request(
+            f"{TRACK_API_BASE}/api/track/vocab",
+            data=payload,
+            headers={
+                "Content-Type": "application/json",
+                "User-Agent": "Mozilla/5.0 (Streamlit-MagicVocab)"
+            },
+            method="POST"
+        )
+        with urllib.request.urlopen(req, timeout=4) as resp:
+            data = json.loads(resp.read().decode("utf-8"))
+            if data and data.get("ok"):
+                st.session_state.daily_goal_minutes = data.get("goal_minutes", 10)
+                st.session_state.today_total_sec = max(active_sec, data.get("today_sec", 0))
+    except Exception:
+        pass
 
 # --- 1. 기능 함수 정의 ---
 def play_audio(text):
@@ -69,11 +112,24 @@ def start_quiz(level, quiz_type):
     st.session_state.test_pool = test_pool
     st.session_state.quiz_started = True
     st.session_state.quiz_type = quiz_type
+    st.session_state.current_level = level
     st.session_state.current_idx = 0
     st.session_state.score = 0
     st.session_state.wrong_words = []
+    sync_usage_to_portal()
 
 # --- 3. 초기 세션 및 데이터 세팅 ---
+if 'session_key' not in st.session_state:
+    st.session_state.session_key = "st_" + uuid.uuid4().hex[:12]
+    st.session_state.visitor_id = "st_v_" + uuid.uuid4().hex[:10]
+    st.session_state.session_start_ts = time.time()
+    st.session_state.total_questions_answered = 0
+    st.session_state.total_correct_count = 0
+    st.session_state.total_completed_quizzes = 0
+    st.session_state.last_score_pct = None
+    st.session_state.daily_goal_minutes = 10
+    st.session_state.today_total_sec = 0
+
 if 'student_id' not in st.session_state:
     st.session_state.student_id = "일반"
 
@@ -85,6 +141,7 @@ if 'word_list' not in st.session_state:
 if 'quiz_started' not in st.session_state:
     st.session_state.quiz_started = False
     st.session_state.quiz_type = "단답형 주관식"
+    st.session_state.current_level = ""
     st.session_state.current_idx = 0
     st.session_state.score = 0
     st.session_state.wrong_words = []
@@ -115,6 +172,7 @@ with st.sidebar:
             st.success(f"{st.session_state.student_id}님 환영합니다!")
         
         st.session_state.quiz_started = False # 사용자 변경 시 퀴즈 초기화
+        sync_usage_to_portal()
         st.rerun()
 
     st.divider()
@@ -128,7 +186,10 @@ with st.sidebar:
 
 # --- 5. 메인 UI 레이아웃 ---
 st.title("🎯 스마트 영단어 실력 체크")
-st.caption(f"현재 접속 모드: **{st.session_state.student_id}**")
+elapsed_min = int(max(time.time() - st.session_state.session_start_ts, st.session_state.get("today_total_sec", 0)) // 60)
+elapsed_sec = int(max(time.time() - st.session_state.session_start_ts, st.session_state.get("today_total_sec", 0)) % 60)
+goal_min = st.session_state.get("daily_goal_minutes", 10)
+st.caption(f"현재 접속 모드: **{st.session_state.student_id}** · ⏱ 오늘 학습 시간: **{elapsed_min:02d}분 {elapsed_sec:02d}초 / 일일 목표 {goal_min}분**")
 
 if not st.session_state.quiz_started:
     st.subheader("시험 설정을 선택하세요!")
@@ -191,9 +252,15 @@ else:
                 else:
                     if user_choice == current_pool[idx]['meaning']:
                         st.session_state.score += 1
+                        st.session_state.total_correct_count = st.session_state.get("total_correct_count", 0) + 1
                     else:
                         st.session_state.wrong_words.append(current_pool[idx])
+                    st.session_state.total_questions_answered = st.session_state.get("total_questions_answered", 0) + 1
                     st.session_state.current_idx += 1
+                    if st.session_state.current_idx >= len(current_pool):
+                        st.session_state.total_completed_quizzes = st.session_state.get("total_completed_quizzes", 0) + 1
+                        st.session_state.last_score_pct = round((st.session_state.score / max(1, len(current_pool))) * 100)
+                    sync_usage_to_portal()
                     st.rerun()
 
         else:
@@ -202,15 +269,26 @@ else:
             if st.button("다음 문제 ➡️") or (user_answer and st.session_state.get(f"last_answer") != user_answer):
                 if user_answer.strip() == current_pool[idx]['meaning']:
                     st.session_state.score += 1
+                    st.session_state.total_correct_count = st.session_state.get("total_correct_count", 0) + 1
                 else:
                     st.session_state.wrong_words.append(current_pool[idx])
-                
+                st.session_state.total_questions_answered = st.session_state.get("total_questions_answered", 0) + 1
                 st.session_state.current_idx += 1
+                if st.session_state.current_idx >= len(current_pool):
+                    st.session_state.total_completed_quizzes = st.session_state.get("total_completed_quizzes", 0) + 1
+                    st.session_state.last_score_pct = round((st.session_state.score / max(1, len(current_pool))) * 100)
+                sync_usage_to_portal()
                 st.rerun()
 
     else:
         st.balloons()
         st.success(f"시험 종료! 당신의 점수는 **{st.session_state.score} / {len(current_pool)}** 점입니다.")
+        cur_sec = max(int(time.time() - st.session_state.session_start_ts), st.session_state.get("today_total_sec", 0))
+        if cur_sec < goal_min * 60:
+            rem = goal_min * 60 - cur_sec
+            st.warning(f"🚨 오늘의 의무 학습 목표({goal_min}분)까지 아직 **{rem // 60}분 {rem % 60}초** 남았습니다! 이어서 다음 세트를 진행해 주세요.")
+        else:
+            st.info(f"✅ 오늘의 의무 단어 학습 목표({goal_min}분)를 달성했습니다! 선생님께 기록이 자동 전송되었습니다.")
         
         if st.session_state.wrong_words:
             st.warning("🧐 다시 확인해볼 단어들:")
