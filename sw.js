@@ -1,5 +1,5 @@
 // sw.js — Dedicated Service Worker for the Smart Vocabulary PWA (스마트 영단어)
-const CACHE_NAME = 'magic-vocab-pwa-v3';
+const CACHE_NAME = 'magic-vocab-pwa-v4';
 const PRECACHE_ASSETS = [
   './',
   './index.html',
