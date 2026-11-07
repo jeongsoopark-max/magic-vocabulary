@@ -1492,11 +1492,19 @@
             if (!u) return false;
             var t = String(targetMeaning || "").trim();
             if (u === t) return true;
-            // 쉼표나 세미콜론으로 구분된 개별 뜻 중 하나와 일치해도 정답 인정 (편의성 강화)
-            var clean = function (s) { return s.replace(/\([^)]*\)/g, "").trim(); };
-            if (clean(u) && clean(u) === clean(t)) return true;
-            var parts = clean(t).split(/[,;/]/).map(function (p) { return p.trim(); }).filter(Boolean);
-            return parts.indexOf(clean(u)) !== -1;
+            // 품사(n., v., adj., adv., phr. 등) 및 괄호 안 부연설명을 제거하고 개별 뜻 중 하나와 일치해도 정답 인정
+            var clean = function (s) {
+                return String(s || "")
+                    .replace(/^(?:n|v|adj|adv|phr|prep|conj|pron|vt|vi|aux|num|interj)\.(?:\/(?:n|v|adj|adv|phr|prep|conj|pron)\.)?(?:v\.)?\s*/gi, "")
+                    .replace(/\b(?:n|v|adj|adv|phr|prep|conj|pron)\.\s*/gi, "")
+                    .replace(/\([^)]*\)/g, "")
+                    .trim();
+            };
+            var cu = clean(u);
+            var ct = clean(t);
+            if (cu && cu === ct) return true;
+            var parts = ct.split(/[,;/]/).map(function (p) { return clean(p); }).filter(Boolean);
+            return cu ? parts.indexOf(cu) !== -1 : false;
         }
 
         function submitMultipleChoice() {

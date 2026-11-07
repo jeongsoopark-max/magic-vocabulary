@@ -267,7 +267,11 @@ else:
             user_answer = st.text_input("뜻을 입력하세요 (엔터를 치면 다음으로 넘어갑니다)", key=f"q_{idx}")
             
             if st.button("다음 문제 ➡️") or (user_answer and st.session_state.get(f"last_answer") != user_answer):
-                if user_answer.strip() == current_pool[idx]['meaning']:
+                import re as _re
+                _clean_m = lambda s: _re.sub(r"\([^)]*\)", "", _re.sub(r"\b(?:n|v|adj|adv|phr|prep|conj|pron|vt|vi|aux|num|interj)\.(?:/(?:n|v|adj|adv|phr|prep|conj|pron)\.)?(?:v\.)?\s*", "", str(s or ""), flags=_re.I)).strip()
+                _u_clean = _clean_m(user_answer)
+                _t_parts = [_clean_m(p) for p in _re.split(r"[,;/]", _clean_m(current_pool[idx]['meaning'])) if _clean_m(p)]
+                if user_answer.strip() == current_pool[idx]['meaning'] or (_u_clean and (_u_clean == _clean_m(current_pool[idx]['meaning']) or _u_clean in _t_parts)):
                     st.session_state.score += 1
                     st.session_state.total_correct_count = st.session_state.get("total_correct_count", 0) + 1
                 else:
