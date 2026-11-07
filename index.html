@@ -455,7 +455,22 @@
             var targetFile = sid === "일반" ? "words.txt" : ("words_" + sid + ".txt");
             var banner = document.getElementById("authStatusBanner");
 
-            // 1순위: GitHub Raw 직접 호출 (CDN 초고속 0.05초 로드)
+            // 학생 이름으로 접속 시: 홈페이지 서버에 업로드된 [학생 맞춤 단어장] + 이용권 만료 여부 통합 API 우선 조회
+            if (sid !== "일반") {
+                try {
+                    var customApiUrl = API_BASE + "/api/vocab/words?student=" + encodeURIComponent(sid) + (forceRefresh ? "&refresh=1" : "");
+                    var cr = await fetch(customApiUrl, { cache: "no-store" });
+                    if (cr.ok) {
+                        var cj = await cr.json();
+                        if (cj && cj.ok && cj.words && cj.words.length) {
+                            applyLoadedWords(sid, cj.words, cj.levels, cj.fallbackToDefault, targetFile, !!cj.passExpired, cj.passExpiresKst);
+                            return;
+                        }
+                    }
+                } catch (e) {}
+            }
+
+            // 1순위(일반 모드 또는 오프라인 폴백): GitHub Raw 직접 호출 (CDN 초고속 0.05초 로드)
             try {
                 var rawUrl = GITHUB_RAW_BASE + encodeURIComponent(targetFile) + "?t=" + Date.now();
                 var res = await fetch(rawUrl, { cache: "no-store" });
@@ -467,7 +482,7 @@
                 if (res.ok) {
                     var txt = await res.text();
                     var parsed = parseRawWordsText(txt);
-                    applyLoadedWords(sid, parsed.words, parsed.levels, fallback, targetFile);
+                    applyLoadedWords(sid, parsed.words, parsed.levels, fallback, targetFile, false, null);
                     return;
                 }
             } catch (e) {}
@@ -479,7 +494,7 @@
                 if (r.ok) {
                     var j = await r.json();
                     if (j && j.ok && j.words && j.words.length) {
-                        applyLoadedWords(sid, j.words, j.levels, j.fallbackToDefault, targetFile);
+                        applyLoadedWords(sid, j.words, j.levels, j.fallbackToDefault, targetFile, !!j.passExpired, j.passExpiresKst);
                         return;
                     }
                 }
@@ -586,14 +601,14 @@
             });
         }
 
-        function applyLoadedWords(sid, words, levels, fallbackToDefault, targetFile) {
+        function applyLoadedWords(sid, words, levels, fallbackToDefault, targetFile, passExpired, passExpiresKst) {
             state.studentId = sid;
             state.wordList = words || [];
             state.levels = (levels && levels.length) ? levels : ["기본"];
 
             // 실제 전용 단어장이 존재하는 학생 ID로 접속했을 때만 이 기기의 자주 쓰는 목록에 자동 추가/카운트 증가
-            if (!fallbackToDefault && sid !== "일반") {
-                var defaultLevels = ["고등", "중등", "초등", "기본"];
+            if (!fallbackToDefault && !passExpired && sid !== "일반") {
+                var defaultLevels = ["고등", "중등", "초등", "기본", "중1", "중2", "중3", "고1", "고2", "고3", "수능"];
                 var customLv = state.levels.filter(function (lv) { return defaultLevels.indexOf(lv) === -1; });
                 var tagLabel = customLv.length ? customLv[0].replace(/[0-9]+$/, "") : "";
                 recordStudentUsage(sid, tagLabel);
@@ -603,7 +618,7 @@
             }
             renderStudentHistoryChips();
 
-            document.getElementById("currentStudentBadge").textContent = sid;
+            document.getElementById("currentStudentBadge").textContent = passExpired ? (sid + " (맞춤단어장 만료)") : sid;
             document.getElementById("totalWordsCount").textContent = state.wordList.length.toLocaleString() + "단어";
 
             var sel = document.getElementById("levelSelect");
@@ -623,7 +638,13 @@
 
             var banner = document.getElementById("authStatusBanner");
             if (banner) {
-                if (fallbackToDefault && sid !== "일반") {
+                if (passExpired && sid !== "일반") {
+                    banner.className = "mt-3 p-3 rounded-xl text-xs font-bold bg-rose-50 text-rose-900 border-2 border-rose-300 space-y-1.5";
+                    banner.innerHTML =
+                        '<div>🔒 <b>내신 맞춤 단어장 이용권 기간이 만료되었습니다</b> (만료일: ' + (passExpiresKst || "-") + ')</div>' +
+                        '<div class="text-[11px] text-slate-700 font-semibold">• 인증이 필요 없는 <b>기본 스마트 영단어(중1~고3 기본 단어장)</b>는 지금처럼 계속 무료로 학습할 수 있습니다.<br>• <b>내신 맞춤 단어장</b>을 다시 열려면 아래 버튼을 눌러 쿠폰 등록 또는 이용권 연장을 진행해 주세요.</div>' +
+                        '<div class="pt-1"><a href="' + API_BASE + '/custom-vocab.html?tab=step5" class="inline-block px-3 py-1.5 rounded-lg bg-indigo-600 hover:bg-indigo-700 text-white font-black text-[11px]">🎁 내신 맞춤 단어장 이용권 연장 / 쿠폰 등록하기 →</a></div>';
+                } else if (fallbackToDefault && sid !== "일반") {
                     banner.className = "mt-3 p-2.5 rounded-xl text-xs font-bold bg-amber-50 text-amber-800 border border-amber-200";
                     banner.textContent = "✅ '" + sid + "' 학생 이름으로 학습 기록이 전송됩니다. (기본 단어장 로드됨)";
                 } else {
