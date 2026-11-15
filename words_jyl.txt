@@ -1,0 +1,3558 @@
+abandon | v. 버리다, 포기하다 | 고등
+able | adj. ~할 수 있는, 유능한 | 중등
+disabled | adj. 장애가 있는, 무능한 | 고등
+aboard | adv./prep. 배/비행기/기차에 탑승한 | 고등
+abort | v. 중단하다, 낙태하다 | 고등
+abortion | n. 낙태, 유산 | 고등
+abound | v. 풍부하다, 가득하다 | 고등
+abundant | adj. 풍부한, 많은 | 고등
+about | prep./adv. ~에 대하여, 대략 | 초등
+above | prep./adv. ~위에, ~보다 높은 | 초등
+abroad | adv. 해외에, 해외로 | 고등
+absent | adj. 결석한, 없는 | 고등
+absolute | adj. 절대적인, 완전한 | 중등
+absorb | v. 흡수하다, 열중시키다 | 고등
+abstract | adj./n. 추상적인, 요약 | 고등
+absurd | adj. 터무니없는, 부조리한 | 고등
+abuse | v./n. 학대하다, 남용하다 | 고등
+academy | n. 학원, 학교, 학술원 | 고등
+accelerate | v. 가속하다, 빨라지다 | 고등
+accent | n. 억양, 말씨 | 중등
+accept | v. 수락하다, 받아들이다 | 중등
+access | n./v. 접근, 접근하다 | 중등
+accident | n. 사고, 우연 | 중등
+accommodate | v. 수용하다, 편의를 제공하다 | 고등
+accompany | v. 동반하다, 함께 가다 | 고등
+accomplish | v. 성취하다, 완수하다 | 고등
+accord | v./n. 일치하다, 협정 | 고등
+account | n./v. 계좌, 설명, ~을 설명하다 | 중등
+accumulate | v. 축적하다, 쌓다 | 고등
+accurate | adj. 정확한, 정밀한 | 고등
+accuse | v. 고발하다, 비난하다 | 중등
+ache | v./n. 아프다, 통증 | 고등
+headache | n. 두통 | 고등
+achieve | v. 성취하다, 달성하다 | 중등
+acid | n./adj. 산, 신맛의 | 고등
+acknowledge | v. 인정하다, 감사하다 | 고등
+acquire | v. 획득하다, 얻다 | 고등
+acquisition | n. 획득, 습득 | 고등
+across | prep./adv. ~을 가로질러, ~을 건너서 | 초등
+act | v./n. 행동하다, 연기하다, 행위 | 초등
+actual | adj. 실제의, 현실의 | 고등
+interact | v. 상호작용하다 | 고등
+adapt | v. 적응하다, 개조하다 | 중등
+add | v. 추가하다, 더하다 | 초등
+addict | n./v. 중독자, 중독시키다 | 고등
+address | n./v. 주소, 연설, 연설하다 | 초등
+adequate | adj. 적절한, 충분한 | 고등
+adjust | v. 조절하다, 적응하다 | 고등
+administer | v. 관리하다, 집행하다 | 고등
+administration | n. 관리, 행정, 행정부 | 고등
+admire | v. 존경하다, 감탄하다 | 중등
+admit | v. 인정하다, 허락하다 | 중등
+admission | n. 입장, 입학, 인정 | 고등
+adolescent | n./adj. 청소년 | 고등
+adopt | v. 입양하다, 채택하다 | 중등
+adult | n./adj. 성인 | 초등
+advance | v./n. 전진하다, 발전하다, 진보 | 중등
+advantage | n. 이점, 장점 | 중등
+disadvantage | n. 불리한 점, 단점 | 고등
+adventure | n. 모험 | 중등
+adverse | adj. 불리한, 역방향의 | 고등
+advertize | v. 광고하다 | 중등
+advertise | v. 광고하다 | 중등
+advice | n. 조언, 충고 | 중등
+advise | v. 조언하다, 충고하다 | 중등
+advocate | v./n. 옹호하다, 지지하다, 옹호자 | 고등
+aesthetic | adj. 미적인, 미학의 | 고등
+affair | n. 일, 사건, 불륜 | 중등
+affect | v. 영향을 미치다 | 중등
+affection | n. 애정 | 고등
+afford | v. ~할 여유가 있다 | 중등
+afraid | adj. 두려워하는, 무서워하는 | 초등
+after | n. 후에, ~뒤에 | 초등
+afternoon | n. 오후 | 초등
+again | adv. 다시, 또 | 초등
+against | prep. ~에 반대하여, ~에 맞서 | 초등
+age | n./v. 나이, 시대 | 초등
+agency | n. 대리점, 기관 | 고등
+agenda | n. 의제 | 고등
+agent | n. 대리인, 요원 | 중등
+aggress | v. 공격하다 | 고등
+aggressive | adj. 공격적인, 적극적인 | 고등
+ago | adv. ~전에 | 초등
+agree | v. 동의하다 | 초등
+disagree | v. 동의하지 않다 | 고등
+agriculture | n. 농업 | 고등
+ahead | adv. 앞에, 미리 | 초등
+aid | v./n. 돕다, 원조, 도움 | 중등
+aim | n./v. 목표, 조준하다 | 중등
+air | n. 공기, 항공 | 초등
+airline | n. 항공사 | 중등
+airplane | n. 비행기 | 초등
+aeroplane | n. 비행기 | 초등
+airport | n. 공항 | 중등
+alarm | n./v. 경보, 놀라게 하다 | 중등
+album | n. 앨범 | 초등
+alcohol | n. 알코올, 술 | 중등
+alert | adj./v. 경계하는, 경보를 울리다 | 고등
+alien | adj./n. 외국의, 외계인 | 고등
+alike | adj./adv. 비슷한, 똑같이 | 고등
+alive | adj. 살아있는 | 중등
+allocate | v. 할당하다 | 고등
+allow | v. 허락하다 | 중등
+ally | n. 동맹국 | 고등
+almost | adv. 거의 | 초등
+alone | adj./adv. 혼자서 | 초등
+along | prep./adv. ~을 따라 | 초등
+alongside | prep./adv. ~옆에 | 고등
+aloud | adv. 소리 내어 | 중등
+already | adv. 이미 | 초등
+alright | adj./adv. 괜찮은 | 초등
+also | adv. 또한 | 초등
+alter | v. 변경하다 | 중등
+alternate | v./adj. 번갈아 일어나다 | 고등
+alternative | n./adj. 대안 | 고등
+although | conj. 비록 ~일지라도 | 중등
+altogether | adv. 완전히 | 중등
+always | adv. 항상 | 초등
+amaze | v. 놀라게 하다 | 중등
+ambassador | n. 대사 | 고등
+ambition | n. 야망 | 고등
+ambitious | adj. 야망 있는 | 고등
+ambulance | n. 구급차 | 중등
+among | prep. ~사이에 | 중등
+amount | n. 양 | 중등
+amuse | v. 즐겁게 하다 | 중등
+analysis | n. 분석 | 중등
+analyze | v. 분석하다 | 고등
+analyse | v. 분석하다 | 고등
+anchor | n. 닻 | 고등
+ancient | adj. 고대의 | 고등
+angel | n. 천사 | 중등
+anger | n. 분노 | 중등
+angle | n. 각도 | 고등
+animal | n. 동물 | 초등
+anniversary | n. 기념일 | 고등
+announce | v. 발표하다 | 중등
+annoy | v. 짜증나게 하다 | 중등
+annual | adj. 연간의 | 중등
+another | pron./adj. 또 다른 | 초등
+answer | n./v. 대답 | 초등
+ant | n. 개미 | 중등
+anticipate | v. 예상하다 | 고등
+anxiety | n. 불안 | 고등
+anxious | adj. 불안해하는 | 중등
+any | n. 어떤 | 초등
+apart | adv. 떨어져서 | 중등
+apartment | n. 아파트 | 초등
+apology | n. 사과 | 고등
+apparent | adj. 분명한 | 고등
+appeal | v./n. 항소하다, 매력, 간청하다 | 중등
+appear | v. 나타나다, ~처럼 보이다 | 중등
+disappear | v. 사라지다 | 고등
+apple | n. 사과 | 초등
+apply | v. 신청하다, 적용하다, 바르다 | 중등
+applicant | n. 지원자, 신청자 | 고등
+appoint | v. 임명하다, 지정하다 | 중등
+appreciate | v. 감사하다, 감상하다, 이해하다 | 중등
+approach | v./n. 접근하다, 접근법 | 중등
+appropriate | adj./v. 적절한, 도용하다 | 중등
+approve | v. 승인하다, 찬성하다 | 고등
+approximate | adj./v. 대략의, 근사치의 | 고등
+architect | n. 건축가 | 고등
+architecture | n. 건축, 건축학 | 고등
+area | n. 지역, 영역, 면적 | 초등
+argue | v. 논쟁하다, 주장하다 | 중등
+arise | v. 발생하다, 생기다 | 고등
+arm | n./v. 팔, 무기, 무장하다 | 초등
+army | n. 군대, 육군 | 중등
+around | prep./adv. 주위에, ~쯤 | 초등
+arrange | v. 정리하다, 준비하다 | 중등
+arrest | v./n. 체포하다, 체포 | 중등
+arrive | v. 도착하다 | 초등
+arrow | n. 화살, 화살표 | 고등
+art | n. 예술, 미술, 기술 | 초등
+article | n. 기사, 물품, 조항 | 중등
+artifice | n. 기교, 계략 | 고등
+artificial | adj. 인공적인, 인위적인 | 고등
+aside | adv. 옆에, 한쪽으로 | 중등
+ask | v. 묻다, 요청하다 | 초등
+asleep | adj. 잠든, 잠자는 | 중등
+aspect | n. 측면, 양상 | 고등
+aspire | v. 열망하다, 갈망하다 | 고등
+assault | n./v. 폭행, 공격 | 고등
+assemble | v. 조립하다, 모으다 | 고등
+assert | v. 주장하다, 단언하다 | 고등
+assess | v. 평가하다, 사정하다 | 중등
+asset | n. 자산, 강점 | 고등
+assign | v. 할당하다, 지정하다 | 중등
+assignment | n. 과제, 임무 | 고등
+assist | v. 돕다, 지원하다 | 중등
+assistant | n. 조수, 보조원 | 고등
+associate | v./n. 연관시키다, 동료 | 중등
+assume | v. 가정하다, (책임을) 맡다 | 중등
+assure | v. 확신시키다, 보장하다 | 고등
+astonish | v. 깜짝 놀라게 하다 | 고등
+athlete | n. 운동선수 | 고등
+atmosphere | n. 대기, 분위기 | 중등
+atom | n. 원자 | 고등
+attach | v. 붙이다, 첨부하다 | 중등
+attack | v./n. 공격하다 | 중등
+attempt | v./n. 시도하다 | 중등
+attend | v. 참석하다 | 중등
+attention | adj. 주의 | 중등
+attitude | n. 태도 | 중등
+attract | v. 끌어당기다 | 중등
+attribute | n. 특성 | 고등
+auction | n. 경매 | 고등
+audience | n. 청중 | 중등
+aunt | n. 숙모 | 초등
+authentic | adj. 진짜의 | 고등
+author | n. 작가 | 고등
+automatic | adj. 자동의 | 중등
+autumn | n. 가을 | 초등
+avail | v. 소용되다 | 고등
+available | adj. 이용 가능한 | 고등
+average | n. 평균 | 중등
+avoid | v. 피하다 | 중등
+await | v. 기다리다 | 고등
+awake | adj. 깨어있는 | 중등
+award | n. 상 | 중등
+aware | adj. 알고 있는 | 중등
+unaware | adj. 모르는 | 고등
+away | adv. 떨어져서 | 초등
+awe | n. 경외심 | 고등
+awful | adj. 끔찍한 | 고등
+awkward | adj. 어색한 | 중등
+baby | n. 아기 | 초등
+back | n./adv. 뒤 | 초등
+background | n. 배경 | 중등
+bacon | n. 베이컨 | 중등
+bad | adj. 나쁜 | 초등
+badminton | n. 배드민턴 | 초등
+bag | n. 가방 | 초등
+bake | v. 굽다 | 초등
+balance | n./v. 균형 | 중등
+ball | n. 공 | 초등
+balloon | n. 풍선 | 중등
+ban | v./n. 금지하다 | 고등
+banana | n. 바나나 | 초등
+band | n. 밴드 | 중등
+bang | n./v. 쾅 하는 소리 | 중등
+bank | n. 은행 | 초등
+bankrupt | adj./v. 파산한 | 고등
+bar | n. 술집 | 중등
+bare | adj. 벌거벗은 | 중등
+bargain | v./n. 흥정하다 | 고등
+bark | v./n. 짖다 | 중등
+barrier | n. 장벽 | 고등
+base | n. 기초 | 초등
+baseball | n. 야구 | 초등
+basis | n. 기초, 근거 | 중등
+basket | n. 바구니 | 초등
+basketball | n. 농구 | 초등
+bat | n. 방망이, 박쥐 | 초등
+bath | n. 목욕 | 초등
+battery | n. 건전지, 배터리 | 중등
+battle | n./v. 전투, 싸움 | 중등
+bay | n. 만(灣) | 중등
+beach | n. 해변, 바닷가 | 초등
+beam | n./v. 광선, 들보 | 고등
+bean | n. 콩 | 중등
+bear | n./v. 곰, 견디다 | 초등
+beard | n. 턱수염 | 고등
+beast | n. 짐승, 야수 | 고등
+beat | v./n. 치다, 이기다, 박자 | 중등
+beauty | n. 아름다움, 미인 | 초등
+because | conj. ~때문에 | 초등
+become | v. ~이 되다 | 초등
+bed | n. 침대 | 초등
+bee | n. 벌 | 초등
+beef | n. 소고기 | 초등
+beer | n. 맥주 | 중등
+before | prep./adv. ~전에, ~앞에 | 초등
+beg | v. 구걸하다, 간청하다 | 중등
+begin | v. 시작하다 | 초등
+behalf | n. ~을 대신하여, ~을 위하여 | 고등
+behave | v. 행동하다 | 고등
+behavior | n. 행동, 태도 | 고등
+behaviour | n. 행동, 태도 | 고등
+behind | prep./adv. ~뒤에 | 초등
+belief | n. 믿음, 신념 | 중등
+believe | v. 믿다 | 초등
+bell | n. 종 | 초등
+belong | v. ~에 속하다 | 중등
+below | prep./adv. ~아래에 | 초등
+belt | n. 벨트, 허리띠 | 초등
+bench | n. 벤치, 긴 의자 | 중등
+bend | v. 구부리다 | 중등
+beneath | prep./adv. ~아래에 | 중등
+benefit | n. 이점, 혜택, 이득 | 중등
+beside | prep. ~옆에 | 초등
+bet | v./n. 내기하다, 내기 | 중등
+betray | v. 배신하다 | 고등
+between | prep. ~사이에 | 초등
+beyond | prep./adv. ~을 넘어서, ~저편에 | 중등
+bias | n./v. 편견, 선입견 | 고등
+big | adj. 큰, 거대한 | 초등
+bike | n. 자전거 | 초등
+bill | n. 계산서, 청구서, 지폐 | 초등
+billion | n. 십억 | 중등
+bin | n. 쓰레기통, 저장통 | 중등
+bind | v. 묶다, 매다, 의무를 지우다 | 중등
+biography | n. 전기, 자서전 | 고등
+biology | n. 생물학 | 고등
+bird | n. 새 | 초등
+birth | n. 탄생, 출생 | 초등
+biscuit | n. 비스킷, 과자 | 초등
+bit | n. 약간, 조각, 비트 | 중등
+bite | v./n. 물다, 한 입 | 중등
+bitter | adj. 쓴, 쓰라린 | 중등
+black | adj./n. 검은, 검정, 흑인 | 초등
+blame | v./n. 비난하다, 책임 | 중등
+blank | adj./n. 빈, 공백, 백지 | 중등
+blanket | n. 담요 | 중등
+blast | n./v. 폭발, 맹비난, 강풍 | 고등
+blend | v./n. 섞다, 혼합하다 | 고등
+bless | v. 축복하다 | 중등
+blind | adj./n. 눈 먼, 맹인, 블라인드 | 중등
+blink | v./n. 눈을 깜빡이다 | 고등
+block | v./n. 막다, 블록, 덩어리 | 중등
+blonde | adj./n. 금발의, 금발 여성 | 중등
+blood | n. 피, 혈액 | 초등
+bloom | v./n. 꽃 피우다, 만개하다 | 중등
+blossom | v./n. 꽃을 피우다, 꽃 | 고등
+blow | v./n. 불다, 강타, 타격 | 중등
+blue | adj./n. 파란, 우울한, 파랑 | 초등
+board | n./v. 널빤지, 판, 탑승하다, 이사회 | 초등
+boat | n. 보트, 배 | 초등
+body | n. 몸, 신체, 시체 | 초등
+embody | v. 구현하다, 형상화하다 | 고등
+boil | v./n. 끓다, 끓이다, 종기 | 중등
+bold | adj. 용감한, 대담한, 굵은 | 고등
+bomb | n./v. 폭탄, 폭격하다 | 중등
+bond | n./v. 유대, 채권, 접착제, 유대감을 형성하다 | 중등
+bone | n. 뼈 | 초등
+book | n./v. 책, 예약하다 | 초등
+boom | n./v. 쾅 하는 소리, 호황, 붐 | 중등
+boost | v./n. 밀어 올리다, 증대시키다, 격려 | 고등
+boot | n./v. 부츠, 시동을 걸다 | 중등
+border | n./v. 국경, 가장자리, 접하다 | 고등
+bore | v./n. 지루하게 하다, 구멍을 뚫다, 지루한 사람 | 중등
+borrow | v. 빌리다 | 초등
+boss | n./v. 사장, 상사, 지휘하다 | 중등
+both | v. 둘 다 | 초등
+bother | v./n. 괴롭히다, 귀찮게 하다, 걱정 | 중등
+bottle | n./v. 병, 병에 담다 | 초등
+bottom | n./adj. 바닥, 맨 아래 | 초등
+bounce | v./n. 튀어 오르다, 반사되다 | 중등
+boundary | n. 경계, 한계 | 고등
+bow | v. 활, 절하다 | 중등
+bowl | n. 그릇, 사발 | 중등
+box | v./n. 상자, 상자에 넣다 | 초등
+boy | n. 소년 | 초등
+brain | n. 뇌, 두뇌 | 중등
+brake | v./n. 브레이크, 제동하다 | 중등
+branch | n. 가지, 지점 | 중등
+brand | n. 상표, 브랜드 | 중등
+brave | adj. 용감한 | 초등
+bread | n. 빵 | 초등
+break | v. 깨다, 부수다, 쉬다 | 초등
+breakfast | n. 아침 식사 | 초등
+breast | n. 가슴 | 중등
+breath | n. 숨, 호흡 | 중등
+breathe | v. 숨 쉬다, 호흡하다 | 중등
+breed | v. 번식하다, 품종 | 고등
+breeze | n. 산들바람, 미풍 | 고등
+brick | n. 벽돌 | 중등
+bridge | v./n. 다리, 연결하다 | 초등
+brief | adj. 짧은, 간단한 | 중등
+bright | adj. 밝은, 똑똑한 | 초등
+brilliant | adj. 훌륭한, 빛나는 | 중등
+bring | v. 가져오다 | 초등
+broad | adj. 넓은, 광범위한 | 중등
+broadcast | v./n. 방송하다, 방송 | 고등
+brother | n. 형제 | 초등
+brown | n./adj. 갈색, 갈색의 | 초등
+brush | n./v. 붓, 솔, 빗다 | 초등
+brute | n. 짐승, 잔인한 사람 | 고등
+brutal | adj. 잔인한, 야만적인 | 고등
+bubble | n. 거품 | 중등
+budget | n. 예산 | 중등
+bug | n. 벌레, 버그 | 중등
+build | v. 짓다, 건설하다 | 초등
+bulk | n. 부피, 대부분 | 고등
+bull | n. 황소 | 고등
+bully | v./n. 괴롭히다, 약자를 괴롭히는 사람 | 고등
+bump | v./n. 부딪히다, 충돌 | 중등
+bunch | n. 묶음, 다발 | 중등
+bundle | n. 묶음, 꾸러미 | 고등
+burden | n. 부담, 짐 | 고등
+burn | v. 타다, 태우다 | 초등
+burst | v./n. 터지다, 파열 | 중등
+bury | v. 묻다, 매장하다 | 중등
+bus | n. 버스 | 초등
+bush | n. 덤불, 관목 | 중등
+business | n. 사업, 업무 | 초등
+busy | adj. 바쁜 | 초등
+butcher | n./v. 정육점 주인, 도살하다 | 고등
+butter | n. 버터 | 초등
+button | n. 단추 | 초등
+buy | v. 사다 | 초등
+buzz | v./n. 윙윙거리다 | 고등
+cable | n. 케이블 | 중등
+cage | n. 우리 | 중등
+cake | n. 케이크 | 초등
+calculate | v. 계산하다 | 중등
+calculator | n. 계산기 | 고등
+calendar | n. 달력 | 중등
+call | v. 부르다 | 초등
+calm | adj./v. 고요한 | 중등
+camera | n. 카메라 | 초등
+camp | n./v. 캠프 | 초등
+campaign | n. 캠페인 | 초등
+cancel | v. 취소하다 | 고등
+cancer | n. 암 | 고등
+candidate | n. 후보자 | 고등
+candy | n. 사탕 | 초등
+canvas | n. 캔버스 | 고등
+cap | n. 모자 | 초등
+capable | adj. 능력 있는 | 중등
+cape | n. 곶 | 중등
+capital | n. 수도 | 중등
+captain | n. 선장 | 중등
+capture | v. 붙잡다 | 고등
+car | n. 자동차 | 초등
+card | n. 카드 | 초등
+care | n./v. 돌봄 | 초등
+career | n. 경력 | 중등
+carpet | n. 양탄자 | 중등
+carrot | n. 당근 | 초등
+carry | v. 나르다 | 초등
+cart | n. 수레 | 중등
+carve | v. 조각하다 | 고등
+case | n. 경우 | 초등
+casual | adj. 격식 없는 | 고등
+cash | n. 현금 | 초등
+cast | v. 던지다 | 중등
+castle | n. 성 | 중등
+cat | n. 고양이 | 초등
+catalogue | n. 카탈로그 | 중등
+catalog | n. 카탈로그 | 중등
+catch | v. 잡다 | 초등
+category | n. 범주 | 중등
+cater | v. 음식을 제공하다 | 고등
+cattle | n. 소 | 고등
+cause | n. 원인 | 중등
+causal | adj. 인과 관계의 | 고등
+caution | n. 조심 | 고등
+cave | n. 동굴 | 고등
+cease | v. 멈추다, 중지하다 | 고등
+ceiling | n. 천장 | 중등
+celebrate | v. 축하하다, 기념하다 | 고등
+celebrity | n. 유명인사, 연예인 | 고등
+cell | n. 세포; 작은 방; 감방; 휴대전화 | 중등
+censor | n./v. 검열관, 검열하다 | 고등
+center | n./v. 중심, 중앙; 집중시키다 | 초등
+century | n. 세기, 100년 | 중등
+certain | adj. 확실한, 어떤 | 초등
+certificate | n. 증명서, 자격증 | 고등
+chain | n./v. 사슬, 체인; 연쇄; 묶다 | 중등
+chair | n./v. 의자; 의장 | 초등
+chairman | n. 의장, 회장 | 중등
+challenge | n./v. 도전; 난제; 도전하다 | 중등
+chamber | n. 방, 회의실; 의회 | 고등
+champion | n./v. 우승자, 챔피언; 옹호자 | 중등
+chance | n. 기회; 우연; 가능성 | 초등
+change | n./v. 변화, 변경; 잔돈; 바꾸다 | 초등
+channel | n./v. 채널; 수로; 통로 | 중등
+chaos | n. 혼돈, 혼란 | 고등
+character | n. 성격, 인물; 등장인물; 문자 | 중등
+characteristic | n./adj. 특징, 특성; 특징적인 | 중등
+charge | n./v. 요금; 책임; 비난; 충전; 고발하다; 청구하다 | 중등
+discharge | v./n. 방출하다, 해고하다; 퇴원시키다; 방전 | 고등
+charity | n. 자선, 자선단체 | 고등
+charm | n./v. 매력, 부적; 매혹하다 | 중등
+chart | n. 차트, 도표; 해도 | 중등
+chase | v./n. 추격하다, 쫓다; 추격 | 중등
+chat | v./n. 잡담하다, 수다를 떨다; 잡담 | 중등
+cheap | adj. 싼, 저렴한; 인색한 | 초등
+check | v./n. 확인하다; 수표; 점검; 확인 | 초등
+cheque | n. 수표 | 초등
+cheek | n. 뺨, 볼 | 중등
+cheer | v./n. 환호하다, 응원하다; 환호 | 중등
+cheese | n. 치즈 | 초등
+chef | n. 요리사, 주방장 | 고등
+chemical | adj./n. 화학의; 화학 물질 | 고등
+chest | n. 가슴; 궤; 서랍장 | 중등
+chew | v. 씹다 | 중등
+chicken | n. 닭, 닭고기; 겁쟁이 | 초등
+chief | adj. 최고위의; 우두머리; 추장 | 중등
+child | n. 아이, 어린이 | 초등
+chill | v./n. 냉기; 오한; 으스스한 느낌; 식히다 | 고등
+chin | n. 턱 | 고등
+chip | n. 칩; 조각; 감자튀김 | 중등
+chocolate | n. 초콜릿 | 초등
+choice | n. 선택, 선택권 | 중등
+choir | n. 합창단 | 고등
+choose | v. 선택하다, 고르다 | 초등
+chop | v. 썰다, 다지다; (돼지) 갈비 | 중등
+chorus | n. 합창 | 고등
+chronic | adj. 만성의 | 고등
+church | n. 교회 | 초등
+cigarette | n. 담배 | 중등
+cinema | n. 영화관 | 중등
+circle | n. 원 | 초등
+circulate | v. 순환하다 | 고등
+circumstance | n. 상황 | 중등
+cite | v. 인용하다 | 고등
+citizen | n. 시민 | 중등
+city | n. 도시 | 초등
+civil | adj. 시민의 | 중등
+claim | v. 주장하다 | 중등
+clap | v. 박수치다 | 고등
+clash | v. 충돌하다 | 고등
+class | n. 수업 | 초등
+classic | n. 고전 | 고등
+classify | v. 분류하다 | 고등
+clause | n. 절 | 고등
+clay | n. 점토 | 고등
+clean | adj. 깨끗한 | 초등
+clear | adj. 분명한 | 초등
+clarify | v. 명확히 하다 | 고등
+clerk | n. 사무원 | 중등
+clever | adj. 영리한 | 초등
+click | v. 딸깍 소리 나다 | 중등
+client | n. 의뢰인 | 중등
+cliff | n. 절벽 | 중등
+climate | n. 기후 | 중등
+climb | v. 오르다 | 초등
+cling | v. 매달리다 | 고등
+clinic | n. 진료소 | 고등
+clip | n. 클립 | 중등
+clock | n. 시계 | 초등
+close | v. 닫다 | 초등
+disclose | v. 폭로하다 | 고등
+enclose | v. 둘러싸다 | 고등
+clothes | n. 옷 | 초등
+cloud | n. 구름 | 초등
+club | n. 클럽 | 초등
+clue | n. 단서 | 중등
+cluster | n. 무리 | 고등
+coach | n. 코치 | 중등
+coal | n. 석탄 | 중등
+coast | n. 해안 | 중등
+coat | n. 코트 | 초등
+code | n. 암호 | 중등
+coffee | n. 커피 | 초등
+coin | n. 동전 | 중등
+coincide | v. 동시에 일어나다 | 고등
+cold | adj. 추운 | 초등
+collaborate | v. 협력하다 | 고등
+collapse | v. 붕괴하다 | 고등
+collar | n. 칼라 | 고등
+colleague | n. 동료 | 고등
+collect | v. 모으다 | 초등
+college | n. 대학 | 초등
+colony | n. 식민지 | 고등
+color | n. 색 | 초등
+colour | n. 색 | 초등
+column | n. 기둥 | 고등
+combat | n./v. 전투 | 고등
+combine | v. 결합하다 | 중등
+come | v. 오다 | 초등
+comedy | n. 코미디 | 중등
+comfort | n./v. 위로 | 중등
+comfortable | adj. 편안한 | 고등
+comic | n./adj. 만화 | 초등
+command | v./n. 명령하다 | 중등
+comment | n./v. 논평 | 중등
+commerce | n. 상업 | 중등
+commit | v. 저지르다 | 고등
+commission | n. 위원회 | 고등
+committee | n. 위원회 | 중등
+commodity | n. 상품 | 고등
+common | adj. 흔한 | 중등
+communicate | v. 의사소통하다 | 중등
+communication | n. 의사소통 | 고등
+communist | n./adj. 공산주의자 | 고등
+community | n. 공동체 | 중등
+companion | n. 동반자 | 고등
+company | n. 회사 | 초등
+compare | v. 비교하다 | 중등
+compatible | adj. 호환되는 | 고등
+compel | v. 강요하다 | 고등
+compensate | v. 보상하다 | 고등
+compete | v. 경쟁하다 | 고등
+competent | adj. 유능한 | 고등
+compile | v. 편집하다 | 고등
+complain | v. 불평하다 | 중등
+complement | v. 보완하다 | 고등
+complete | v. 완성하다 | 중등
+complex | adj. 복잡한 | 중등
+complexity | n. 복잡성 | 고등
+complicate | v. 복잡하게 하다 | 중등
+component | n. 부품 | 고등
+compose | v. 구성하다 | 고등
+compound | n. 화합물 | 고등
+comprehend | v. 이해하다 | 고등
+comprehensive | adj. 포괄적인 | 고등
+comprise | v. ~으로 구성되다, 포함하다 | 고등
+compromise | v./n. 타협하다; 타협 | 고등
+compute | v. 계산하다 | 초등
+computer | n. 컴퓨터 | 고등
+conceal | v. 숨기다, 감추다 | 고등
+conceive | v. 상상하다; 임신하다 | 고등
+concentrate | v. 집중하다; 농축하다 | 중등
+concept | n. 개념 | 중등
+concern | v./n. 걱정시키다; 관심사 | 중등
+concert | n. 콘서트; 조화 | 중등
+conclude | v. 결론 내리다; 끝내다 | 고등
+concrete | adj./n. 구체적인; 콘크리트 | 고등
+condemn | v. 비난하다; 선고하다 | 고등
+condition | n. 조건; 상태 | 초등
+conduct | v./n. 수행하다; 행동 | 고등
+confer | v. 협의하다; 수여하다 | 고등
+confess | v. 고백하다, 인정하다 | 고등
+confide | v. 털어놓다 | 고등
+confident | adj. 자신감 있는, 확신하는 | 고등
+confine | v. 가두다; 제한하다 | 고등
+confirm | v. 확인하다, 확정하다 | 중등
+conflict | n./v. 갈등, 충돌; 충돌하다 | 중등
+conform | v./n. 따르다, 순응하다 | 고등
+confront | v. 직면하다, 맞서다 | 고등
+confuse | v. 혼란시키다, 혼동하다 | 중등
+congratulate | v. 축하하다 | 초등
+congress | n. 의회, 국회 | 고등
+connect | v. 연결하다 | 중등
+conscience | n. 양심 | 고등
+conscious | adj. 의식하는, 지각하는 | 중등
+consent | v./n. 동의하다; 동의 | 고등
+conserve | v. 보존하다, 보호하다 | 고등
+consider | v./n. 고려하다, 여기다 | 중등
+consist | v. ~으로 구성되다 | 고등
+consistent | adj. 일관된, 모순 없는 | 고등
+constant | adj. 끊임없는; 불변의 | 중등
+constitute | v. 구성하다; 설립하다 | 고등
+constitution | n. 헌법; 구성 | 고등
+constrain | v. 강요하다; 제한하다 | 고등
+construct | v. 건설하다, 구성하다 | 고등
+construction | n. 건설; 건축물 | 고등
+consult | v. 상담하다; 참고하다 | 고등
+consume | v. 소비하다, 소모하다 | 중등
+consumer | n. 소비자 | 고등
+consumption | n. 소비, 소모 | 고등
+contact | n./v. 접촉; 연락하다 | 중등
+contain | v. 포함하다, 함유하다 | 중등
+contemporary | adj. 현대의; 동시대의 | 고등
+contend | v. 다투다; 주장하다 | 고등
+content | n./adj. 내용물; 만족하는 | 중등
+contest | n. 경쟁, 대회 | 중등
+context | n. 문맥, 상황 | 중등
+continent | n. 대륙 | 고등
+continue | v. 계속하다, 지속하다 | 중등
+contract | n./v. 계약, 계약하다; 수축하다 | 중등
+contradict | v. 반박하다, 모순되다 | 고등
+contrary | adj./n. 반대의, 반대 | 고등
+contrast | n./v. 대조, 대조하다 | 고등
+contribute | v. 기여하다, 공헌하다 | 중등
+control | v./n. 통제하다, 통제 | 초등
+controversy | n. 논쟁, 논란 | 고등
+convene | v. 소집하다, 모이다 | 고등
+convenient | adj. 편리한 | 고등
+convention | adj./n. 관습, 회의, 협약 | 고등
+converse | v./adj. 대화하다, 정반대의 | 중등
+conversation | n. 대화 | 고등
+convert | v. 전환하다, 개조하다 | 고등
+convey | v. 전달하다, 운반하다 | 고등
+convict | v./n. 유죄를 선고하다, 죄수 | 고등
+convince | v. 설득하다, 납득시키다 | 중등
+cook | v./n. 요리하다, 요리사 | 초등
+cookie | n. 쿠키 | 초등
+cooky | n. 쿠키 | 초등
+cool | adj./v. 시원한, 멋진, 식히다 | 초등
+cooperate | v. 협력하다, 협동하다 | 고등
+coordinate | v./n. 조정하다, 조율하다; 좌표 | 고등
+cop | n. 경찰관 | 중등
+cope | v. 대처하다 | 중등
+copy | v./n. 복사하다, 복사본 | 중등
+copyright | n. 저작권 | 고등
+cord | n. 끈, 코드 | 고등
+core | n. 핵심, 중심 | 고등
+corn | n. 옥수수 | 고등
+corner | n. 모퉁이, 구석 | 초등
+corporate | adj. 기업의, 회사의 | 고등
+corporation | n. 기업, 법인 | 고등
+correct | adj./v. 정확한, 수정하다 | 중등
+correspond | v. 일치하다, 서신을 주고받다 | 고등
+corridor | n. 복도 | 고등
+corrupt | adj./v. 부패한, 부패시키다 | 고등
+cost | n./v. 비용, 비용이 들다 | 초등
+costume | n. 의상, 복장 | 고등
+cottage | n. 오두막집 | 중등
+cotton | n. 면, 목화 | 중등
+cough | n./v. 기침, 기침하다 | 중등
+could | aux.v. ~할 수 있었다, ~할 수도 있다 | 초등
+council | n. 협의회, 의회 | 중등
+counsel | n./v. 상담, 조언, 상담하다 | 고등
+count | v./n. 세다, 계산하다, 수 | 중등
+discount | n./v. 할인, 할인하다 | 고등
+counter | n./v. 계산대, 반대하다 | 고등
+counterpart | n. 상대방, 대응물 | 고등
+country | n. 나라, 시골 | 초등
+countryside | n. 시골 | 중등
+county | n. 카운티 | 중등
+couple | n. 한 쌍, 두 명, 커플 | 초등
+coupon | n. 쿠폰 | 고등
+courage | n. 용기 | 고등
+discourage | v. 낙담시키다, 단념시키다 | 고등
+encourage | v. 격려하다, 장려하다 | 고등
+course | n. 과정, 코스, 강좌 | 초등
+court | n. 법원, 코트, 궁정 | 초등
+cousin | n. 사촌 | 초등
+cover | v./n. 덮다, 씌우다, 표지, 덮개 | 초등
+discover | v. 발견하다 | 고등
+cow | n. 암소 | 초등
+crack | n./v. 금, 균열, 깨다, 갈라지다 | 중등
+craft | n. 공예, 기술, 선박 | 고등
+crash | v./n. 충돌하다, 추락하다, 충돌, 추락 | 중등
+crawl | v. 기어가다 | 중등
+crayon | n. 크레용 | 초등
+craze | n. 열풍, 유행 | 고등
+crazy | adj. 미친, 제정신이 아닌 | 고등
+cream | n. 크림, 최상급 | 초등
+create | v. 창조하다, 만들다 | 중등
+creature | n. 생물, 동물 | 고등
+credible | adj. 믿을 수 있는, 신뢰할 수 있는 | 고등
+incredible | adj. 믿을 수 없는, 엄청난 | 고등
+credit | adj./n. 신용, 학점, 칭찬 | 중등
+creep | v. 살금살금 움직이다, 기어가다 | 고등
+crew | n. 승무원, 팀 | 고등
+crime | n. 범죄 | 중등
+criminal | n./adj. 범죄자, 형사상의 | 고등
+crisis | n. 위기 | 중등
+crisp | adj. 바삭바삭한, 선명한 | 중등
+criterion | n. 기준, 척도 | 고등
+critic | n. 비평가, 비판자 | 고등
+criticize | v. 비판하다, 비평하다 | 고등
+criticise | v. 비판하다, 비평하다 | 고등
+criticism | n. 비판, 비평 | 고등
+crop | n. 작물, 수확물 | 고등
+cross | v./n. 횡단하다, 건너다, 십자가 | 초등
+crowd | n./v. 군중, 무리, 붐비다 | 중등
+crown | n./v. 왕관, 즉위시키다 | 중등
+crucial | adj. 결정적인, 매우 중요한 | 고등
+cruel | adj. 잔인한, 잔혹한 | 중등
+cruise | n./v. 유람선 여행, 순항하다 | 고등
+crush | v./n. 으깨다, 반하다, 혼잡 | 고등
+cry | v./n. 울다, 외치다, 울음 | 초등
+crystal | n./adj. 크리스털, 수정, 명백한 | 고등
+cultivate | v. 경작하다, 재배하다 | 고등
+culture | n. 문화 | 초등
+cup | n. 컵 | 초등
+cure | v./n. 치료하다, 치료법 | 중등
+curious | adj. 호기심이 많은 | 중등
+curiosity | n. 호기심 | 고등
+curl | v./n. 곱슬거리다, 곱슬머리 | 중등
+currency | n. 통화 | 고등
+current | adj./n. 현재의, 현재, 해류 | 중등
+curriculum | n. 교육과정, 커리큘럼 | 고등
+curry | n. 카레 | 고등
+curse | v./n. 저주하다, 욕하다, 저주 | 고등
+curtain | n. 커튼 | 초등
+curve | n./v. 곡선, 구부러지다 | 고등
+custody | n. 양육권, 보호 | 고등
+custom | n. 관습, 풍습 | 고등
+customer | n. 손님, 고객 | 초등
+cut | v./n. 자르다, 베다, 삭감하다 | 초등
+cute | adj. 귀여운 | 중등
+cycle | n./v. 순환, 주기, 자전거 | 중등
+recycle | v. 재활용하다 | 고등
+cyclist | n. 자전거 타는 사람, 사이클 선수 | 고등
+cynical | adj. 냉소적인 | 고등
+dairy | adj./n. 낙농업의, 유제품 | 고등
+damage | v./n. 손상시키다, 손상 | 중등
+damp | adj./v. 축축한, 축축하게 하다 | 고등
+dance | v./n. 춤추다, 춤 | 초등
+danger | n. 위험 | 초등
+dare | v./n. 감히 ~하다, 도전하다 | 중등
+dark | adj./n. 어두운, 어둠 | 초등
+darling | n./adj. 사랑스러운 사람, 자기 | 중등
+dash | v./n. 돌진하다, 질주, 약간 | 고등
+database | n. 데이터베이스 | 고등
+date | n./v. 날짜, 데이트, 대추야자 | 초등
+datum | n. 자료, 데이터(단수형) | 고등
+data | n. 자료, 데이터(복수형) | 고등
+daughter | n. 딸 | 초등
+dawn | n./v. 새벽, 동이 트다 | 중등
+day | n. 날, 낮 | 초등
+dead | adj. 죽은 | 초등
+deal | v./n. 다루다, 거래, 양 | 중등
+death | n. 죽음 | 초등
+debate | v./n. 토론하다, 토론 | 중등
+debt | n. 빚 | 중등
+decade | n. 10년 | 고등
+decay | v./n. 부패하다, 쇠퇴하다, 부패 | 고등
+decent | adj. 괜찮은, 품위 있는 | 고등
+decide | v. 결정하다 | 초등
+decision | n. 결정 | 고등
+deck | n. 갑판, 마루, 카드 한 벌 | 중등
+declare | v. 선언하다, 공표하다 | 고등
+decline | v./n. 감소하다, 거절하다, 쇠퇴하다 | 고등
+declension | n. (명사·대명사·형용사의) 어미 변화, 굴절 | 고등
+decorate | v. 장식하다, 꾸미다 | 중등
+decrease | v./n. 감소하다, 줄다 | 고등
+dedicate | v. 헌신하다, 바치다 | 고등
+deep | adj. 깊은 | 초등
+defeat | v./n. 패배시키다, 이기다, 패배 | 고등
+defend | v. 방어하다, 변호하다 | 고등
+defendant | n. 피고인 | 고등
+defense | n. 방어, 수비, 변호 | 중등
+defence | n. 방어, 수비, 변호 | 중등
+deficiency | n. 부족, 결핍 | 고등
+deficit | n. 적자, 부족액 | 고등
+define | v. 정의하다, 규정하다 | 중등
+definite | adj. 명확한, 확실한 | 중등
+degree | n. 정도, 학위, 도 | 중등
+delay | v./n. 지연시키다, 연기하다, 지연 | 중등
+delegate | n./v. 대표자, 위임하다 | 고등
+delete | v. 삭제하다 | 고등
+deliberate | adj./v. 고의적인, 신중한, 숙고하다 | 고등
+delicate | adj. 섬세한, 미묘한, 연약한 | 고등
+delicious | adj. 맛있는 | 초등
+delight | n./v. 기쁨, 즐거움, 기쁘게 하다 | 중등
+deliver | v. 배달하다, 전달하다, (연설 등을) 하다 | 중등
+demand | v./n. 요구하다, 수요, 요구 | 중등
+democracy | adj. 민주주의 | 고등
+democrat | n. 민주주의자, 민주당원 | 고등
+demon | n. 악마 | 고등
+demonstrate | v. 시위하다, 입증하다, 보여주다 | 중등
+dense | adj. 밀집한, 빽빽한, (머리가) 둔한 | 고등
+dentist | n. 치과의사 | 중등
+deny | v. 부인하다, 거부하다 | 중등
+depart | v. 출발하다, 떠나다 | 고등
+department | n. 부서, 학과, 매장 | 고등
+departure | n. 출발 | 고등
+depend | v./n. 의존하다, ~에 달려있다 | 중등
+dependence | n. 의존, 의존성 | 고등
+independent | adj. 독립적인 | 고등
+depict | v. 묘사하다, 그리다 | 고등
+deposit | v./n. 예금하다, 놓다, 보증금, 예금 | 고등
+depress | v. 우울하게 하다, 불경기로 만들다 | 중등
+deprive | v./n. 박탈하다, 빼앗다 | 고등
+derive | v. ~에서 얻다, 유래하다 | 고등
+descend | v. 내려가다, 하강하다 | 고등
+describe | v. 묘사하다, 설명하다 | 중등
+description | n. 묘사, 설명 | 고등
+desert | n./v. 사막, 버리다 | 중등
+deserve | v. ~할 가치가 있다, ~을 받을 만하다 | 중등
+design | v./n. 디자인하다, 설계하다, 디자인, 설계 | 초등
+designate | v. 지정하다, 지명하다 | 고등
+desire | n./v. 욕구, 열망; 바라다 | 중등
+desk | n. 책상 | 초등
+despair | n./v. 절망; 절망하다 | 고등
+desperate | adj. 필사적인, 절망적인 | 중등
+despite | prep. ~에도 불구하고 | 중등
+destine | v. 운명 짓다 | 고등
+destination | n. 목적지 | 고등
+destiny | n. 운명 | 고등
+destroy | v. 파괴하다 | 중등
+destruct | v. 파괴하다, 자폭하다 | 고등
+destruction | n. 파괴 | 고등
+detach | v. 떼어내다, 분리하다 | 고등
+detail | n./v. 세부 사항; 자세히 설명하다 | 중등
+detect | v. 감지하다, 발견하다 | 중등
+determine | v. 결정하다, 결심하다 | 중등
+develop | v. 개발하다, 발전시키다 | 중등
+device | n. 장치, 기기 | 고등
+devil | n. 악마 | 고등
+devise | v. 고안하다, 궁리하다 | 고등
+devote | v. 바치다, 헌신하다 | 고등
+diabetes | n. 당뇨병 | 고등
+dialogue | n. 대화 | 초등
+dialog | n. 대화 | 초등
+diary | n. 일기 | 중등
+dictate | v. 지시하다, 받아쓰게 하다 | 고등
+dictionary | n. 사전 | 중등
+die | v. 죽다 | 초등
+diet | n. 식단, 다이어트 | 중등
+differ | v. 다르다, 의견을 달리하다 | 고등
+different | adj. 다른 | 고등
+difficult | adj. 어려운 | 초등
+dig | v. (땅을) 파다 | 중등
+dignity | n. 위엄, 품위 | 고등
+dimension | n. 차원, 치수 | 고등
+diminish | v. 줄어들다, 감소시키다 | 고등
+dine | v. 식사하다 | 고등
+dinner | n. 저녁 식사 | 초등
+dip | v. (액체에) 살짝 담그다 | 고등
+diplomat | n. 외교관 | 고등
+direct | adj./v. 직접적인; 지시하다 | 중등
+dirt | n. 흙, 먼지 | 중등
+dirty | adj. 더러운 | 고등
+disappoint | v. 실망시키다 | 중등
+disaster | adj./n. 재난, 참사 | 고등
+disc | n. 원반, 디스크 | 중등
+disk | n. 원반, 디스크 | 고등
+discipline | n./v. 훈련, 규율; 훈련하다 | 중등
+discourse | n. 담론, 담화 | 고등
+discriminate | v. 차별하다, 구별하다 | 고등
+discuss | v. 토론하다 | 초등
+disgust | n. 혐오감 | 중등
+dish | n. 접시 | 중등
+dismiss | v. 해고하다 | 고등
+display | v. 전시하다 | 중등
+dispute | n. 논쟁 | 고등
+disrupt | v. 방해하다 | 고등
+distance | n. 거리 | 중등
+distinct | adj. 뚜렷한 | 고등
+distinguish | v. 구별하다 | 고등
+distort | v. 왜곡하다 | 고등
+distract | v. 주의를 흩뜨리다 | 고등
+distribute | v. 분배하다 | 고등
+district | n. 구역 | 중등
+disturb | v. 방해하다 | 중등
+dive | v. 다이빙하다 | 중등
+diverse | adj. 다양한 | 고등
+divide | v. 나누다 | 중등
+divine | adj. 신성한 | 고등
+divorce | n./v. 이혼 | 중등
+doctor | n. 의사 | 초등
+document | n. 문서 | 중등
+dog | n. 개 | 초등
+doll | n. 인형 | 초등
+dolphin | n. 돌고래 | 중등
+domain | n. 영역 | 고등
+domestic | adj. 국내의 | 중등
+dominate | v. 지배하다 | 고등
+dominant | adj. 지배적인 | 고등
+donate | v. 기부하다 | 중등
+door | n. 문 | 초등
+dose | n. 복용량 | 고등
+dot | n. 점 | 고등
+double | adj./v. 두 배의 | 초등
+doubt | n./v. 의심 | 중등
+doughnut | n. 도넛 | 초등
+down | adv./prep. 아래로 | 초등
+dozen | n. 12개 | 중등
+draft | n./v. 초안 | 고등
+drag | v. 끌다 | 중등
+drain | v. 배수하다 | 고등
+drama | n. 드라마 | 중등
+draw | v. 그리다 | 초등
+drawer | n. 서랍 | 고등
+dread | n./v. 두려움 | 고등
+dream | n./v. 꿈 | 초등
+dress | n./v. 옷 | 초등
+drill | n./v. 훈련 | 고등
+drink | v./n. 마시다 | 초등
+drive | v./n. 운전하다 | 초등
+drop | v./n. 떨어뜨리다 | 초등
+drown | v. 물에 빠져 죽다 | 고등
+drug | n./v. 약 | 중등
+drum | n./v. 드럼 | 초등
+dry | adj./v. 마른 | 초등
+dual | adj. 이중의 | 고등
+duck | n./v. 오리 | 초등
+due | adj. 만기가 된 | 중등
+dull | adj./v. 따분한 | 고등
+dump | v./n. 버리다 | 중등
+during | prep. ~동안에 | 초등
+dust | n./v. 먼지 | 중등
+duty | n. 의무 | 중등
+dwell | v. 살다 | 고등
+dynamic | adj. 역동적인 | 고등
+each | adj./pron. 각각 | 중등
+eager | adj. 열렬한 | 고등
+ear | n. 귀 | 초등
+early | adv./adj. 일찍 | 초등
+earn | v. 벌다 | 중등
+earth | n. 지구 | 초등
+ease | n. 편안함 | 중등
+disease | n. 질병 | 고등
+easy | adj. 쉬운 | 고등
+east | n. 동쪽 | 초등
+eat | v. 먹다 | 초등
+economy | n. 경제 | 중등
+edge | n. 가장자리 | 중등
+edit | v. 편집하다 | 중등
+educate | v. 교육하다 | 중등
+effect | n. 효과 | 중등
+effective | adj. 효과적인 | 고등
+efficient | adj. 효율적인 | 고등
+effort | n. 노력 | 중등
+egg | n. 달걀 | 초등
+eight | num. 여덟 | 초등
+either | n. 둘 중 하나 | 중등
+elaborate | adj. 정교한 | 고등
+elect | v. 선출하다 | 중등
+electric | adj. 전기의 | 중등
+electronic | adj. 전자의 | 고등
+elegant | adj. 우아한 | 고등
+element | n. 요소 | 중등
+elementary | adj. 기본적인 | 고등
+elephant | n. 코끼리 | 초등
+elevate | v. 승진시키다 | 고등
+elevator | n. 엘리베이터 | 고등
+eleven | num. 열하나 | 초등
+eliminate | v. 제거하다 | 고등
+elite | n./adj. 엘리트 | 고등
+else | adv. 다른, 그 밖의 | 중등
+embarrass | v. 당황하게 하다, 난처하게 하다 | 중등
+embassy | n. 대사관 | 고등
+embrace | v. 포옹하다, 받아들이다 | 고등
+emerge | v. 나타나다, 출현하다 | 고등
+emergence | n. 출현, 발생 | 고등
+emergency | n. 비상사태, 응급 | 고등
+emit | v. 방출하다, 내뿜다 | 고등
+emission | n. 배출, 방출 | 고등
+emotion | n. 감정, 정서 | 중등
+emphasis | n. 강조, 주안점 | 고등
+emphasize | v. 강조하다, 역설하다 | 중등
+empire | n. 제국 | 중등
+employ | v. 고용하다, 사용하다 | 중등
+empty | adj./v. 비어 있는, 비우다 | 중등
+encounter | v./n. 마주치다, 접하다 | 고등
+end | n./v. 끝, 끝내다 | 초등
+endure | v. 견디다, 참다 | 고등
+enemy | n. 적, 원수 | 중등
+energy | n. 에너지, 활력 | 초등
+engage | v. 참여하다, 약혼하다 | 중등
+engine | adj./n. 엔진, 기관차 | 중등
+engineer | n. 기술자, 공학자 | 중등
+enhance | v. 향상시키다, 높이다 | 고등
+enormous | adj. 거대한, 엄청난 | 중등
+enough | adj./adv. 충분한, 충분히 | 초등
+enter | v. 들어가다, 입력하다 | 초등
+enterprise | n. 기업, 사업 | 고등
+entertain | v. 즐겁게 하다, 대접하다 | 중등
+enthusiastic | adj. 열정적인, 열광적인 | 고등
+entire | adj. 전체의, 모든 | 중등
+entry | n. 입장, 출입, 항목 | 고등
+envelope | n. 봉투 | 중등
+environ | v. 둘러싸다 | 고등
+environment | n. 환경 | 고등
+envy | n./v. 부러움, 부러워하다 | 고등
+equal | adj./v. 같은, 동등한, ~와 같다 | 중등
+equip | v. 장비를 갖추다 | 고등
+equipment | n. 장비, 용품 | 고등
+era | n. 시대, 시기 | 고등
+erase | v. 지우다 | 고등
+eraser | n. 지우개 | 고등
+erect | v./adj. 세우다, 직립한 | 고등
+err | v. 실수하다, 틀리다 | 고등
+error | n. 오류, 실수 | 고등
+escape | v. 탈출하다, 도망치다 | 중등
+especial | adj. 특별한 | 중등
+especially | adv. 특히 | 고등
+essay | n. 수필, 논문 | 중등
+essence | n. 본질, 정수 | 고등
+essential | adj. 본질적인, 필수적인 | 고등
+establish | v. 설립하다, 확립하다 | 중등
+estate | n. 재산, 부동산 | 고등
+estimate | v./n. 추정하다, 평가하다 | 중등
+ethic | n. 윤리, 도덕 | 고등
+ethical | adj. 윤리적인, 도덕적인 | 고등
+ethnic | adj. 민족의, 인종의 | 고등
+evacuate | v. 대피시키다, 비우다 | 고등
+evaluate | v. 평가하다, 감정하다 | 고등
+even | adv./adj. ~조차도, 평평한, 균등한 | 중등
+evening | n. 저녁, 밤 | 초등
+event | n. 사건, 행사 | 중등
+eventually | adv. 결국, 마침내 | 고등
+ever | adv. 늘, 언제나, 한번이라도 | 중등
+every | n. 모든, 각 ~ | 초등
+evidence | n. 증거, 흔적 | 중등
+evil | n./adj. 악, 사악한 | 중등
+evitable | adj. 피할 수 있는 | 고등
+inevitable | adj. 피할 수 없는, 불가피한 | 고등
+evolution | n. 진화, 발전 | 고등
+evolve | v. 진화하다, 발전하다 | 고등
+exact | adj. 정확한, 정밀한 | 중등
+exaggerate | v. 과장하다 | 고등
+examine | v. 조사하다, 검사하다 | 중등
+examination | n. 시험, 검사 | 고등
+exam | n. 시험 | 고등
+example | n. 예, 본보기 | 초등
+exceed | v. 초과하다, 능가하다 | 고등
+excel | v. 뛰어나다, 탁월하다 | 고등
+excellent | adj. 훌륭한, 탁월한 | 고등
+except | prep./conj. ~을 제외하고 | 중등
+excess | n. 초과, 과도함 | 고등
+exchange | v./n. 교환하다, 환전하다 | 중등
+excite | v. 흥분시키다, 자극하다 | 중등
+exclude | v. 제외하다, 배제하다 | 고등
+exclusive | adj. 독점적인, 배타적인 | 고등
+excuse | n./v. 변명, 용서하다 | 중등
+executive | n./adj. 임원, 경영진, 실행의 | 고등
+exercise | n./v. 운동, 연습, 운동하다 | 초등
+exhaust | v. 지치게 하다, 다 써버리다 | 중등
+exhibit | v./n. 전시하다, 전시품 | 고등
+exist | v. 존재하다, 실재하다 | 중등
+exit | n./v. 출구, 나가다 | 중등
+exotic | adj. 이국적인, 외래의 | 고등
+expand | v. 확장하다, 확대하다 | 중등
+expect | v. 기대하다, 예상하다 | 중등
+expense | n. 비용, 지출 | 중등
+expensive | adj. 비싼, 돈이 많이 드는 | 고등
+experience | v./n. 경험, 경험하다 | 중등
+experiment | n./v. 실험, 실험하다 | 중등
+expert | n. 전문가 | 중등
+expertise | n. 전문 지식 | 고등
+explain | v. 설명하다 | 중등
+explicit | adj. 명백한, 분명한 | 고등
+explode | v. 폭발하다 | 고등
+explore | v. 탐험하다, 탐구하다 | 고등
+export | v./n. 수출하다, 수출 | 고등
+expose | v. 노출시키다, 드러내다 | 중등
+express | v./n. 표현하다, 급행 | 중등
+extend | v. 확장하다, 연장하다 | 중등
+extent | n. 정도, 범위 | 고등
+external | adj. 외부의 | 고등
+extinct | adj. 멸종된 | 고등
+extra | adj./n. 여분의, 추가의 | 중등
+extract | v. 추출하다, 발췌하다 | 고등
+extraordinary | adj. 비범한, 특별한 | 고등
+extreme | adj. 극도의, 극심한 | 중등
+eye | n. 눈 | 초등
+eyebrow | n. 눈썹 | 고등
+fabric | n. 직물, 천 | 고등
+face | n./v. 얼굴, 직면하다 | 초등
+facilitate | v. 용이하게 하다, 촉진하다 | 고등
+facility | n. 시설, 재능 | 고등
+fact | n. 사실 | 초등
+factual | adj. 사실에 기반을 둔 | 고등
+factor | n. 요인, 요소 | 중등
+factory | n. 공장 | 중등
+faculty | adj./n. 교수진, 능력 | 고등
+fade | v. 희미해지다, 사라지다 | 고등
+fail | v. 실패하다 | 초등
+faint | adj./v. 희미한, 기절하다 | 중등
+fair | adj./n. 공정한, 박람회 | 중등
+faith | n. 신념, 믿음 | 중등
+fall | v./n. 떨어지다, 가을 | 초등
+false | adj. 거짓된, 틀린 | 고등
+fame | n. 명성 | 고등
+famous | adj. 유명한 | 고등
+familiar | adj. 익숙한, 친숙한 | 중등
+family | n. 가족 | 초등
+fan | n. 팬, 부채 | 초등
+fancy | adj./v. 화려한, 공상하다 | 중등
+fantastic | adj. 환상적인, 멋진 | 중등
+far | adj./adv. 먼, 멀리 | 초등
+fare | n. 요금 | 고등
+farm | n./v. 농장, 경작하다 | 초등
+fascinate | v. 매료시키다 | 중등
+fashion | n. 유행, 패션 | 중등
+fast | adj./adv. 빠른, 빨리 | 초등
+fasten | v. 매다, 고정시키다 | 고등
+fat | adj./n. 뚱뚱한, 지방 | 초등
+fate | n. 운명 | 고등
+fatal | adj. 치명적인 | 고등
+father | n. 아버지 | 초등
+dad | n. 아빠 | 고등
+daddy | n. 아빠 | 고등
+fault | n. 잘못 | 중등
+favor | adj. 호의 | 중등
+favour | adj. 호의 | 중등
+favorite | adj. 가장 좋아하는 | 초등
+favourite | adj. 가장 좋아하는 | 초등
+fear | n./v. 두려움 | 중등
+feature | n./v. 특징 | 중등
+federal | adj. 연방의 | 고등
+fee | n. 요금 | 중등
+feed | v. 먹이를 주다 | 중등
+feel | v. 느끼다 | 초등
+fellow | n./adj. 동료 | 중등
+female | adj./n. 여성의 | 중등
+fence | n. 울타리 | 중등
+ferry | n./v. 나룻배 | 고등
+fertile | adj. 비옥한 | 고등
+festival | n. 축제 | 초등
+fever | n. 열 | 중등
+few | adj./pron. 몇몇의 | 중등
+fiber | n. 섬유 | 고등
+fibre | n. 섬유 | 고등
+fiction | n. 소설 | 고등
+field | n. 들판 | 초등
+fierce | adj. 맹렬한 | 고등
+fight | n./v. 싸움 | 초등
+figure | n. 숫자 | 중등
+file | n. 파일 | 초등
+fill | v. 채우다 | 초등
+film | n. 영화 | 초등
+filter | n./v. 필터 | 고등
+final | adj. 최종의 | 중등
+finance | n./v. 재정 | 중등
+find | v. 찾다 | 초등
+fine | adj. 좋은 | 초등
+finger | n. 손가락 | 초등
+finish | v. 끝내다 | 초등
+finite | adj. 유한한 | 고등
+fire | n. 불 | 초등
+firm | n. 회사 | 중등
+first | adj./adv. 첫 번째의 | 초등
+fish | n./v. 물고기 | 초등
+fit | adj./v. 적합한 | 중등
+five | num. 다섯 | 초등
+fix | v. 고치다 | 초등
+flag | n./v. 깃발 | 중등
+flame | n. 불꽃,화염 | 중등
+flash | n./v. 번쩍임,섬광 | 중등
+flat | adj. 평평한,납작한 | 중등
+flavor | n. 맛,풍미 | 고등
+flavour | n. 맛,풍미 | 고등
+flaw | n. 결점,흠 | 고등
+flee | v. 도망치다 | 고등
+flesh | n. 살,육체 | 고등
+flexible | adj. 유연한,융통성 있는 | 고등
+flight | n. 비행,항공편 | 중등
+flip | v. 휙 뒤집다 | 고등
+float | v. (물에) 뜨다 | 중등
+flock | n./v. 떼,무리 | 고등
+flood | n./v. 홍수,범람하다 | 중등
+floor | n. 바닥,층 | 초등
+flourish | v. 번성하다,번창하다 | 고등
+flow | n./v. 흐름,흐르다 | 중등
+flower | n./v. 꽃,피다 | 초등
+flush | v. (얼굴이) 붉어지다,물을 쏟아 씻다 | 고등
+fly | v./n. 날다,파리 | 초등
+focus | n./v. 초점,집중하다 | 초등
+fog | n. 안개 | 중등
+fold | v./n. 접다,주름 | 중등
+folk | n./adj. 사람들,민속의 | 중등
+follow | v. 따르다,뒤를 잇다 | 중등
+fond | adj. 좋아하는,애정 어린 | 고등
+food | n. 음식 | 초등
+fool | n./v. 바보,속이다 | 초등
+foot | n. 발,피트 | 초등
+football | n. 축구 | 초등
+forbid | v. 금지하다 | 고등
+force | n./v. 힘,강요하다 | 중등
+enforce | v. (법 등을) 시행하다,집행하다 | 고등
+forecast | v./n. 예보하다,예측하다 | 고등
+forehead | n. 이마 | 고등
+foreign | adj. 외국의,이질적인 | 중등
+forest | n. 숲,삼림 | 초등
+forever | adv. 영원히 | 중등
+forget | v. 잊다,망각하다 | 초등
+forgive | v. 용서하다 | 중등
+fork | n. 포크,갈래 | 초등
+form | n./v. 형태,양식 | 초등
+formal | adj. 공식적인,격식 있는 | 고등
+formation | n. 형성,대형 | 고등
+informal | adj. 비공식적인,격식 없는 | 고등
+format | n./v. 형식,포맷 | 고등
+former | adj. 이전의,예전의 | 고등
+formula | n. 공식,방식 | 고등
+forth | adv. 앞으로,나아가 | 중등
+fortunate | adj. 운 좋은,다행스러운 | 중등
+fortune | adj./n. 재산, 운 | 중등
+forward | adv. 앞으로, 앞쪽으로 | 중등
+foster | v. 양육하다, 육성하다 | 고등
+found | v. 설립하다 | 중등
+foundation | n. 토대, 재단, 기초 | 고등
+fountain | n. 분수 | 고등
+four | num. 넷, 4 | 초등
+fox | n. 여우 | 초등
+fraction | n. 부분, 분수 | 고등
+frame | n./v. 틀, 액자 | 중등
+framework | n. 틀, 뼈대, 체계 | 고등
+frankly | adv. 솔직히 | 중등
+free | adj./v. 자유로운, 무료의 | 초등
+freeze | v. 얼다, 냉동하다 | 중등
+frequent | adj. 잦은, 빈번한 | 고등
+fresh | adj. 신선한 | 초등
+friend | n. 친구 | 초등
+friendship | n. 우정 | 고등
+fright | n. 공포, 섬뜩함 | 중등
+frog | n. 개구리 | 중등
+front | n./adj. 앞, 정면 | 초등
+frost | n. 서리 | 고등
+frown | v. 찡그리다, 찌푸리다 | 고등
+fruit | n. 과일 | 초등
+frustrate | v. 좌절시키다 | 중등
+fry | v. 튀기다, 볶다 | 중등
+fuel | n. 연료 | 고등
+fulfil | v. 이행하다, 성취하다 | 고등
+full | adj. 가득 찬, 완전한 | 초등
+fun | n. 재미 | 초등
+function | n. 기능, 역할 | 중등
+fund | n. 기금, 자금 | 중등
+fundamental | adj. 근본적인, 기본적인 | 고등
+funeral | n. 장례식 | 고등
+fur | n. 털, 모피 | 중등
+furnish | v. 비치하다, 공급하다 | 고등
+furniture | n. 가구 | 중등
+furthermore | adv. 더욱이, 게다가 | 고등
+fury | n. 격분, 분노 | 고등
+furious | adj. 몹시 화난, 맹렬한 | 고등
+fuse | n./v. 퓨즈, 녹이다 | 고등
+future | n. 미래 | 초등
+gain | v./n. 얻다, 이익 | 중등
+gallery | n. 화랑, 미술관 | 고등
+gamble | v./n. 도박하다, 도박 | 고등
+game | n. 게임, 경기 | 초등
+gang | n. 갱단, 무리 | 고등
+gap | n. 틈, 간격 | 고등
+garage | n. 차고 | 중등
+garden | n. 정원 | 초등
+gas | n. 가스, 기체, 휘발유 | 초등
+gasoline | n. 휘발유 | 고등
+petrol | n. 휘발유 | 고등
+gate | n. 문, 출입구 | 중등
+gather | v. 모으다, 모이다 | 중등
+gaze | v./n. 응시하다, 바라보다 | 고등
+gear | n. 장비, 기어 | 중등
+gender | n. 성별 | 고등
+gene | n. 유전자 | 고등
+genetic | adj. 유전의, 유전학의 | 고등
+general | adj./n. 일반적인, 전반적인, 장군 | 중등
+generate | v. 생성하다, 발생시키다 | 고등
+generation | n. 세대, 발생 | 고등
+generous | adj. 관대한, 후한 | 고등
+genius | n. 천재 | 고등
+gentle | adj. 온화한, 부드러운 | 중등
+gentleman | n. 신사 | 초등
+genuine | adj. 진짜의, 진정한 | 고등
+geography | n. 지리, 지리학 | 고등
+geology | n. 지질학 | 고등
+gesture | n./v. 제스처, 몸짓 | 중등
+get | v. 얻다, 받다, 되다 | 초등
+ghost | n. 유령, 귀신 | 중등
+giant | n./adj. 거인, 거대한 | 중등
+gift | n. 선물, 재능 | 중등
+giraffe | n. 기린 | 중등
+girl | n. 소녀, 여자아이 | 초등
+give | v. 주다 | 초등
+glad | adj. 기쁜 | 초등
+glance | v./n. 흘긋 보다, 흘긋 봄 | 중등
+glare | v./n. 노려보다, 번쩍이는 빛 | 고등
+glass | n. 유리, 유리잔, 안경 | 초등
+globe | n. 지구, 구 | 고등
+global | adj. 세계적인, 지구상의 | 고등
+glory | n. 영광 | 중등
+glove | n. 장갑 | 중등
+glow | v./n. 빛나다, 빛 | 고등
+glue | n./v. 풀, 접착제 | 중등
+goal | n. 목표, 골 | 초등
+goat | n. 염소 | 고등
+god | n. 신 | 초등
+gold | n./adj. 금, 황금 | 초등
+golf | n. 골프 | 중등
+good | adj./n. 좋은, 선 | 초등
+goods | n. 상품, 물품 | 고등
+goodbye | interj./n. 안녕, 작별 | 초등
+bye | interj./n. 안녕, 작별 | 고등
+gorgeous | adj. 멋진, 화려한 | 중등
+govern | v. 통치하다, 다스리다 | 중등
+government | n. 정부 | 고등
+grab | v. 잡다 | 중등
+grace | n. 우아함 | 중등
+grade | n./v. 학년, 등급 | 중등
+gradual | adj. 점진적인 | 고등
+graduate | v./n. 졸업하다 | 고등
+grain | n. 곡물 | 고등
+grand | adj. 웅장한 | 중등
+grandfather | n. 할아버지 | 초등
+grant | v./n. 승인하다, 주다 | 중등
+grape | n. 포도 | 초등
+graph | n. 그래프 | 중등
+graphic | adj. 그래픽의 | 고등
+grasp | v./n. 붙잡다, 이해하다 | 고등
+grass | n. 풀 | 초등
+grateful | adj. 감사하는 | 고등
+grave | n./adj. 무덤, 심각한 | 고등
+gray | adj./n. 회색 | 초등
+grey | adj./n. 회색 | 초등
+great | adj. 위대한, 훌륭한 | 초등
+greed | n. 탐욕 | 고등
+green | adj./n. 초록색 | 초등
+greet | v. 인사하다 | 중등
+grief | n. 슬픔 | 고등
+grip | n./v. 붙잡음, 파악 | 고등
+grocery | n. 식료품 | 중등
+gross | adj. 총계의, 역겨운 | 고등
+ground | n. 땅, 바닥 | 초등
+group | n./v. 그룹 | 초등
+grow | v. 자라다, 성장하다 | 초등
+guarantee | v./n. 보증하다 | 중등
+guard | n./v. 경비원, 지키다 | 중등
+guardian | n. 보호자 | 고등
+guess | v./n. 추측하다 | 초등
+guest | n. 손님 | 중등
+guide | v./n. 안내하다, 안내자 | 중등
+guideline | n. 지침 | 고등
+guilt | n. 죄책감 | 중등
+guilty | adj. 유죄의 | 고등
+guitar | n. 기타 | 초등
+gulf | n. 만(灣) | 고등
+gum | n. 껌, 잇몸 | 초등
+gun | n. 총 | 중등
+guy | n. 남자, 녀석 | 초등
+gymnasium | n. 체육관 | 고등
+gym | n. 체육관 | 고등
+habit | n. 습관 | 초등
+habitat | n. 서식지 | 고등
+hair | n. 머리카락 | 초등
+half | n. 절반 | 중등
+hall | n. 복도, 홀 | 중등
+halt | v./n. 멈추다, 중단, 정지 | 고등
+hamburger | n. 햄버거 | 초등
+hammer | n./v. 망치, 망치로 치다 | 고등
+hand | n./v. 손, 건네주다 | 초등
+handicap | n./v. 장애, 불리한 조건, 불리하게 만들다 | 고등
+handle | v./n. 다루다, 처리하다, 손잡이 | 중등
+handsome | adj. 잘생긴, 상당한 | 중등
+hang | v. 매달다, 걸다, 교수형에 처하다 | 초등
+happen | v. 발생하다, 일어나다 | 중등
+happy | adj. 행복한, 기쁜 | 초등
+harbor | n./v. 항구, 숨겨주다, (생각 등을) 품다 | 고등
+harbour | n./v. 항구, 숨겨주다, (생각 등을) 품다 | 고등
+hard | adj./adv. 단단한, 어려운, 열심히 | 초등
+hardly | adv. 거의 ~않다, 간신히 | 고등
+harm | v./n. 해를 끼치다, 해악 | 중등
+harmony | n. 조화, 화합 | 고등
+harmonious | adj. 조화로운, 화목한 | 고등
+harsh | adj. 가혹한, 혹독한 | 고등
+harvest | n./v. 수확, 수확하다 | 고등
+hat | n. 모자 | 초등
+hate | v./n. 미워하다, 싫어하다, 증오 | 초등
+haunt | v. (귀신이) 출몰하다, 뇌리에서 떠나지 않다 | 고등
+hazard | n. 위험, 위험 요소 | 고등
+head | n./v. 머리, 우두머리, 향하다 | 초등
+headquarters | n. 본부, 본사 | 고등
+heal | v. 치유하다, 낫다 | 고등
+health | n. 건강 | 중등
+healthy | adj. 건강한 | 고등
+hear | v. 듣다 | 중등
+heart | n. 심장, 마음 | 초등
+heat | n./v. 열, 뜨겁게 하다, 가열하다 | 초등
+heaven | n. 천국, 하늘 | 중등
+heavy | adj. 무거운, 심한 | 초등
+heel | n. 발뒤꿈치, 뒤축 | 고등
+height | n. 높이, 키, 절정 | 중등
+heir | n. 상속인, 후계자 | 고등
+helicopter | n. 헬리콥터 | 중등
+hell | n. 지옥 | 중등
+hello | n. 안녕하세요, 여보세요 | 초등
+hey | n. 이봐, 저기 | 초등
+helmet | n. 헬멧 | 초등
+help | v./n. 돕다, 도움 | 초등
+hence | adv. 그러므로, 따라서 | 고등
+here | adv. 여기, 이곳 | 초등
+heritage | n. 유산 | 고등
+hero | n. 영웅 | 초등
+hesitate | v. 망설이다, 주저하다 | 중등
+hide | v./n. 숨기다, 숨다, 가죽 | 중등
+hierarchy | n. 계급, 계층 | 고등
+high | adj./adv. 높은, 고도의, 최고조의 | 초등
+highlight | v./n. 강조하다, 하이라이트 | 고등
+highway | n. 고속도로 | 중등
+hike | v./n. 도보여행, 하이킹 | 초등
+hill | n. 언덕 | 초등
+hint | n./v. 힌트, 암시 | 중등
+hire | v. 고용하다, 빌리다 | 중등
+history | n. 역사 | 초등
+hit | v. 치다, 때리다 | 초등
+hobby | n. 취미 | 초등
+hold | v. 잡다, 들다, 개최하다 | 초등
+hole | n. 구멍 | 중등
+holiday | n. 휴일, 방학 | 초등
+holy | adj. 신성한, 성스러운 | 고등
+home | n./adv. 집, 가정 | 초등
+homework | n. 숙제 | 초등
+honest | adj. 정직한 | 초등
+honey | n. 꿀, 여보 | 중등
+honor | n./v. 명예, 존경하다 | 중등
+honour | n./v. 명예, 존경하다 | 중등
+hook | n./v. 갈고리, 걸다 | 고등
+hope | n./v. 희망, 바라다 | 초등
+horizon | n. 수평선, 지평선 | 고등
+horror | n. 공포, 공포심 | 고등
+horse | n. 말 | 초등
+hospital | n. 병원 | 초등
+host | n./v. 주인, 진행자, 주최하다 | 고등
+hostile | adj. 적대적인 | 고등
+hot | adj. 뜨거운, 더운 | 초등
+hotel | n. 호텔 | 중등
+hour | n. 시간 | 초등
+house | n. 집, 주택 | 초등
+household | n. 가정, 가구 | 고등
+however | adv./conj. 하지만, 그러나 | 초등
+hug | v./n. 포옹, 껴안다 | 중등
+huge | adj. 거대한, 엄청난 | 중등
+human | n./adj. 인간, 사람 | 초등
+humor | n. 유머 | 중등
+humour | n. 유머 | 중등
+hundred | num. 백 | 초등
+hunger | n. 굶주림, 배고픔 | 중등
+hungry | adj. 배고픈 | 고등
+hunt | v./n. 사냥하다, 사냥 | 초등
+hurry | v./n. 서두르다, 서두름 | 초등
+hurt | v./adj. 다치게 하다, 아프다 | 중등
+husband | n. 남편 | 초등
+hut | n. 오두막 | 고등
+hypothesis | n. 가설 | 고등
+ice | n. 얼음 | 초등
+idea | n. 생각, 아이디어 | 초등
+ideal | adj./n. 이상적인, 이상 | 고등
+identical | adj. 동일한 | 고등
+identity | n. 정체성 | 중등
+identify | v. 확인하다 | 고등
+ideology | n. 이념 | 고등
+ignore | v. 무시하다 | 중등
+ill | adj. 아픈 | 중등
+illude | v. 착각하게 하다 | 고등
+illusion | n. 환상 | 고등
+illustrate | v. 설명하다 | 중등
+image | n. 이미지 | 초등
+imagine | v. 상상하다 | 중등
+imitate | v. 모방하다 | 고등
+immediate | adj. 즉각적인 | 중등
+immense | adj. 막대한 | 고등
+immigrate | v. 이민 오다 | 고등
+immune | adj. 면역의 | 고등
+impact | n. 영향 | 고등
+imperial | adj. 제국의 | 고등
+implement | v. 실행하다 | 고등
+imply | v. 암시하다 | 고등
+import | v. 수입하다 | 고등
+importance | n. 중요성 | 고등
+important | adj. 중요한 | 고등
+impose | v. 부과하다 | 고등
+impress | v. 깊은 인상을 주다 | 중등
+improve | v. 개선하다 | 중등
+incentive | n. 장려금 | 고등
+incident | n. 사건 | 고등
+incline | v. 경사지다 | 고등
+include | v. 포함하다 | 중등
+income | n. 수입 | 중등
+incorporate | v. 포함하다 | 고등
+increase | v. 증가하다 | 중등
+indeed | adv. 정말로 | 중등
+index | n. 지수 | 고등
+indicate | v. 나타내다 | 중등
+individual | n. 개인 | 중등
+induce | v. 유도하다 | 고등
+industry | n. 산업 | 중등
+infant | n. 유아 | 고등
+infect | v. 감염시키다 | 고등
+infer | v. 추론하다 | 고등
+inference | n. 추론 | 고등
+inflate | v. 부풀리다 | 고등
+influence | n. 영향 | 중등
+inform | v. 알리다 | 중등
+ingredient | n. 재료 | 고등
+inhabit | v. 거주하다 | 고등
+inherent | adj. 내재하는 | 고등
+inhibit | v. 억제하다 | 고등
+initial | adj. 처음의 | 고등
+inject | v. 주사하다 | 고등
+injure | v. 다치게 하다 | 중등
+inn | n. 여관 | 고등
+innocent | adj. 무죄의 | 중등
+innovate | v. 혁신하다 | 고등
+input | n./v. 입력 | 고등
+inquire | v. 문의하다 | 고등
+enquire | v. 문의하다 | 고등
+insect | n. 곤충 | 고등
+insert | v. 삽입하다 | 고등
+inside | n. 안쪽 | 초등
+insight | n. 통찰력 | 고등
+insist | v. 주장하다 | 중등
+inspect | v. 검사하다 | 중등
+inspire | v. 영감을 주다 | 고등
+install | v. 설치하다 | 고등
+instance | n. 사례 | 중등
+instant | adj. 즉각적인 | 중등
+instead | adv. 대신에 | 중등
+instinct | n. 본능 | 고등
+institute | n. 기관 | 고등
+institution | n. 기관 | 고등
+instruct | v. 지시하다 | 중등
+instrument | n. 도구 | 중등
+insult | v. 모욕하다 | 고등
+insure | v. 보험에 들다 | 중등
+insurance | n. 보험 | 고등
+integrate | v. 통합하다 | 고등
+intellect | n. 지성 | 고등
+intellectual | adj. 지적인 | 고등
+intelligent | adj. 똑똑한 | 고등
+intend | v. 의도하다 | 중등
+intense | adj. 강렬한 | 중등
+intent | n. 의도 | 중등
+intention | n. 의도 | 고등
+interest | n./v. 흥미 | 중등
+interfere | v. 간섭하다 | 고등
+interior | n./adj. 내부 | 고등
+intermediate | adj. 중간의 | 고등
+internal | adj. 내부의 | 중등
+internet | n. 인터넷 | 초등
+interpret | v. 해석하다 | 고등
+interrupt | v. 방해하다 | 중등
+interval | n. 간격 | 고등
+intervene | v. 개입하다 | 고등
+intimate | adj. 친밀한 | 고등
+into | prep. ~안으로 | 초등
+intrigue | v./n. 흥미를 끌다 | 고등
+introduce | v. 소개하다 | 초등
+invade | v. 침략하다 | 고등
+invent | v. 발명하다 | 중등
+inventor | n. 발명가 | 고등
+invest | v. 투자하다 | 중등
+investigate | v. 조사하다 | 중등
+invite | v. 초대하다 | 초등
+involve | v. 관련시키다 | 중등
+iron | n./v. 철,다리미 | 중등
+irony | n. 아이러니 | 고등
+irritate | v. 짜증나게 하다 | 고등
+island | n. 섬 | 중등
+isolate | v. 고립시키다 | 고등
+issue | n./v. 문제,쟁점 | 초등
+item | n. 항목,물품 | 중등
+jacket | n. 재킷 | 초등
+jail | n./v. 감옥 | 고등
+jam | n./v. 잼,막히다 | 초등
+jar | n. 항아리,병 | 고등
+jaw | n. 턱 | 중등
+jeans | n. 청바지 | 중등
+job | n. 직업 | 초등
+jog | v./n. 조깅하다 | 고등
+join | v. 합류하다,연결하다 | 초등
+joint | n./adj. 관절,공동의 | 고등
+joke | n./v. 농담 | 중등
+journal | n. 일기,신문 | 고등
+journey | n./v. 여행 | 중등
+joy | n. 기쁨 | 중등
+enjoy | v. 즐기다 | 고등
+judge | v./n. 판단하다,판사 | 중등
+juice | n. 주스 | 초등
+jump | v./n. 점프하다 | 초등
+junior | adj./n. 하급의,후배 | 중등
+jury | n. 배심원단 | 고등
+just | adv./adj. 단지,막,정의로운 | 초등
+justice | adj. 정의 | 중등
+keen | adj. 열심인,예리한 | 고등
+keep | v. 유지하다,지키다 | 초등
+key | n./adj. 열쇠,핵심 | 초등
+kick | v./n. 차다 | 초등
+kid | n. 아이 | 초등
+kill | v. 죽이다 | 초등
+kind | adj./n. 친절한,종류 | 초등
+king | n. 왕 | 초등
+kiss | v./n. 키스 | 초등
+kit | n. 도구 세트 | 고등
+kitchen | n. 부엌 | 초등
+knee | n. 무릎 | 중등
+knife | n. 칼 | 초등
+knight | n. 기사 | 고등
+knock | v. 노크하다 | 중등
+knot | n. 매듭 | 고등
+know | v. 알다 | 초등
+knowledge | n. 지식 | 중등
+label | n. 라벨 | 중등
+labor | n. 노동 | 중등
+labour | n. 노동 | 중등
+laboratory | n. 실험실 | 중등
+lab | n. 실험실 | 중등
+lack | n. 부족 | 중등
+ladder | n. 사다리 | 고등
+lady | n. 숙녀 | 초등
+lake | n. 호수 | 초등
+lamb | n. 어린 양 | 중등
+lamp | n. 램프 | 중등
+land | n. 땅 | 초등
+landscape | n. 풍경 | 고등
+lane | n. 차선 | 중등
+language | n. 언어 | 중등
+lap | n. 무릎 | 고등
+large | adj. 큰 | 초등
+laser | n. 레이저 | 초등
+last | adj./adv. 마지막의 | 초등
+late | adj./adv. 늦은 | 초등
+latter | adj. 후자의 | 고등
+laugh | v./n. 웃다 | 중등
+launch | v./n. 발사하다 | 고등
+laundry | n. 세탁물 | 고등
+law | n. 법 | 중등
+lawn | n. 잔디밭 | 중등
+lawyer | n. 변호사 | 중등
+lay | v. 놓다 | 중등
+layer | n. 층 | 고등
+lazy | adj. 게으른 | 초등
+lead | v./n. 이끌다 | 중등
+leaf | n. 잎 | 중등
+league | n. 리그 | 중등
+leak | v./n. 새다 | 고등
+lean | v. 기울다 | 중등
+leap | v. 뛰어오르다 | 중등
+learn | v. 배우다 | 초등
+lease | n./v. 임대 | 고등
+leather | n. 가죽 | 고등
+leave | v. 떠나다 | 중등
+lecture | n./v. 강의 | 고등
+left | adj. 왼쪽의 | 초등
+leg | n. 다리 | 초등
+legal | adj. 합법적인 | 중등
+legend | n. 전설 | 고등
+legislate | v. 입법하다 | 고등
+legitimate | adj. 합법적인, 정당한 | 고등
+leisure | n. 여가 | 고등
+lemon | n. 레몬 | 중등
+lend | v. 빌려주다 | 중등
+lesson | n. 수업, 교훈 | 초등
+let | v. ~하게 하다, 허락하다 | 중등
+letter | n. 편지, 글자 | 초등
+literal | adj. 글자 그대로의, 문자의 | 고등
+level | n./adj. 수준, 단계, 평평한 | 중등
+liberal | adj. 자유주의의, 관대한 | 고등
+liberty | n. 자유 | 고등
+library | n. 도서관 | 초등
+license | n./v. 면허, 허가 | 중등
+licence | n./v. 면허, 허가 | 중등
+lid | n. 뚜껑 | 중등
+lie | v./n. 눕다, 거짓말하다, 거짓말 | 초등
+life | n. 삶, 생명 | 초등
+lift | v./n. 들어 올리다, 승강기 | 중등
+light | n./adj. 빛, 가벼운, 밝은 | 초등
+like | prep./v. ~처럼, 좋아하다 | 초등
+likely | adj./adv. ~할 것 같은, 아마 | 고등
+likewise | adv. 마찬가지로 | 고등
+limit | n./v. 한계, 제한하다 | 중등
+line | n. 선, 줄 | 초등
+linguistic | adj. 언어의, 언어학의 | 고등
+link | v./n. 연결하다, 연결 | 중등
+lion | n. 사자 | 초등
+lip | n. 입술 | 초등
+liquid | n./adj. 액체, 액체의 | 고등
+list | n./v. 목록, 목록을 만들다 | 중등
+listen | v. 듣다 | 초등
+literature | n. 문학 | 고등
+little | adj./adv. 작은, 적은 | 초등
+live | v./adj. 살다, 살아있는 | 초등
+livingroom | n. 거실 | 중등
+load | n./v. 짐, 싣다 | 중등
+loan | n./v. 대출, 빌려주다 | 중등
+local | adj. 지역의, 현지의 | 중등
+locate | v. ~의 위치를 찾다, 위치하다 | 중등
+lock | v./n. 잠그다, 자물쇠 | 중등
+log | n./v. 통나무, 기록하다 | 중등
+logic | n. 논리 | 고등
+lone | adj. 혼자의, 고독한 | 고등
+long | adj./adv. 긴, 오래 | 초등
+look | v./n. 보다, ~처럼 보이다 | 초등
+loose | adj. 헐거운, 느슨한 | 중등
+lose | v. 잃다, 지다 | 중등
+loss | n. 손실, 상실 | 중등
+lot | n. 많음, (추첨) 제비 | 중등
+loud | adj./adv. 시끄러운, 큰 소리의 | 중등
+love | n./v. 사랑 | 초등
+low | adj./adv. 낮은 | 초등
+loyal | adj. 충성스러운 | 고등
+luck | adj. 운 | 초등
+lump | n. 덩어리 | 고등
+lunch | n. 점심 | 초등
+luxury | n. 사치 | 고등
+machine | n. 기계 | 중등
+mad | adj. 미친 | 초등
+magazine | n. 잡지 | 중등
+magic | n./adj. 마법 | 중등
+magnet | n. 자석 | 고등
+magnificent | adj. 웅장한 | 고등
+mail | n./v. 우편 | 초등
+main | adj. 주요한 | 중등
+maintain | v. 유지하다 | 중등
+major | adj./n. 주요한 | 중등
+majority | n. 대다수 | 고등
+make | v. 만들다 | 초등
+male | n./adj. 남성 | 중등
+man | n. 남자 | 초등
+manage | v. 관리하다 | 중등
+manifest | v. 명백히 하다 | 고등
+manipulate | v. 조작하다 | 고등
+manner | n. 방식 | 중등
+manufacture | v. 제조하다 | 중등
+many | adj./pron. 많은 | 초등
+map | n. 지도 | 초등
+marathon | n. 마라톤 | 초등
+margin | n. 여백 | 고등
+marine | adj. 해양의 | 고등
+mark | n. 표시 | 중등
+market | n. 시장 | 초등
+marry | v. 결혼하다 | 초등
+marvel | n. 경이로움 | 중등
+mask | n. 마스크 | 중등
+mass | n. 질량 | 중등
+master | n. 달인 | 중등
+match | n. 경기 | 중등
+mate | n. 짝 | 중등
+mathematics | n. 수학 | 초등
+maths | n. 수학 | 초등
+math | n. 수학 | 초등
+matter | n. 문제 | 중등
+material | n. 재료 | 고등
+mature | adj. 성숙한 | 고등
+maximum | n. 최대 | 중등
+may | v. ~일지도 모른다 | 초등
+maybe | adv. 아마 | 중등
+mayor | n. 시장 | 고등
+meal | n. 식사 | 중등
+mean | v. 의미하다,비열한 | 중등
+meanwhile | adv. 한편 | 고등
+measure | v. 측정하다,조치 | 중등
+meat | n. 고기 | 초등
+mechanic | n. 정비사 | 고등
+mechanism | n. 기구,메커니즘 | 고등
+medal | n. 메달 | 초등
+mediate | v. 중재하다 | 고등
+medical | adj. 의료의 | 중등
+medicine | n. 약,의학 | 중등
+medieval | adj. 중세의 | 고등
+medium | adj./n. 중간의,매체 | 고등
+media | n. 매체,미디어 | 고등
+meet | v. 만나다,충족시키다 | 초등
+melon | n. 멜론 | 중등
+melt | v. 녹다 | 중등
+member | n. 회원,구성원 | 초등
+membership | n. 회원 자격 | 고등
+memory | n. 기억,메모리 | 초등
+mental | adj. 정신의 | 중등
+mention | v. 언급하다 | 중등
+menu | n. 메뉴 | 중등
+merchant | n. 상인 | 고등
+mere | adj. 단순한,단지 | 고등
+merge | v. 합병하다 | 고등
+merit | n. 장점,가치 | 고등
+mess | n. 엉망,혼란 | 중등
+message | n. 메시지 | 중등
+metal | n. 금속 | 중등
+method | n. 방법 | 중등
+metropolitan | adj. 대도시의 | 고등
+microphone | n. 마이크 | 고등
+microwave | n. 전자레인지 | 중등
+middle | n. 중간,가운데 | 초등
+might | n. 힘 | 초등
+migrate | v. 이주하다 | 고등
+migrant | n. 이주자 | 고등
+mild | adj. 온화한,순한 | 고등
+military | adj./n. 군사의,군대 | 중등
+milk | n. 우유 | 초등
+mill | n. 방앗간,공장 | 중등
+million | n./adj. 백만 | 고등
+mind | n. 마음,정신 | 초등
+mine | n. 나의 것,광산 | 고등
+miner | n. 광부 | 고등
+mineral | n. 광물 | 고등
+minimal | adj. 최소의 | 고등
+minimum | n./adj. 최소,최소한 | 고등
+ministry | n. 부처 | 고등
+minor | adj. 작은, 사소한 | 중등
+minute | n. 분 | 중등
+miracle | n. 기적 | 고등
+mirror | n. 거울 | 중등
+miss | v. 놓치다, 그리워하다 | 초등
+missile | n. 미사일 | 고등
+mission | n. 임무 | 중등
+mix | v. 섞다 | 중등
+mobile | adj. 움직일 수 있는, 이동식의 | 고등
+mock | v. 조롱하다, 흉내 내다 | 고등
+mode | n. 방식, 양식 | 고등
+modify | v. 수정하다, 변경하다 | 고등
+model | n. 모형, 모델 | 초등
+moderate | adj. 적당한, 온건한 | 고등
+modern | adj. 현대의 | 중등
+modest | adj. 겸손한, 수수한 | 고등
+moist | adj. 축축한 | 고등
+moisture | n. 습기 | 고등
+molecule | n. 분자 | 고등
+moment | n. 순간 | 중등
+money | n. 돈 | 초등
+monitor | v./n. 감시하다, 모니터 | 중등
+monkey | n. 원숭이 | 초등
+monster | n. 괴물 | 고등
+month | n. 달, 개월 | 초등
+monument | n. 기념비, 기념물 | 고등
+mood | n. 기분, 분위기 | 중등
+moon | n. 달 | 초등
+moral | adj. 도덕적인 | 중등
+moreover | adv. 게다가, 더욱이 | 중등
+morning | n. 아침 | 초등
+mortal | adj. 죽을 운명의, 치명적인 | 고등
+mother | n. 어머니 | 초등
+mom | n. 엄마 | 고등
+mommy | n. 엄마 | 고등
+motion | n. 움직임, 동작 | 중등
+motive | n. 동기 | 고등
+motor | n. 모터, 발동기 | 중등
+mount | v. 오르다, 설치하다 | 중등
+mountain | n. 산 | 초등
+mouse | n. 쥐, 마우스 | 초등
+mouth | n. 입 | 초등
+move | v. 움직이다, 이사하다 | 초등
+movie | n. 영화 | 초등
+much | adj. 많은 | 초등
+mud | n. 진흙 | 중등
+multiple | adj. 다수의, 다양한 | 고등
+murder | n./v. 살인 | 고등
+muscle | n. 근육 | 중등
+museum | n. 박물관 | 중등
+mushroom | n. 버섯 | 중등
+music | n. 음악 | 초등
+must | v. ~해야 한다 | 초등
+mutual | adj. 상호의 | 고등
+mystery | n. 미스터리 | 중등
+myth | n. 신화 | 고등
+nail | n./v. 못 | 중등
+naive | adj. 순진한 | 고등
+naked | adj. 벌거벗은 | 고등
+name | n./v. 이름 | 초등
+narrate | v. 이야기하다 | 고등
+narrow | adj./v. 좁은 | 중등
+nasty | adj. 불쾌한 | 고등
+nation | n. 국가 | 초등
+international | adj. 국제적인 | 고등
+native | adj. 토착의 | 중등
+nature | n. 자연 | 초등
+navy | n. 해군 | 중등
+near | prep./adv. 가까이 | 초등
+neat | adj. 깔끔한 | 중등
+necessary | adj. 필요한 | 중등
+neck | n. 목 | 초등
+need | n./v. 필요 | 초등
+needle | n. 바늘 | 고등
+negate | v. 부정하다 | 고등
+negative | adj. 부정적인 | 고등
+neglect | v./n. 소홀히 하다 | 고등
+negotiate | v. 협상하다 | 고등
+neighbor | n. 이웃 | 중등
+neighbour | n. 이웃 | 중등
+neither | conj./pron. ~도 ~도 아니다 | 중등
+nephew | n. 남자 조카 | 고등
+nerve | n. 신경 | 중등
+nervous | adj. 긴장한 | 고등
+nest | n./v. 둥지 | 중등
+net | n. 그물 | 중등
+network | n. 네트워크 | 고등
+neutral | adj. 중립적인 | 고등
+never | adv. 결코 ~않다 | 초등
+nevertheless | n. 그럼에도 불구하고 | 고등
+new | adj. 새로운 | 초등
+news | n. 뉴스 | 초등
+newspaper | n. 신문 | 초등
+next | adj./adv. 다음의 | 초등
+nice | adj. 좋은 | 초등
+night | n. 밤 | 초등
+nightmare | n. 악몽 | 고등
+nine | num. 아홉 | 초등
+nope | adv. 아니 | 초등
+nay | adv. 아니오 | 초등
+noble | adj. 고귀한, 숭고한 | 고등
+nod | v./n. 끄덕이다, 끄덕임 | 고등
+noise | n. 소음 | 중등
+nominate | v. 지명하다, 추천하다 | 고등
+none | pron. 아무것도 ~않다, 아무도 ~않다 | 중등
+nonetheless | adv. 그럼에도 불구하고 | 고등
+noon | n. 정오 | 중등
+nor | conj. ~도 또한 ~아니다 | 중등
+norm | n. 규범, 기준 | 고등
+normal | adj. 정상적인, 보통의 | 고등
+north | n. 북쪽 | 초등
+nose | n. 코 | 초등
+note | n./v. 메모, 쪽지, 주목하다, 음표 | 초등
+notion | n. 개념, 생각 | 고등
+notebook | n. 공책, 노트북 | 초등
+nothing | pron. 아무것도 ~않다, 무 | 초등
+notice | n./v. 통지, 공지, 알아차리다 | 중등
+novel | n./adj. 소설, 새로운 | 고등
+now | adv. 지금, 이제 | 초등
+nowadays | adv. 요즘, 오늘날 | 중등
+nowhere | adv. 아무 데도 ~않다 | 중등
+nuclear | adj. 핵의, 원자력의 | 고등
+number | n./v. 숫자, 번호, 수 | 초등
+numerous | adj. 수많은 | 고등
+nurse | n./v. 간호사, 간호하다 | 초등
+nut | n. 견과류 | 중등
+oak | n. 참나무 | 중등
+obey | v. 복종하다, 따르다 | 고등
+object | n./v. 물체, 대상, 반대하다 | 중등
+objective | adj./n. 목표, 객관적인 | 고등
+oblige | v. 의무를 지우다, 돕다 | 고등
+observe | v. 관찰하다, 준수하다 | 중등
+obsess | v. ~에 사로잡히다, 집착하다 | 고등
+obtain | v. 얻다, 획득하다 | 고등
+obvious | adj. 명백한, 분명한 | 중등
+occasion | n. 경우, 때, 행사 | 중등
+occupy | v. 차지하다, 점령하다 | 고등
+occupation | n. 직업, 점령 | 고등
+occur | v. 발생하다, 일어나다 | 중등
+occurrence | n. 발생, 사건 | 고등
+ocean | v./n. 대양, 바다 | 중등
+odd | adj. 이상한, 홀수의 | 중등
+off | prep./adv. ~에서 떨어져, ~을 벗어나 | 초등
+offend | v. 불쾌하게 하다, 기분을 상하게 하다 | 고등
+offer | v./n. 제안하다, 제공하다, 제안 | 중등
+office | n. 사무실, 직무 | 초등
+official | adj./n. 공식적인, 공무원 | 고등
+officer | n. 장교, 경찰관, 공무원 | 중등
+often | adv. 자주, 종종 | 초등
+oil | n. 기름, 석유 | 초등
+okay | adj./adv. 좋은, 괜찮은 | 초등
+okey | adj./adv. 좋은, 괜찮은 | 초등
+old | adj. 늙은, 오래된 | 초등
+once | adv./conj. 한 번, 언젠가 | 중등
+one | num./pron. 하나 | 초등
+only | adv./adj. 오직, 유일한 | 초등
+open | v./adj. 열다, 열린 | 초등
+opera | n. 오페라 | 중등
+operate | v. 작동하다, 수술하다 | 중등
+opinion | n. 의견 | 중등
+opportune | adj. 시기 적절한 | 고등
+opportunity | n. 기회 | 고등
+oppose | v. 반대하다 | 중등
+opt | v. 선택하다 | 고등
+option | n. 선택권, 옵션 | 고등
+optimist | n. 낙천주의자 | 고등
+oral | adj. 구두의, 입의 | 고등
+orange | n./adj. 오렌지, 주황색 | 초등
+orbit | n./v. 궤도, 궤도를 돌다 | 고등
+orchestra | n. 오케스트라 | 고등
+order | n./v. 순서, 주문, 질서 | 중등
+disorder | n. 무질서, 혼란 | 고등
+ordinary | adj. 평범한, 보통의 | 중등
+organ | n. 장기, 기관, 오르간 | 고등
+organic | adj. 유기농의, 유기적인 | 고등
+organize | v. 조직하다, 정리하다 | 고등
+organise | v. 조직하다, 정리하다 | 고등
+orient | n./v. 동양, 지향하게 하다 | 고등
+orientation | n. 지향, 오리엔테이션 | 고등
+origin | n. 기원, 출신 | 고등
+original | adj. 원래의, 독창적인 | 고등
+other | adj./pron. 다른, 그 밖의 | 중등
+otherwise | adv. 그렇지 않으면, 다른 방법으로 | 중등
+ought | v. ~해야 한다 | 중등
+out | adv./prep. 밖에, 밖으로 | 초등
+outcome | n. 결과 | 고등
+outline | n./v. 개요, 윤곽 | 고등
+output | n./v. 생산량, 출력 | 고등
+outrage | n./v. 격분, 분노 | 고등
+outstanding | adj. 뛰어난, 미결제의 | 고등
+oven | n. 오븐 | 중등
+over | prep./adv. ~위에, 넘어서 | 초등
+overall | adj. 전반적인, 전체의 | 중등
+overcome | v. 극복하다 | 고등
+overhead | adj./n. 머리 위의, 간접비 | 고등
+overlap | v. 겹치다, 중복되다 | 고등
+overlook | v. 간과하다, 내려다보다 | 고등
+overnight | adv./adj. 밤새, 하룻밤 동안 | 고등
+oversea | adj. 해외의 | 고등
+overseas | adv./adj. 해외로, 해외의 | 고등
+overwhelm | v. 압도하다 | 고등
+owe | v. 빚지고 있다 | 고등
+own | v. 소유하다 | 중등
+pace | n. 속도 | 고등
+pack | v. 싸다 | 중등
+pad | n. 패드 | 고등
+page | n. 페이지 | 초등
+pain | n. 고통 | 중등
+paint | v./n. 페인트 | 초등
+pair | n. 한 쌍 | 중등
+palace | n. 궁전 | 중등
+pale | adj. 창백한 | 고등
+palm | n. 손바닥 | 고등
+pan | n. 프라이팬 | 중등
+panel | n. 패널 | 고등
+panic | n. 공황 | 중등
+pants | n. 바지 | 초등
+paper | n. 종이 | 초등
+parade | n. 퍼레이드 | 중등
+paragraph | n. 단락 | 중등
+parallel | adj. 평행한 | 고등
+pardon | v. 용서하다 | 중등
+parent | n. 부모 | 초등
+park | n. 공원 | 초등
+parliament | n. 의회 | 고등
+part | n. 부분 | 초등
+participate | v. 참가하다 | 고등
+particle | n. 입자 | 고등
+particular | adj. 특정한 | 중등
+particularly | adv. 특히 | 고등
+partner | n. 파트너 | 초등
+party | n. 파티 | 초등
+pass | v. 지나가다 | 초등
+passage | n. 통로 | 고등
+passenger | n. 승객 | 고등
+passion | n. 열정 | 고등
+passport | n. 여권 | 고등
+past | n. 과거 | 중등
+pat | v./n. 쓰다듬다 | 고등
+patch | n. 조각 | 고등
+patent | n./v. 특허 | 고등
+path | n. 길 | 중등
+patient | n./adj. 환자 | 중등
+pattern | n. 패턴 | 중등
+pause | v./n. 일시정지 | 중등
+pave | v. 포장하다 | 고등
+pay | v./n. 지불하다 | 초등
+peace | n. 평화 | 중등
+peaceful | adj. 평화로운 | 고등
+peak | n./v. 절정 | 고등
+pear | n. 배 | 중등
+peasant | n. 소작농 | 고등
+peel | v. 껍질을 벗기다 | 고등
+peer | v. 응시하다 | 고등
+pen | n. 펜 | 초등
+penalty | n. 벌칙 | 고등
+pencil | n. 연필 | 초등
+people | n. 사람들 | 초등
+pepper | n. 후추 | 중등
+per | prep. ~당 | 중등
+perceive | v. 인지하다 | 고등
+perception | n. 지각 | 고등
+perfect | adj. 완벽한 | 중등
+perform | v. 수행하다 | 중등
+perhaps | adv. 아마도 | 중등
+period | n. 기간 | 중등
+permanent | adj. 영구적인 | 고등
+permit | v. 허용하다 | 고등
+persist | v. 고집하다 | 고등
+person | n. 사람 | 중등
+personality | n. 성격 | 고등
+perspective | n. 관점 | 고등
+persuade | v. 설득하다 | 고등
+pet | n. 애완동물 | 중등
+phase | n. 단계 | 고등
+phenomenon | n. 현상 | 고등
+philosophy | n. 철학 | 고등
+photograph | adj. 사진 | 중등
+photo | adj. 사진 | 중등
+phrase | n. 구 | 고등
+physical | adj. 신체의 | 중등
+physics | n. 물리학 | 고등
+piano | n. 피아노 | 초등
+pick | v. 고르다 | 초등
+picnic | n. 소풍 | 중등
+picture | n. 그림 | 초등
+pie | n. 파이 | 중등
+piece | n. 조각 | 중등
+pig | n. 돼지 | 초등
+pile | n. 더미 | 중등
+pill | n. 알약 | 고등
+pilot | n. 조종사 | 초등
+pin | n. 핀 | 중등
+pinch | v. 꼬집다 | 고등
+pine | n. 소나무 | 중등
+pink | n./adj. 분홍색 | 초등
+pioneer | n. 개척자 | 고등
+pipe | n. 파이프 | 중등
+pitch | v. 던지다 | 중등
+pity | n. 연민 | 중등
+pizza | n. 피자 | 초등
+place | n. 장소 | 초등
+displace | v. 대체하다 | 고등
+plain | adj. 평범한 | 중등
+plan | n. 계획 | 초등
+plane | n. 비행기 | 중등
+planet | n. 행성 | 중등
+plant | n. 식물 | 중등
+plastic | n./adj. 플라스틱 | 초등
+plate | n. 접시 | 중등
+platform | n. 플랫폼 | 고등
+play | v. 놀다 | 초등
+please | adv. 제발 | 초등
+pleasant | adj. 즐거운 | 고등
+pleasure | n. 기쁨 | 고등
+plenty | n. 풍부 | 중등
+plot | n. 줄거리 | 고등
+plus | prep. 더하기 | 중등
+pocket | n. 주머니 | 중등
+poem | n. 시 | 중등
+poet | n. 시인 | 중등
+point | n. 점 | 초등
+poison | n. 독 | 중등
+pole | n. 막대기 | 중등
+polar | adj. 극지의 | 고등
+police | n. 경찰 | 초등
+policy | n. 정책 | 중등
+polish | v. 광내다 | 고등
+polite | adj. 공손한 | 중등
+politics | n. 정치 | 중등
+poll | n. 여론조사 | 고등
+pollute | v. 오염시키다 | 중등
+pond | n. 연못 | 고등
+pool | n. 수영장 | 중등
+poor | adj. 가난한 | 초등
+pop | v. 튀다 | 중등
+popular | adj. 인기 있는 | 중등
+populate | v. 거주시키다 | 고등
+population | n. 인구 | 고등
+pork | n. 돼지고기 | 중등
+port | n. 항구 | 중등
+portion | n. 부분 | 고등
+portrait | n. 초상화 | 고등
+pose | n. 자세 | 고등
+dispose | v. 배치하다 | 고등
+posit | v. 가정하다 | 고등
+position | n. 위치 | 고등
+positive | adj. 긍정적인 | 고등
+possess | v. 소유하다 | 중등
+possible | adj. 가능한 | 중등
+post | n. 게시물, 우편, 기둥, 직책 | 중등
+poster | n. 포스터, 벽보 | 고등
+pot | n. 냄비, 항아리, 화분 | 중등
+potato | n. 감자 | 초등
+potential | n. 잠재력, 가능성 | 중등
+pour | v. 붓다, 따르다 | 중등
+powder | n. 가루, 분말 | 중등
+power | n. 힘, 권력, 전력 | 초등
+practical | adj. 실용적인, 실제적인 | 중등
+practice | n. 연습, 실행, 관행 | 중등
+practise | v. 연습하다, 실행하다 | 중등
+praise | n./v. 칭찬, 칭찬하다 | 고등
+pray | v. 기도하다 | 중등
+preach | v. 설교하다, 역설하다 | 고등
+precede | v./n. 선행하다, 앞서다 | 고등
+unprecedented | adj. 전례 없는, 유례없는 | 고등
+precise | adj. 정확한, 정밀한 | 고등
+predator | n. 포식자, 약탈자 | 고등
+predict | v. 예측하다, 예견하다 | 고등
+prefer | v. 선호하다, 더 좋아하다 | 중등
+pregnant | adj. 임신한 | 중등
+prejudice | n. 편견, 선입견 | 고등
+premium | n./adj. 할증료, 보험료, 고급의 | 고등
+prepare | v. 준비하다 | 중등
+prescribe | v. 처방하다, 규정하다 | 고등
+presence | n. 존재, 있음, 참석 | 중등
+present | v./n. 선물, 현재, 제시하다, 출석한 | 초등
+preserve | v. 보존하다, 보호하다 | 고등
+preside | v. (회의 등을) 주재하다, 사회를 보다 | 고등
+president | n. 대통령, 회장 | 고등
+press | v./n. 누르다, 압력을 가하다, 언론 | 중등
+presume | v. 추정하다, 가정하다 | 고등
+pretend | v. ~인 척하다, 가장하다 | 중등
+pretty | adj./adv. 예쁜, 꽤, 상당히 | 초등
+prevail | v. 만연하다, 우세하다 | 고등
+prevent | v. 막다, 예방하다 | 중등
+previous | adj. 이전의, 앞선 | 중등
+prey | n. 먹이, 희생물 | 고등
+price | n. 가격, 값 | 중등
+pride | n. 자부심, 자존심 | 중등
+priest | n. 사제, 성직자 | 고등
+prime | adj./n. 주요한, 최고의, 전성기 | 중등
+primary | adj. 주요한, 기본적인, 초등의 | 고등
+primitive | adj. 원시적인, 미개한 | 고등
+prince | n. 왕자 | 초등
+principal | adj. 주요한, 교장, 원금 | 고등
+principle | n. 원칙, 원리 | 중등
+print | v. 인쇄하다, 출력하다, 인쇄물 | 초등
+prior | adj. 이전의, 앞선 | 고등
+prison | n. 감옥, 교도소 | 중등
+privacy | n. 사생활 | 중등
+private | adj. 개인적인, 사적인 | 중등
+privilege | n. 특권, 특전 | 고등
+prize | v./n. 상, 상품, 소중히 여기다 | 중등
+probable | adj. 있을 법한, 개연성 있는 | 중등
+probably | adv. 아마, 아마도 | 고등
+problem | n. 문제 | 초등
+proceed | v. 진행하다, 나아가다 | 중등
+procedure | n. 절차, 수순 | 고등
+process | v./n. 과정, 처리하다 | 중등
+produce | v. 생산하다, 만들다, 농산물 | 중등
+profession | n. 직업, 전문직 | 중등
+professor | n. 교수 | 고등
+profile | n. 프로필, 개요, 옆모습 | 고등
+profit | n. 이익, 수익 | 중등
+profound | n./adj. 심오한, 깊은 | 고등
+program | n. 프로그램, 계획 | 초등
+programme | n. 프로그램, 계획 | 초등
+programmatic | adj. 프로그램 방식의, 계획적인 | 고등
+progress | n./v. 진전, 발전, 진행하다 | 중등
+prohibit | v. 금지하다 | 고등
+project | n./v. 프로젝트, 계획, 예상하다 | 초등
+prominent | adj. 눈에 띄는, 저명한 | 고등
+promise | n./v. 약속, 약속하다 | 중등
+promote | v. 홍보하다, 승진시키다, 장려하다 | 중등
+prompt | adj./v. 즉각적인, 신속한, 촉발하다 | 고등
+pronounce | v. 발음하다, 선언하다 | 중등
+pronunciation | n. 발음 | 고등
+proof | n. 증거, 증명 | 고등
+proper | adj. 적절한, 올바른 | 중등
+property | n. 재산, 부동산, 속성 | 중등
+proportion | n. 비율, 비례 | 고등
+propose | v. 제안하다, 청혼하다 | 중등
+prospect | n. 전망, 예상, 가능성 | 고등
+prosper | v. 번영하다, 번창하다 | 고등
+protect | v. 보호하다 | 중등
+protein | n. 단백질 | 고등
+protest | n./v. 시위, 항의, 항의하다 | 중등
+proud | adj. 자랑스러운 | 중등
+prove | v. 증명하다, 입증하다 | 중등
+provide | v. 제공하다, 공급하다 | 중등
+province | n. 주, 지방 | 고등
+provoke | v. 자극하다, 유발하다 | 고등
+psychology | n. 심리학 | 고등
+pub | n. 술집, 펍 | 중등
+public | adj./n. 공공의, 대중 | 중등
+publish | v. 출판하다, 발행하다 | 고등
+publisher | n. 출판사, 발행인 | 고등
+pull | v. 당기다, 끌다 | 중등
+pump | n./v. 펌프, 뿜어내다 | 중등
+punch | n./v. 펀치, 주먹으로 치다 | 중등
+punish | v. 처벌하다, 벌주다 | 중등
+pupil | n. 학생, 눈동자 | 고등
+puppy | n. 강아지 | 초등
+purchase | v./n. 구매하다, 구매 | 중등
+pure | adj. 순수한, 깨끗한 | 중등
+purple | n./adj. 보라색, 자주색 | 중등
+purpose | n. 목적, 용도 | 중등
+pursue | v. 추구하다, 뒤쫓다 | 고등
+push | v. 밀다, 추진하다 | 초등
+put | v. 놓다, 두다 | 초등
+puzzle | n./v. 퍼즐, 수수께끼, 당황하게 하다 | 중등
+quality | n. 품질, 자질 | 중등
+qualify | v. 자격을 얻다, 자격을 주다 | 고등
+quantity | n. 양, 수량 | 고등
+quarter | n. 4분의 1, 15분, 25센트, 지역 | 중등
+queen | n. 여왕 | 초등
+question | n./v. 질문, 문제, 질문하다 | 초등
+questionnaire | n. 설문지 | 고등
+quick | adj. 빠른, 신속한 | 초등
+quiet | adj. 조용한, 고요한 | 초등
+quit | v. 그만두다, 떠나다 | 중등
+quite | adv. 꽤, 상당히 | 중등
+quiz | n. 퀴즈, 시험 | 초등
+quote | v./n. 인용하다, 견적을 내다, 인용문 | 중등
+rabbit | n. 토끼 | 초등
+race | n./v. 경주, 인종, 경주하다 | 초등
+racial | adj. 인종의, 인종적인 | 고등
+radio | n. 라디오, 무선 통신 | 초등
+rage | n./v. 분노, 격노 | 고등
+rail | n. 철도, 난간, 레일 | 중등
+rain | n./v. 비, 비가 오다 | 초등
+rainbow | n. 무지개 | 중등
+raise | v. 올리다, 기르다, 모금하다 | 중등
+rally | n./v. 집회, 재결집하다, 회복하다 | 고등
+random | adj. 무작위의, 임의의 | 고등
+range | n./v. 범위, 사정거리, ~에 이르다 | 중등
+rank | n./v. 계급, 순위, ~에 들다 | 고등
+rapid | adj. 빠른, 신속한 | 중등
+rare | adj. 드문, 희귀한 | 중등
+rat | n. 쥐 | 중등
+rate | n./v. 비율, 속도, 요금, 평가하다 | 중등
+rather | adv. 오히려, 차라리 | 중등
+rational | adj. 합리적인, 이성적인 | 고등
+raw | adj. 날것의, 가공하지 않은 | 고등
+reach | v. 도달하다, 닿다 | 중등
+react | v. 반응하다 | 중등
+read | v. 읽다 | 초등
+ready | adj. 준비된, 기꺼이 ~하는 | 초등
+real | adj. 진짜의, 실제의 | 중등
+realize | v./n. 깨닫다, 실현하다 | 고등
+realise | v. 깨닫다, 실현하다 | 고등
+rear | n./v. 뒤쪽, 기르다 | 고등
+reason | n./v. 이유, 이성 | 중등
+reasonable | adj. 합리적인, 이성적인 | 고등
+rebel | n./v. 반역자, 반란을 일으키다 | 고등
+receipt | n. 영수증 | 고등
+receive | v. 받다 | 중등
+reception | n. 환영, 접수처 | 고등
+recent | adj. 최근의 | 중등
+recipe | n. 조리법, 레시피 | 중등
+recognize | v. 알아보다, 인식하다 | 중등
+recommend | v. 추천하다 | 중등
+record | n./v. 기록, 기록하다 | 중등
+recover | v. 회복하다, 되찾다 | 중등
+recreation | n. 오락, 여가 활동 | 초등
+recruit | v./n. 모집하다, 신병 | 고등
+red | adj./n. 빨간, 빨간색 | 초등
+reduce | v./n. 줄이다, 감소시키다 | 중등
+refer | v. 참조하다, 언급하다 | 중등
+refine | v. 정제하다, 개선하다 | 고등
+reflect | v. 반사하다, 반영하다, 숙고하다 | 중등
+reform | v./n. 개혁하다, 개혁 | 고등
+refrigerate | v. 냉장하다 | 고등
+refrigerator | n. 냉장고 | 고등
+refuse | v. 거절하다 | 중등
+regard | v. ~을 여기다, 간주하다 | 중등
+region | n. 지역, 지방 | 중등
+register | v./n. 등록하다, 등록부 | 중등
+regret | v./n. 후회하다, 후회 | 고등
+regular | adj. 규칙적인, 정기적인 | 중등
+regulate | v. 규제하다, 조절하다 | 고등
+reinforce | v. 강화하다 | 고등
+reject | v. 거절하다, 거부하다 | 고등
+relate | v. 관련시키다, 이야기하다 | 중등
+relative | n./adj. 친척, 상대적인 | 고등
+relation | n. 관계 | 고등
+relationship | n. 관계, 인간관계 | 고등
+relax | v. 쉬다, 긴장을 풀다 | 중등
+release | v./n. 풀어주다, 공개하다, 발매 | 중등
+relevant | adj. 관련된, 적절한 | 고등
+relief | n. 안도, 경감 | 중등
+relieve | v. 완화하다, 안심시키다 | 고등
+religion | n. 종교 | 고등
+reluctant | adj. 꺼리는, 마지못해 하는 | 고등
+rely | v. 의존하다, 믿다 | 중등
+remain | v. 남다, 머무르다 | 중등
+remark | n./v. 발언, 언급하다 | 중등
+remedy | n./v. 치료법, 해결책, 고치다 | 고등
+remember | v. 기억하다 | 초등
+remind | v. 상기시키다 | 중등
+remote | adj. 먼 | 고등
+remove | v. 제거하다 | 중등
+rent | n./v. 임대료 | 중등
+repair | v./n. 수리하다 | 중등
+repeat | v. 반복하다 | 중등
+replace | v. 대체하다 | 중등
+reply | v./n. 대답하다 | 중등
+report | v./n. 보고하다 | 중등
+represent | v. 대표하다 | 중등
+republic | n. 공화국 | 고등
+reputation | n. 명성 | 고등
+request | v./n. 요청하다 | 중등
+require | v. 필요로 하다 | 중등
+rescue | v./n. 구조하다 | 고등
+research | v./n. 연구하다 | 중등
+resemble | v. 닮다 | 고등
+reserve | v. 예약하다 | 중등
+reside | v. 거주하다 | 고등
+resident | n. 거주자 | 고등
+resign | v. 사임하다 | 고등
+resist | v. 저항하다 | 중등
+resolve | v. 해결하다 | 고등
+resort | n. 휴양지 | 고등
+resource | n. 자원 | 중등
+respect | v. 존경하다 | 중등
+respective | adj. 각각의 | 고등
+respond | v. 응답하다 | 중등
+responsible | adj. 책임감 있는 | 중등
+rest | v. 쉬다 | 중등
+restaurant | n. 식당 | 초등
+restore | v. 복구하다 | 고등
+restrain | v. 억제하다 | 고등
+restrict | v. 제한하다 | 고등
+restroom | n. 화장실 | 초등
+result | n. 결과 | 중등
+resume | v. 재개하다 | 고등
+retail | n./v. 소매 | 고등
+retain | v. 보유하다 | 고등
+retire | v. 은퇴하다 | 중등
+retreat | v./n. 후퇴하다 | 고등
+return | v./n. 돌아오다 | 초등
+reveal | v. 드러내다 | 고등
+revenge | n./v. 복수 | 고등
+reverse | v. 뒤집다 | 고등
+revise | v. 수정하다 | 고등
+revive | v. 회복시키다 | 고등
+revolution | n. 혁명 | 고등
+reward | n./v. 보상 | 고등
+rhythm | n. 리듬 | 고등
+ribbon | n. 리본 | 초등
+rice | n. 쌀, 밥 | 중등
+rich | adj. 부유한, 풍부한 | 초등
+rid | v. 없애다, 제거하다 | 고등
+ride | v./n. 타다, 타기 | 중등
+ridicule | n./v. 비웃다, 조롱 | 고등
+ridiculous | adj. 우스꽝스러운, 어리석은 | 고등
+right | n. 옳은, 오른쪽, 권리 | 초등
+ring | n./v. 반지, 울리다 | 초등
+riot | n./v. 폭동, 소란 | 고등
+rise | v./n. 오르다, 상승 | 중등
+risk | n./v. 위험, 위험을 감수하다 | 중등
+rival | n./adj. 경쟁자, 경쟁하는 | 고등
+river | n. 강 | 초등
+road | n. 길, 도로 | 초등
+roar | v./n. 으르렁거리다, 함성 | 고등
+roast | v./n. 굽다, 구운 고기 | 고등
+rob | v. 강탈하다, 훔치다 | 중등
+robot | n. 로봇 | 초등
+rock | n./v. 바위, 흔들다 | 초등
+rocket | n./v. 로켓, 치솟다 | 중등
+rod | n. 막대기, 낚싯대 | 고등
+role | n. 역할 | 중등
+roll | v./n. 구르다, 두루마리 | 중등
+enroll | v. 등록하다, 입학하다 | 고등
+enrol | v. 등록하다, 입학하다 | 고등
+romantic | adj. 낭만적인 | 고등
+roof | n. 지붕 | 중등
+room | n. 방, 공간 | 초등
+root | n. 뿌리, 근원 | 중등
+rope | n. 밧줄, 끈 | 중등
+rose | n. 장미 | 초등
+rot | v./n. 썩다, 부패 | 고등
+rough | adj. 거친, 대략적인 | 중등
+round | adj./adv. 둥근, 한 바퀴 | 중등
+route | n. 경로, 노선 | 중등
+routine | n./adj. 일상적인 일, 정해진 순서 | 고등
+row | n./v. 줄, 열, 노 젓다 | 중등
+royal | adj. 왕족의, 왕실의 | 중등
+rub | v. 문지르다, 비비다 | 중등
+rubber | n. 고무, 지우개 | 고등
+rude | adj. 무례한, 버릇없는 | 중등
+ruin | v./n. 망치다, 폐허 | 중등
+rule | n./v. 규칙, 지배하다 | 중등
+rumor | n. 소문, 풍문 | 고등
+rumour | n. 소문, 풍문 | 고등
+run | v. 달리다, 운영하다 | 초등
+rural | adj. 시골의, 전원의 | 고등
+rush | v. 서두르다, 돌진하다 | 중등
+sack | n./v. 자루, 해고하다 | 고등
+sacred | adj. 신성한 | 고등
+sacrifice | v. 희생하다 | 고등
+sad | adj. 슬픈 | 초등
+safe | adj. 안전한 | 초등
+sail | v. 항해하다 | 중등
+salad | n. 샐러드 | 초등
+salary | n. 봉급 | 중등
+sale | n. 판매 | 초등
+salt | n. 소금 | 초등
+same | adj. 같은 | 초등
+sample | n. 견본 | 중등
+sand | n. 모래 | 초등
+sandwich | n. 샌드위치 | 초등
+satellite | n. 위성 | 고등
+satisfy | v. 만족시키다 | 중등
+sauce | n. 소스 | 중등
+save | v. 구하다 | 초등
+say | v. 말하다 | 초등
+scale | n. 규모 | 중등
+scan | v. 훑어보다 | 고등
+scandal | n. 스캔들 | 고등
+scarce | adj. 부족한 | 고등
+scare | v. 겁주다 | 중등
+scarf | n. 스카프 | 중등
+scatter | v. 흩뿌리다 | 고등
+scene | n. 장면 | 중등
+schedule | n./v. 일정 | 중등
+scheme | n. 계획 | 고등
+scholar | n. 학자 | 고등
+school | n. 학교 | 초등
+science | n. 과학 | 초등
+scissors | n. 가위 | 초등
+scope | n. 범위 | 고등
+score | n./v. 점수 | 초등
+scramble | v. 뒤섞다 | 고등
+scratch | v./n. 긁다 | 중등
+scream | v./n. 비명 지르다 | 중등
+screen | n. 화면 | 중등
+screw | n. 나사 | 고등
+sculpt | v. 조각하다 | 고등
+sculpture | n. 조각 | 고등
+sea | v. 바다 | 초등
+seal | v. 봉인하다 | 중등
+search | v. 찾다 | 중등
+season | n. 계절 | 초등
+seat | n. 좌석 | 중등
+second | adj. 두 번째의 | 초등
+secondary | adj. 부차적인 | 고등
+secret | n. 비밀 | 중등
+secretary | n. 비서 | 중등
+section | n. 부분 | 중등
+sector | n. 분야 | 고등
+secure | adj. 안전한 | 중등
+see | v. 보다 | 초등
+seed | n. 씨앗 | 중등
+seek | v. 찾다 | 중등
+seem | v. 처럼 보이다 | 중등
+seize | v. 붙잡다 | 고등
+select | v. 선택하다 | 중등
+self | n. 자기 | 중등
+sell | v. 팔다 | 초등
+send | v. 보내다 | 초등
+senior | adj. 선임의 | 중등
+sense | n. 감각 | 중등
+sensation | n. 감각 | 고등
+sensible | adj. 분별 있는 | 고등
+sentence | n. 문장 | 중등
+sentiment | n. 정서 | 고등
+separate | v. 분리하다 | 중등
+sequence | n. 순서 | 고등
+series | n. 연속 | 중등
+serious | adj. 심각한 | 중등
+serve | v. 봉사하다 | 중등
+service | n. 서비스 | 초등
+session | adj. 회의 | 중등
+set | v. 놓다 | 초등
+settle | v. 정착하다 | 중등
+seven | num. 일곱 | 초등
+several | adj. 몇몇의 | 중등
+severe | adj. 심한 | 고등
+sew | v. 바느질하다 | 중등
+sex | n. 성별 | 중등
+shade | n. 그늘 | 중등
+shadow | n. 그림자 | 중등
+shake | v. 흔들다 | 중등
+shall | aux.v. ~할 것이다 | 중등
+shallow | adj. 얕은 | 고등
+shame | n. 수치심 | 중등
+shape | n. 모양 | 중등
+share | v. 공유하다 | 중등
+sharp | adj. 날카로운 | 중등
+shave | v. 면도하다 | 중등
+she | pron. 그녀 | 초등
+sheep | n. 양 | 중등
+sheet | n. 시트 | 중등
+shelf | n. 선반 | 중등
+shell | n. 껍질 | 중등
+shelter | n. 피난처 | 중등
+shift | v. 이동하다 | 중등
+shine | v. 빛나다 | 중등
+ship | n. 선박 | 초등
+shirt | n. 셔츠 | 초등
+shock | n. 충격 | 중등
+shoe | n. 신발 | 초등
+shoot | v. 쏘다 | 중등
+shop | adv. 가게 | 초등
+shore | n. 해안 | 중등
+short | adj. 짧은 | 초등
+should | v. ~해야 한다 | 초등
+shoulder | n. 어깨 | 중등
+shout | v. 소리치다 | 중등
+show | v. 보여주다 | 초등
+shower | n. 샤워 | 중등
+shut | v. 닫다 | 중등
+shy | adj. 수줍어하는 | 초등
+sick | adj. 아픈 | 초등
+side | n. 옆 | 초등
+sigh | v. 한숨 쉬다 | 고등
+sight | n. 시야 | 중등
+sign | n. 신호 | 중등
+significant | adj. 중요한 | 고등
+silent | adj. 침묵하는 | 고등
+silly | adj. 어리석은 | 중등
+silver | n. 은 | 중등
+similar | adj. 비슷한 | 중등
+simple | adj. 간단한 | 중등
+simulate | v. 모의실험하다 | 고등
+simultaneous | adj. 동시의 | 고등
+sin | n. 죄 | 고등
+since | n. ~이후 | 중등
+sing | v. 노래하다 | 초등
+single | adj. 하나의 | 중등
+sink | v. 가라앉다 | 중등
+sister | n. 자매 | 초등
+sit | v. 앉다 | 초등
+site | n. 장소 | 중등
+situate | v. 위치시키다 | 중등
+situation | n. 상황 | 고등
+six | num. 여섯 | 초등
+size | n. 크기 | 초등
+skate | v./n. 스케이트 | 초등
+ski | v./n. 스키 | 초등
+skill | n. 기술 | 중등
+skin | n. 피부 | 초등
+skip | v. 건너뛰다 | 고등
+skirt | n. 치마 | 초등
+sky | n. 하늘 | 초등
+slave | n. 노예 | 중등
+sleep | v./n. 잠 | 초등
+slice | n./v. 조각 | 고등
+slide | v./n. 미끄러지다 | 중등
+slight | adj. 약간의 | 중등
+slim | adj. 날씬한 | 고등
+slip | v./n. 미끄러지다 | 중등
+slope | n./v. 경사 | 고등
+slow | adj. 느린 | 초등
+small | adj. 작은 | 초등
+smart | adj. 영리한 | 중등
+smash | v. 박살내다 | 중등
+smell | n./v. 냄새 | 초등
+smile | n./v. 미소 | 초등
+smoke | n./v. 연기 | 중등
+smooth | adj. 매끄러운 | 중등
+snack | n. 간식 | 중등
+snake | n. 뱀 | 중등
+snap | v. 찰칵 소리를 내다 | 중등
+sneak | v. 살금살금 움직이다 | 고등
+snow | n./v. 눈 | 초등
+soak | v. 담그다 | 고등
+soap | n. 비누 | 고등
+soccer | n. 축구 | 초등
+social | adj. 사회적인 | 중등
+society | n. 사회 | 중등
+sociology | n. 사회학 | 고등
+sock | n. 양말 | 초등
+soft | adj. 부드러운 | 초등
+software | n. 소프트웨어 | 초등
+soil | n. 흙 | 중등
+soldier | n. 군인 | 중등
+sole | n. 발바닥 | 고등
+solid | adj. 고체의 | 중등
+solve | v. 해결하다 | 중등
+some | adj./pron. 약간의 | 초등
+somewhat | adv. 다소 | 중등
+son | n. 아들 | 초등
+song | n. 노래 | 초등
+soon | adv. 곧 | 중등
+sophisticate | v. 세련되게 만들다 | 고등
+sore | adj. 아픈 | 중등
+sorry | adj. 미안한 | 초등
+sort | n. 종류 | 중등
+soul | n. 영혼 | 중등
+sound | n. 소리 | 초등
+soup | n. 수프 | 초등
+sour | adj. 신 | 중등
+source | n. 원천 | 중등
+south | n./adv. 남쪽 | 초등
+space | n. 공간 | 초등
+spaghetti | n. 스파게티 | 초등
+span | n. 기간 | 고등
+spare | adj./v. 여분의, 할애하다 | 중등
+spark | n./v. 불꽃, 스파크, 유발하다 | 고등
+speak | v. 말하다 | 초등
+species | n. 종 | 중등
+special | adj. 특별한 | 고등
+specific | adj. 특정한, 구체적인 | 중등
+spectacle | n. 장관, 안경 | 고등
+spectrum | n. 스펙트럼, 범위 | 고등
+speech | n. 연설, 말 | 중등
+speed | n. 속도 | 초등
+spell | v./n. 철자를 말하다, 주문 | 중등
+spend | v. (돈을) 쓰다, (시간을) 보내다 | 중등
+sphere | n. 구, 영역 | 고등
+spill | v. 엎지르다, 흘리다 | 고등
+spin | v. 돌다, 회전시키다, 실을 잣다 | 중등
+spirit | n. 정신, 영혼 | 중등
+spit | v. 침을 뱉다 | 고등
+splash | v. 튀기다, 첨벙거리다 | 고등
+split | v. 쪼개다, 분열시키다 | 고등
+spoil | v. 망치다, 상하다 | 중등
+sponsor | v./n. 후원하다, 후원자 | 중등
+spoon | n. 숟가락 | 초등
+sport | n. 스포츠, 운동 | 초등
+spot | n./v. 점, 장소, 발견하다 | 중등
+spouse | n. 배우자 | 고등
+spray | v./n. 뿌리다, 분무기 | 중등
+spread | v. 퍼뜨리다, 펼치다 | 중등
+spring | n./v. 봄, 용수철, 튀어 오르다 | 초등
+spy | n./v. 스파이, 염탐하다 | 중등
+square | n./adj. 정사각형, 광장, 제곱 | 중등
+squeeze | v. 짜다, 쥐어짜다 | 고등
+stable | adj./n. 안정된, 마구간 | 중등
+stack | v./n. 쌓다, 더미 | 고등
+staff | n. 직원, 막대 | 초등
+stage | n. 무대, 단계 | 중등
+stain | n./v. 얼룩, 더럽히다 | 고등
+stairs | n. 계단 | 중등
+stamp | n./v. 우표, 도장, 발을 구르다 | 중등
+stand | v. 서다, 참다 | 초등
+standard | n. 표준, 기준 | 중등
+star | n. 별, 주연 배우 | 초등
+stare | v. 빤히 쳐다보다 | 중등
+start | v. 시작하다 | 초등
+starve | v. 굶주리다 | 고등
+state | n./v. 상태, 국가, 진술하다 | 중등
+station | n. 역, 정거장, 방송국 | 중등
+statistic | n. 통계, 통계 자료 | 고등
+statue | n. 조각상 | 고등
+status | n. 지위, 신분 | 고등
+stay | v. 머무르다, 유지하다 | 초등
+steady | adj. 꾸준한, 안정된 | 중등
+steak | n. 스테이크 | 초등
+steal | v. 훔치다 | 중등
+steam | n. 증기 | 중등
+steel | n. 강철 | 중등
+steep | adj. 가파른 | 고등
+stem | n. 줄기 | 고등
+step | n. 걸음, 단계 | 중등
+stick | v. 막대기, 들러붙다 | 중등
+stiff | adj. 뻣뻣한 | 고등
+still | adv. 여전히, 아직, 고요한 | 중등
+stimulate | v. 자극하다 | 고등
+stir | v. 휘젓다, 선동하다 | 중등
+stitch | v./n. 바느질, 꿰매다 | 고등
+stock | n. 재고, 주식 | 중등
+stomach | n. 위, 배 | 중등
+stone | n. 돌 | 초등
+stop | v. 멈추다 | 초등
+store | v. 가게, 저장하다 | 초등
+storm | n. 폭풍 | 중등
+story | n. 이야기, 층 | 초등
+stove | n. 난로, 스토브 | 고등
+straight | adj. 곧은, 솔직한 | 중등
+strain | n. 긴장, 부담 | 고등
+strange | adj. 낯선, 이상한 | 중등
+strategy | n. 전략 | 중등
+strawberry | n. 딸기 | 중등
+stream | n. 개울, 흐름 | 중등
+street | n. 거리, 길 | 초등
+stress | n./v. 스트레스, 강조 | 중등
+stretch | v. 늘리다, 뻗다 | 중등
+strict | adj. 엄격한 | 고등
+strike | v./n. 치다, 파업 | 중등
+string | n. 끈, 줄 | 중등
+strip | v./n. 벗기다, 가늘고 긴 조각 | 고등
+stripe | n. 줄무늬 | 고등
+stroke | v./n. 쓰다듬다, 뇌졸중, 타격 | 고등
+strong | adj. 강한 | 초등
+structure | n. 구조 | 중등
+struggle | v./n. 고군분투하다, 싸움 | 중등
+studio | n. 스튜디오 | 중등
+study | v./n. 공부하다, 연구 | 초등
+student | n. 학생 | 고등
+stuff | n./v. 물건, 채우다 | 중등
+style | n. 스타일, 양식 | 초등
+subject | n. 주제, 과목, 주어 | 중등
+subjective | adj. 주관적인 | 고등
+submarine | n. 잠수함 | 고등
+submit | v. 제출하다 | 고등
+submission | n. 제출, 복종 | 고등
+subscribe | v. 구독하다 | 고등
+substance | n. 물질 | 고등
+substantial | adj. 상당한 | 고등
+substitute | v. 대체하다 | 고등
+subtle | adj. 미묘한 | 고등
+suburb | n. 교외 | 고등
+subway | n. 지하철 | 초등
+succeed | v. 성공하다 | 중등
+success | n. 성공 | 중등
+such | adj./pron. 그러한 | 중등
+suck | v. 빨다 | 고등
+sudden | adj. 갑작스러운 | 중등
+suffer | v. 고통받다 | 중등
+suffice | v. 충분하다 | 고등
+sufficient | adj. 충분한 | 고등
+sugar | n. 설탕 | 초등
+suggest | v. 제안하다 | 중등
+suicide | n. 자살 | 고등
+suit | n. 정장 | 중등
+suite | n. 스위트룸 | 고등
+sum | n. 합계 | 중등
+summary | n. 요약 | 고등
+summer | n. 여름 | 초등
+summit | n. 정상회담 | 고등
+sun | n. 태양 | 초등
+super | adj./adv. 최고의 | 중등
+superb | adj. 훌륭한 | 고등
+superior | adj. 우월한 | 고등
+supervise | v. 감독하다 | 고등
+supper | n. 저녁식사 | 중등
+supplement | v./n. 보충하다 | 고등
+supply | v./n. 공급하다 | 중등
+support | v./n. 지지하다 | 중등
+suppose | v. 가정하다 | 중등
+sure | adj./adv. 확실한 | 초등
+ensure | v. 보장하다 | 고등
+surface | n. 표면 | 중등
+surgery | n. 수술 | 고등
+surprise | v./n. 놀라게 하다 | 중등
+surrender | v./n. 항복하다 | 고등
+surround | v. 둘러싸다 | 중등
+survey | v./n. 조사하다 | 중등
+survive | v. 살아남다 | 중등
+suspect | v. 의심하다 | 중등
+suspend | v. 매달다 | 고등
+sustain | v. 유지하다 | 고등
+swallow | v. 삼키다 | 중등
+swear | v. 맹세하다 | 고등
+sweat | n./v. 땀 | 고등
+sweater | n. 스웨터 | 중등
+sweep | v. 쓸다 | 중등
+sweet | adj. 달콤한 | 중등
+swell | v. 붓다 | 고등
+swift | adj. 빠른 | 고등
+swim | v. 수영하다 | 초등
+swing | v. 흔들다 | 중등
+switch | n./v. 스위치 | 중등
+symbol | n. 상징 | 고등
+sympathy | n. 동정 | 고등
+symphony | n. 교향곡 | 고등
+symptom | n. 증상 | 고등
+system | n. 체계 | 중등
+table | n. 탁자 | 초등
+tackle | v. 다루다 | 고등
+tag | n. 꼬리표 | 고등
+tail | n. 꼬리 | 초등
+take | v. 가져가다 | 초등
+mistake | n. 실수 | 고등
+tale | n. 이야기 | 중등
+talent | n. 재능 | 고등
+talk | v. 말하다 | 초등
+tall | adj. 키가 큰 | 초등
+tank | n. 탱크 | 중등
+tap | v. 두드리다 | 중등
+tape | n. 테이프 | 초등
+target | n. 목표 | 중등
+task | n. 과업 | 고등
+taste | n. 맛 | 초등
+tax | n. 세금 | 중등
+taxi | n. 택시 | 초등
+tea | n. 차 | 중등
+teach | v. 가르치다 | 초등
+team | n. 팀 | 초등
+tear | n. 눈물 | 중등
+tease | v. 놀리다 | 고등
+technique | n. 기술 | 중등
+technic | n. 기술 | 중등
+technology | n. 기술 | 중등
+teenage | adj. 십대의 | 중등
+telegraph | n. 전보 | 고등
+telephone | n. 전화 | 초등
+phone | n. 전화 | 초등
+television | n. 텔레비전 | 초등
+tell | v. 말하다 | 초등
+temperature | n. 온도 | 중등
+temple | n. 사원 | 고등
+temporary | adj. 일시적인 | 고등
+tempt | v. 유혹하다 | 고등
+ten | num. 열 | 초등
+tenant | n. 세입자 | 고등
+tend | v. 경향이 있다, 돌보다 | 중등
+tender | adj. 부드러운, 연한 | 고등
+tennis | n. 테니스 | 초등
+tense | adj./n. 긴장한, 시제 | 중등
+tent | n. 텐트, 천막 | 초등
+term | n. 용어, 학기, 조건 | 중등
+terminal | n./adj. 단말기, 종착역, 말기의 | 고등
+terminate | v. 끝내다, 종료하다 | 고등
+terrace | n. 테라스, 옥상 | 고등
+terrible | adj. 끔찍한, 형편없는 | 중등
+terrific | adj. 아주 멋진, 훌륭한 | 고등
+territory | n. 영토, 영역 | 고등
+terror | n. 공포, 테러 | 고등
+terrorist | n. 테러리스트 | 고등
+test | n./v. 시험, 검사 | 초등
+text | n./v. 텍스트, 문자 메시지, 본문 | 중등
+textbook | n. 교과서 | 초등
+than | conj./prep. ~보다 | 초등
+thank | v. 감사하다 | 초등
+theater | n. 극장, 영화관 | 중등
+theatre | n. 극장, 영화관 | 중등
+theme | n. 주제, 테마 | 고등
+then | adv. 그때, 그러고 나서 | 중등
+theory | n. 이론 | 중등
+therapy | n. 치료, 요법 | 고등
+there | adv. 거기에, 그곳에 | 초등
+therefore | n. 그러므로, 따라서 | 중등
+thick | adj. 두꺼운, 짙은 | 중등
+thief | n. 도둑 | 중등
+thin | adj. 얇은, 마른 | 중등
+thing | n. 것, 물건 | 초등
+think | v. 생각하다 | 초등
+third | adj./n. 세 번째의, 3분의 1 | 초등
+thirst | n. 갈증, 목마름 | 초등
+thirteen | num. 열셋, 13 | 초등
+thirty | num. 서른, 30 | 초등
+thorough | adj. 철저한, 완전한 | 고등
+though | conj./adv. 비록 ~일지라도 | 중등
+thousand | num./n. 천 | 중등
+thread | n./v. 실, 스레드 | 고등
+threat | n. 위협, 협박 | 중등
+three | n./adj. 셋, 3 | 초등
+thrill | n./v. 전율, 스릴 | 고등
+throat | n. 목, 목구멍 | 중등
+through | prep./adv. ~을 통하여, ~을 거쳐 | 중등
+throw | v. 던지다 | 중등
+thumb | n. 엄지손가락 | 고등
+thus | adv. 따라서, 그러므로 | 중등
+tick | n./v. 똑딱 소리, 체크 표시, 진드기 | 고등
+ticket | n. 티켓, 표 | 초등
+tide | n. 밀물과 썰물, 조수 | 중등
+tidy | adj./v. 단정한, 깔끔한; 정리하다 | 고등
+tie | v./n. 묶다, 매다; 넥타이; 동점 | 중등
+tiger | n. 호랑이 | 초등
+tight | adj./adv. 꽉 조이는, 단단한; 빡빡한 | 중등
+till | v./n. ~까지; 경작하다; 금전등록기 | 중등
+timber | n. 재목, 목재 | 고등
+time | n./v. 시간; 때; 번 | 초등
+tin | n. 주석; 양철통, 깡통 | 중등
+tiny | adj. 아주 작은 | 중등
+tip | n./v. 끝; 팁; 조언; 기울이다 | 중등
+tire | v. 지치게 하다; 타이어 | 초등
+tired | adj. 피곤한, 지친 | 고등
+tissue | n. (생체) 조직; 얇은 천; 휴지 | 고등
+title | n. 제목; 직함; 권리; 칭호 | 중등
+entitle | v. ~에게 자격을 주다; ~라는 제목을 붙이다 | 고등
+toast | v./n. 토스트; 건배; 굽다 | 중등
+today | adv./n. 오늘 | 초등
+toe | n. 발가락 | 중등
+together | adv. 함께, 같이 | 초등
+toilet | n. 변기; 화장실 | 중등
+tomato | n. 토마토 | 초등
+tomorrow | adv./n. 내일 | 초등
+tone | n. 음색, 어조; 색조 | 중등
+tongue | n. 혀; 말; 언어 | 중등
+tonight | adv./n. 오늘 밤 | 초등
+too | adv. 너무; 또한 | 초등
+tool | n. 도구, 연장 | 중등
+tooth | n. 이, 치아 | 초등
+top | adj./n. 꼭대기, 맨 위; 최고의 | 초등
+topic | n. 주제, 화제 | 중등
+torture | v./n. 고문; 고통을 주다 | 고등
+toss | v. (가볍게) 던지다; 뒤척이다 | 고등
+total | adj./n. 총계, 전체의; 합계 | 중등
+touch | v. 만지다; 접촉; 감동시키다 | 초등
+tough | adj. 힘든, 어려운; 강인한 | 중등
+tour | n. 여행, 관광 | 중등
+toward | prep. ~쪽으로, ~향하여 | 중등
+towards | prep. ~쪽으로, ~향하여 | 중등
+towel | n. 수건, 타월 | 중등
+tower | v./n. 탑; 솟아오르다 | 중등
+town | n. 읍, 도시 | 초등
+toxic | adj. 유독한, 독성의 | 고등
+toy | n. 장난감 | 초등
+trace | v./n. 흔적; 추적하다 | 중등
+track | v./n. 길, 자국; 추적하다; 경주로 | 초등
+trade | v./n. 무역, 거래; 거래하다 | 중등
+tradition | n. 전통 | 중등
+traffic | n. 교통; 불법 거래 | 중등
+tragic | adj. 비극적인 | 고등
+trail | v./n. 길, 흔적, 추적하다 | 고등
+train | v./n. 기차, 훈련하다 | 초등
+transact | v. 거래하다 | 고등
+transfer | v./n. 이동하다, 옮기다, 환승하다 | 중등
+transform | v. 변형시키다, 변화시키다 | 고등
+transition | n. 전환, 이행 | 고등
+translate | v. 번역하다 | 고등
+transmit | v. 전송하다, 전달하다 | 고등
+transport | v./n. 운송하다, 운반하다 | 중등
+transportation | n. 운송, 교통수단 | 고등
+trap | n./v. 덫, 함정, 가두다 | 중등
+travel | v./n. 여행하다, 여행 | 초등
+tray | n. 쟁반, 트레이 | 중등
+treasure | n./v. 보물, 소중히 하다 | 고등
+treat | v. 대하다, 치료하다, 한턱내다 | 중등
+treaty | n. 조약, 협정 | 고등
+tree | n. 나무 | 초등
+tremendous | adj. 엄청난, 막대한 | 고등
+trend | n. 경향, 추세 | 고등
+triangle | n. 삼각형 | 중등
+tribe | n. 부족, 종족 | 고등
+trick | n./v. 속임수, 재주, 속이다 | 중등
+trigger | n./v. 방아쇠, 유발하다 | 고등
+trim | v./n. 다듬다, 장식, 손질하다 | 고등
+trip | n./v. 여행, 발을 헛디디다, 넘어지다 | 초등
+triumph | n./v. 승리, 대성공 | 고등
+troop | n. 부대, 병력 | 고등
+trouble | n./v. 문제, 곤경 | 중등
+truck | n. 트럭 | 초등
+true | adj. 사실인, 진실한 | 초등
+trunk | n. 코끼리 코, 나무 몸통, 트렁크 | 중등
+trust | n./v. 신뢰, 믿다 | 중등
+truth | n. 진실, 사실 | 중등
+try | v./n. 노력하다, 시도하다 | 초등
+trial | n. 재판, 시험, 시도 | 고등
+tube | n. 관, 튜브 | 고등
+tune | n./v. 곡조, 조율하다 | 중등
+tunnel | n./v. 터널 | 고등
+turn | v./n. 돌다, 회전, 차례 | 초등
+turnover | n. 회전율, 매출액, 이직률 | 고등
+twelve | num. 열둘 | 초등
+twenty | num. 스물 | 초등
+twice | adv. 두 번, 두 배 | 초등
+twin | n./adj. 쌍둥이, 쌍둥이의 | 중등
+twist | v./n. 비틀다, 뒤틀다, 왜곡하다 | 중등
+two | num. 둘 | 초등
+type | n./v. 유형, 종류, 타자하다 | 초등
+ugly | adj. 못생긴, 추한 | 초등
+ultimate | adj. 궁극적인, 최후의 | 고등
+umbrella | n. 우산 | 초등
+uncle | n. 삼촌 | 초등
+under | prep./adv. 아래에 | 초등
+undergo | v. 겪다 | 고등
+underlie | v. 근저에 있다 | 고등
+undermine | v. 약화시키다 | 고등
+understand | v. 이해하다 | 초등
+undertake | v. 착수하다 | 고등
+uniform | n./adj. 제복 | 중등
+unify | v. 통일하다 | 고등
+unique | adj. 독특한 | 고등
+unit | n. 단위 | 중등
+unite | v. 결합하다 | 중등
+union | n. 연합 | 고등
+universe | n. 우주 | 고등
+university | n. 대학교 | 중등
+unless | conj. ~하지 않는 한 | 중등
+until | prep./conj. ~까지 | 중등
+update | v. 갱신하다 | 고등
+upon | prep. 위에 | 중등
+upper | adj. 위의 | 중등
+upset | v. 뒤엎다 | 중등
+upward | adj./adv. 위쪽으로 | 고등
+upwards | adv. 위쪽으로 | 고등
+urban | adj. 도시의 | 고등
+urge | v. 재촉하다 | 고등
+urgent | adj. 긴급한 | 고등
+use | v. 사용하다 | 초등
+usual | adj. 평소의 | 고등
+utilize | v. 활용하다 | 고등
+utilise | v. 활용하다 | 고등
+utter | v. 말하다 | 고등
+vacate | v. 비우다 | 고등
+vacation | n. 휴가 | 고등
+vaccine | n. 백신 | 고등
+vacuum | n. 진공 | 고등
+vague | adj. 모호한 | 고등
+valid | adj. 유효한 | 고등
+valley | n. 계곡 | 중등
+value | n. 가치 | 중등
+van | n. 밴 | 중등
+vanish | v. 사라지다 | 고등
+various | adj. 다양한 | 중등
+vary | v. 다르다 | 중등
+vast | adj. 광대한 | 고등
+vegetable | n. 채소 | 초등
+vehicle | n. 차량 | 중등
+venture | n. 모험 | 고등
+verb | n. 동사 | 고등
+verbal | adj. 언어의 | 고등
+verse | n. 운문 | 고등
+version | n. 버전, 판 | 중등
+versus | prep. ~대,~에 맞서 | 고등
+vertical | adj. 수직의, 세로의 | 고등
+very | adv. 매우, 아주 | 초등
+vessel | n. 선박, 혈관, 용기 | 고등
+veterinarian | n. 수의사 | 고등
+via | prep. ~을 통하여,~경유로 | 고등
+vice | n. 악, 부도덕, (조직의) 부- | 고등
+victim | n. 희생자, 피해자 | 중등
+victory | n. 승리 | 고등
+video | n. 비디오, 동영상 | 초등
+view | n./v. 견해, 시야, 경치, 보다 | 중등
+interview | n./v. 면접, 인터뷰, 면접하다 | 고등
+review | n./v. 검토, 재검토, 비평, 복습하다 | 고등
+vigor | n. 활력, 기력 | 고등
+vigorous | adj. 활기찬, 원기 왕성한 | 고등
+villa | n. 별장, 빌라 | 중등
+village | n. 마을 | 중등
+violent | adj. 폭력적인, 맹렬한 | 중등
+violin | n. 바이올린 | 초등
+virgin | adj./n. 처녀의, 미개척의, 처녀 | 고등
+virtue | n. 미덕, 장점 | 고등
+virtual | adj. 사실상의, 가상의 | 고등
+virus | n. 바이러스 | 고등
+visible | adj. 눈에 보이는, 가시적인 | 고등
+vision | n. 시력, 비전, 환상 | 중등
+visit | v./n. 방문하다, 방문 | 초등
+visual | adj. 시각의, 시각적인 | 고등
+vital | adj. 지극히 중요한, 생명 유지에 필수적인 | 고등
+vivid | adj. 생생한, 선명한 | 고등
+vocabulary | n. 어휘 | 고등
+vocation | n. 천직, 소명 | 고등
+voice | n./v. 목소리, 음성 | 초등
+volume | n. 부피, 용량, 책, 음량 | 중등
+volunteer | n./v. 자원봉사자, 자원하다 | 중등
+vote | n./v. 투표, 표, 투표하다 | 중등
+wage | n. 임금, 급료 | 중등
+wait | v./n. 기다리다, 기다림 | 초등
+wake | v. 깨어나다, 깨우다 | 초등
+walk | v./n. 걷다, 걷기, 산책 | 초등
+wall | n. 벽, 담 | 초등
+wander | v. 헤매다, 돌아다니다 | 고등
+want | v./n. 원하다, 욕구 | 초등
+war | n. 전쟁 | 초등
+warehouse | n. 창고 | 고등
+warm | adj./v. 따뜻한, 따뜻하게 하다 | 초등
+warn | v. 경고하다 | 중등
+warrant | n./v. 영장, 보증, 정당화하다 | 고등
+wash | v. 씻다, 세탁하다 | 초등
+waste | v./n. 낭비하다, 쓰레기, 낭비 | 중등
+watch | n./v. 시계, 지켜보다 | 초등
+water | n./v. 물 | 초등
+watermelon | n. 수박 | 초등
+wave | n./v. 파도, 흔들다 | 중등
+way | n. 길, 방법 | 초등
+weak | adj. 약한 | 중등
+wealth | n. 부, 재산 | 고등
+weapon | n. 무기 | 중등
+wear | v. 입다 | 초등
+weather | n. 날씨 | 초등
+weave | v. 짜다, 엮다 | 고등
+website | n. 웹사이트 | 초등
+wedding | n. 결혼식 | 초등
+weed | n. 잡초 | 고등
+week | n. 주 | 초등
+weekend | n. 주말 | 초등
+weigh | v. 무게를 재다 | 중등
+weight | adv. 무게 | 초등
+weird | adj. 이상한 | 고등
+welcome | v. 환영하다 | 초등
+welfare | n. 복지 | 고등
+well | adv./n. 잘, 우물 | 초등
+west | n. 서쪽 | 초등
+wet | adj. 젖은 | 초등
+whale | n. 고래 | 중등
+wheat | n. 밀 | 고등
+wheel | n. 바퀴 | 중등
+when | adv./conj. 언제 | 초등
+where | adv./conj. 어디에 | 초등
+whereas | conj. ~인 반면에 | 고등
+whether | conj. ~인지 (아닌지) | 중등
+while | conj. ~하는 동안에 | 중등
+whip | n./v. 채찍, 채찍질하다 | 고등
+whisper | v./n. 속삭이다 | 중등
+whistle | n./v. 휘파람, 휘파람 불다 | 중등
+white | adj./n. 하얀, 흰색 | 초등
+whole | adj. 전체의 | 중등
+why | adv./conj. 왜 | 초등
+wicked | adj. 사악한 | 고등
+wide | adj. 넓은 | 중등
+wife | n. 아내 | 초등
+wild | adj. 야생의 | 중등
+win | v. 이기다 | 초등
+wind | n./v. 바람, 감다 | 초등
+window | n. 창문 | 초등
+wine | n. 와인 | 초등
+wing | n. 날개 | 중등
+winter | n. 겨울 | 초등
+wipe | v. 닦다 | 중등
+wire | n. 전선 | 중등
+wise | adj. 현명한 | 중등
+wish | v./n. 바라다 | 초등
+wit | n. 재치 | 고등
+withdraw | v. 철회하다 | 고등
+within | prep. ~안에 | 중등
+without | prep. ~없이 | 중등
+witness | n./v. 목격자 | 고등
+woman | n. 여자 | 초등
+wonder | v./n. 궁금해하다 | 중등
+wood | n. 나무 | 초등
+wool | n. 양털 | 중등
+word | n. 단어 | 초등
+work | v./n. 일하다 | 초등
+world | n. 세계 | 초등
+worry | v./n. 걱정하다 | 초등
+worship | v./n. 숭배하다 | 고등
+worth | n./adj. 가치 | 중등
+would | aux.v. ~일 것이다 | 중등
+wound | n./v. 상처 | 중등
+wrap | v. 싸다 | 중등
+wreck | n./v. 난파선 | 고등
+write | v. 쓰다 | 초등
+wrong | adj./adv. 틀린 | 초등
+year | n. 년 | 초등
+yell | v. 소리 지르다 | 중등
+yellow | adj./n. 노란색 | 초등
+yes | adv. 네 | 초등
+yeah | adv. 응 | 초등
+yep | adv. 응 | 초등
+yesterday | adv./n. 어제 | 초등
+yet | adv./conj. 아직 | 중등
+yield | v./n. 생산하다 | 고등
+young | adj. 어린 | 초등
+zebra | n. 얼룩말 | 중등
+zero | n. 영 | 중등
+zone | n./v. 구역 | 고등
+zoo | n. 동물원 | 초등
+absence | n. 부재, 없음 | 기말고사
+abstraction | n. 추상(적 개념) | 기말고사
+abundant | adj. 풍부한 | 기말고사
+acceptance | n. 수용, 인정 | 기말고사
+accidentally | adv. 우연히 | 기말고사
+accomplish | v. 완수하다, 성취하다 | 기말고사
+accounting | n. 설명, 해명; 회계 | 기말고사
+address | v. (문제·고민 등을) 다루다, 해결하다 | 기말고사
+against the clock | phr. 시간을 다투어 | 기말고사
+aging | n. 노화 | 기말고사
+air cavity | n. 공기가 들어 있는 공간(체강) | 기말고사
+allocate | v. 할당하다, 배분하다 | 기말고사
+analysis | n. 분석 | 기말고사
+apparent | adj. 겉보기의, 외관상의; 분명한 | 기말고사
+apply | v. 가하다, 적용하다 | 기말고사
+archive | n. 기록 보관소; 공문서, 기록물 | 기말고사
+article | n. (신문·잡지의) 글, 기사 | 기말고사
+artificial | adj. 인위적인, 인공적인 | 기말고사
+as a function of | phr. ~에 비례하여, ~의 함수로서 | 기말고사
+assumption | n. 가정, 전제 | 기말고사
+astonishing | adj. 깜짝 놀랄 만한, 경이로운 | 기말고사
+at the expense of | phr. ~을 희생하여, ~을 대가로 | 기말고사
+atmosphere | n. 기압(단위); 대기 | 기말고사
+atmospheric | adj. 대기의, 기압의 | 기말고사
+atomic | adj. 원자의 | 기말고사
+attempt | v. 시도하다 | 기말고사
+attend to | phr. ~에 주의를 기울이다, 신경 쓰다 | 기말고사
+awareness | n. 의식, 관심 | 기말고사
+backdrop | n. 배경 | 기말고사
+balance | v. 균형을 이루다, 상쇄하다 | 기말고사
+ban | v. 금하다, 금지하다 | 기말고사
+beneath | prep. 아래에 | 기말고사
+beneficial | adj. 유익한, 이로운 | 기말고사
+benefit | n. 이익, 혜택; v. 이롭게 하다 | 기말고사
+bias | n. 편견, 편향 | 기말고사
+biological | adj. 생물학적인 | 기말고사
+biologically | adv. 생물학적으로 | 기말고사
+bomb | v. 폭탄으로 공격하다, 폭격하다 | 기말고사
+bond | n. 결합, 유대 | 기말고사
+broadcast | v. 널리 알리다, 방송하다 | 기말고사
+broadly | adv. 폭넓게, 널리 | 기말고사
+can't help but | phr. ~하지 않을 수 없다 | 기말고사
+capture | v. 정확히 포착하다, 담아내다 | 기말고사
+central | adj. 중심적인, 핵심적인 | 기말고사
+certain | adj. 확신하는; 특정한 | 기말고사
+challenge | v. 이의를 제기하다, 도전하다 | 기말고사
+characterization | n. 성격 묘사, 특징짓기 | 기말고사
+charge | n. 전하; 요금, 책임 | 기말고사
+chemical | adj. 화학적인, 화학의 | 기말고사
+claim | n. 주장; v. 주장하다 | 기말고사
+classical | adj. 고전적인 | 기말고사
+clue | n. 단서, 실마리 | 기말고사
+coal | n. 석탄 | 기말고사
+coded | adj. 암호화된 | 기말고사
+collaborate | v. 협력하다, 협업하다 | 기말고사
+collaborator | n. 협력자, 공동 작업자 | 기말고사
+collection | n. 수집품; 더미 | 기말고사
+committee | n. 위원회 | 기말고사
+commonly | adv. 흔히, 일반적으로 | 기말고사
+compare | v. 비교하다 | 기말고사
+completely | adv. 완전히 | 기말고사
+complex | adj. 복잡한 | 기말고사
+comprehensible | adj. 이해할 수 있는 | 기말고사
+concept | n. 개념 | 기말고사
+concern | n. 우려, 관심사, 걱정 | 기말고사
+condition | n. 상태, 조건 | 기말고사
+confirm | v. 확인하다, 입증하다 | 기말고사
+congress | n. 의회, 국회 | 기말고사
+constant | adj. 일정한, 끊임없는 | 기말고사
+consumption | n. 소비(량) | 기말고사
+context | n. 맥락, 정황 | 기말고사
+contraction | n. 축소, 수축 | 기말고사
+contribution | n. 기여, 공헌 | 기말고사
+convey | v. (생각·감정 등을) 전달하다 | 기말고사
+countless | adj. 무수한, 셀 수 없이 많은 | 기말고사
+creature | n. 생명체, 생물 | 기말고사
+critic | n. 비평가, 평론가 | 기말고사
+crucially | adv. 결정적으로, 매우 중요하게 | 기말고사
+cue | n. 단서, 신호 | 기말고사
+customer | n. 고객 | 기말고사
+defeat | v. 물리치다, 타파하다; 패배시키다 | 기말고사
+define | v. 정의하다, 규정하다 | 기말고사
+delineate | v. ~의 경계를 정하다, 윤곽을 그리다 | 기말고사
+demonstrate | v. 입증하다, 분명히 보여 주다 | 기말고사
+depth | n. 깊이, 수심 | 기말고사
+destruction | n. 파괴, 파멸 | 기말고사
+determined | adj. 단단히 결심한; 결연한, 단호한 | 기말고사
+dimension | n. 차원, 측면 | 기말고사
+disastrous | adj. 처참한, 형편없는 | 기말고사
+disguise | n. 변장, 위장 | 기말고사
+distort | v. 왜곡하다 | 기말고사
+disturb | v. 교란하다, 흔들다, 방해하다 | 기말고사
+disturbance | n. 교란, 흔들림, 방해 | 기말고사
+diversity | n. 다양성 | 기말고사
+eardrum | n. 고막 | 기말고사
+economic | adj. 경제의 | 기말고사
+economics | n. 경제학 | 기말고사
+efficiency | n. 효율성 | 기말고사
+electron | n. 전자 | 기말고사
+elegantly | adv. 우아하게, 멋지게 | 기말고사
+emerge | v. 나타나다, 출현하다 | 기말고사
+emission | n. 배출(량) | 기말고사
+employ | v. 고용하다 | 기말고사
+endanger | v. 위험에 빠뜨리다 | 기말고사
+entire | adj. 전체의, 온전한 | 기말고사
+equal | adj. 같은, 동등한 | 기말고사
+equipment | n. 장비, 용품 | 기말고사
+establish | v. 설립[설정]하다; 수립하다 | 기말고사
+evaluate | v. 평가하다 | 기말고사
+evolution | n. 진화 | 기말고사
+evolutionary | adj. 진화의, 진화론적인 | 기말고사
+exhibit | v. 보이다, 나타내다; 전시하다 | 기말고사
+exhibition | n. 전시회, 전시 | 기말고사
+expansion | n. 확장, 확대 | 기말고사
+explosive | n. 폭발물, 폭약 | 기말고사
+expose | v. 드러내다; 폭로하다 | 기말고사
+exterior | adj. 외부의, 바깥쪽의 | 기말고사
+external | adj. 외부의 | 기말고사
+face to face | phr. 대면하여, 얼굴을 맞대고 | 기말고사
+fascinating | adj. 매혹적인, 대단히 흥미로운 | 기말고사
+feature | v. 특별히 포함하다, 특징으로 삼다 | 기말고사
+figure out | phr. ~을 알아내다, 파악하다 | 기말고사
+financial | adj. 재정적인, 금융의 | 기말고사
+flame | n. 불길, 불꽃 | 기말고사
+flare | n. (순간적으로) 확 타오르는 불길, 불꽃 | 기말고사
+force | n. 힘; 군대 | 기말고사
+framework | n. 틀, 체계, 구조 | 기말고사
+functional | adj. 기능적인, 기능상의 | 기말고사
+fundamental | adj. 근본적인, 핵심적인 | 기말고사
+garment | n. 의복, 옷 | 기말고사
+gauge | n. 측정기, 계기 | 기말고사
+generative | adj. 생성형의, 생성하는 | 기말고사
+gerontologist | n. 노화학자 | 기말고사
+go on strike | phr. 파업하다 | 기말고사
+goldenrod | n. 미역취(식물) | 기말고사
+goods | n. 재화, 상품 | 기말고사
+grab hold of | phr. ~을 (움켜)잡다 | 기말고사
+harm | v. 해치다, 해를 끼치다 | 기말고사
+harsh | adj. 가혹한, 냉혹한 | 기말고사
+helpless | adj. 무력한 | 기말고사
+historian | n. 역사학자, 역사가 | 기말고사
+hostile | adj. 적대적인, 험악한 | 기말고사
+humanity | n. 인류; 인간성 | 기말고사
+identify | v. (신원 등을) 확인하다, 식별하다; 찾다 | 기말고사
+illegal | adj. 불법적인 | 기말고사
+illusory | adj. 착각의, 환상의 | 기말고사
+immortal | adj. 불멸의, 죽지 않는 | 기말고사
+impact | n. 영향 | 기말고사
+in addition to | phr. ~뿐만 아니라, ~에 더하여 | 기말고사
+in charge of | phr. ~을 맡아서, 담당해서 | 기말고사
+in the blink of an eye | phr. 눈 깜짝할 사이에 | 기말고사
+incredibly | adv. 믿을 수 없을 정도로, 매우 | 기말고사
+indicate | v. 나타내다, 보여 주다 | 기말고사
+individual | n. 개인; adj. 개인의 | 기말고사
+industry | n. 산업 | 기말고사
+inheritance | n. 유전; 상속 | 기말고사
+inseparable | adj. 분리할 수 없는, 불가분의 | 기말고사
+inspector | n. 조사관, 감독관 | 기말고사
+instrument | n. 기구, 계기; 악기 | 기말고사
+insufficient | adj. 불충분한 | 기말고사
+insurance | n. 보험; 보험업 | 기말고사
+intention | n. 의도 | 기말고사
+internal | adj. 내부의 | 기말고사
+intertwine | v. 뒤얽히다, 밀접하게 얽히다 | 기말고사
+interval | n. 간격 | 기말고사
+investigative | adj. 조사[수사]의 | 기말고사
+issue | v. 발하다, 내보내다 | 기말고사
+kin | n. 친족, 혈족 | 기말고사
+landmark | n. 주요 지형지물, 랜드마크 | 기말고사
+lens | n. 렌즈; 관점, 시각 | 기말고사
+light-year | n. 광년 | 기말고사
+likelihood | n. 가능성, 확률 | 기말고사
+likely | adj. 가능성 있는, 그럴듯한 | 기말고사
+limit | v. 제한하다, 억제하다 | 기말고사
+literary | adj. 문학의 | 기말고사
+livelihood | n. 생계(수단) | 기말고사
+loudspeaker | n. 확성기 | 기말고사
+lung | n. 폐, 허파 | 기말고사
+maintain | v. 유지하다 | 기말고사
+make sense | phr. 타당하다, 이치에 맞다 | 기말고사
+mammal | n. 포유류 | 기말고사
+mass | n. 질량; 덩어리 | 기말고사
+match | v. 맞먹다, 상응하다 | 기말고사
+mate | v. 짝짓기하다 | 기말고사
+measure | v. 측정하다 | 기말고사
+measured | adj. 측정된 | 기말고사
+mechanism | n. 기제, 메커니즘, 작동 원리 | 기말고사
+medium | n. 매개체, 매질 | 기말고사
+merely | adv. 단지, 그저 | 기말고사
+mission | n. 임무 | 기말고사
+mixture | n. 혼합물, 혼합 기체 | 기말고사
+molecule | n. 분자 | 기말고사
+motion | n. 움직임, 운동 | 기말고사
+narrowly | adv. 좁게, 간신히 | 기말고사
+nothing more than | phr. ~에 불과한, 단지 ~일 뿐인 | 기말고사
+notion | n. 개념, 관념, 생각 | 기말고사
+obvious | adj. 명백한, 분명한 | 기말고사
+occasion | n. 경우, 때 | 기말고사
+occur | v. 일어나다, 발생하다 | 기말고사
+oil-soaked | adj. 기름에 흠뻑 젖은 | 기말고사
+opportunity | n. 기회 | 기말고사
+ordinary | adj. 평범한, 일반의 | 기말고사
+organism | n. 유기체, 생물 | 기말고사
+origin | n. 기원, 근원 | 기말고사
+otherwise | adv. 그 외의, 그렇지 않으면 | 기말고사
+outward | adj. 외적인, 겉으로 드러나는 | 기말고사
+participate in | phr. ~에 참여하다 | 기말고사
+particle | n. 입자 | 기말고사
+particular | adj. 특정한 | 기말고사
+passage | n. 통로; (법안의) 처리, 통과 | 기말고사
+passive | adj. 수동적인 | 기말고사
+pay attention to | phr. ~에 주의를 기울이다 | 기말고사
+peaceful | adj. 평화로운 | 기말고사
+perception | n. 지각, 인식 | 기말고사
+perspective | n. 관점, 시각 | 기말고사
+persuade | v. 설득하다, 설득하여 ~하게 하다 | 기말고사
+phenomenon | n. 현상 | 기말고사
+philosophical | adj. 철학적인 | 기말고사
+phrase | n. 어구, 구절 | 기말고사
+physical | adj. 물리적인; 신체적인 | 기말고사
+physicist | n. 물리학자 | 기말고사
+pollinator | n. 꽃가루 매개자 | 기말고사
+pollute | v. 오염시키다 | 기말고사
+pollution | n. 오염 | 기말고사
+potential | n. 잠재력, 가능성; adj. 잠재적인 | 기말고사
+power plant | n. 발전소 | 기말고사
+predator | n. 포식자, 천적 | 기말고사
+predict | v. 예측하다 | 기말고사
+prefer | v. 선호하다, 더 좋아하다 | 기말고사
+pressure | n. 압력 | 기말고사
+pretend | v. ~인 척하다, ~라고 가장하다 | 기말고사
+priceless | adj. 대단히 귀중한 | 기말고사
+profit | n. 이익, 수익; v. 이익을 주다[얻다] | 기말고사
+property | n. 특성, 속성; 재산 | 기말고사
+proportionally | adv. 비례하여 | 기말고사
+prosperity | n. 번영, 풍요 | 기말고사
+psychological | adj. 심리적인, 정신적인 | 기말고사
+psychologist | n. 심리학자 | 기말고사
+pure | adj. 순수한 | 기말고사
+put out | phr. (불을) 끄다 | 기말고사
+range | n. 범위, 다양한 종류 | 기말고사
+rare | adj. 드문 | 기말고사
+recall | v. 떠올리다, 회상하다 | 기말고사
+reduce | v. 줄이다, 감소시키다 | 기말고사
+regard | v. ~을 ...으로 여기다[평가하다] | 기말고사
+regardless of | phr. ~에 상관없이 | 기말고사
+regenerate | v. 재생하다, 다시 만들어 내다 | 기말고사
+regulation | n. 규제, 규정 | 기말고사
+relevant | adj. 관련 있는, 유의미한 | 기말고사
+remote | adj. 원격의, 멀리 떨어진 | 기말고사
+remotely | adv. 원격으로 | 기말고사
+repetition | n. 반복 | 기말고사
+reproduce | v. 복제하다, 재생산하다; 번식하다 | 기말고사
+require | v. 필요로 하다, 요구하다 | 기말고사
+rescue | v. 구하다, 구조하다 | 기말고사
+resource | n. 자원 | 기말고사
+response | n. 반응, 응답 | 기말고사
+restore | v. 회복시키다, 복원[복구]하다 | 기말고사
+result in | phr. ~라는 결과를 낳다, 초래하다 | 기말고사
+retreat | v. 후퇴[철수]하다 | 기말고사
+reveal | v. 드러내다, 밝히다 | 기말고사
+revolution | n. 혁명 | 기말고사
+riddle | n. 수수께끼 | 기말고사
+risk | v. ~을 위태롭게 하다; ~의 위험을 무릅쓰다 | 기말고사
+ruin | n. 붕괴; 파산, 파탄 | 기말고사
+scarcity | n. 희소성, 부족 | 기말고사
+scholar | n. 학자 | 기말고사
+seal off | phr. ~을 봉쇄하다 | 기말고사
+seam | n. 갈라진 틈, 이음매 | 기말고사
+seamless | adj. 매끄러운, 틈이 없는 | 기말고사
+separate | v. 분리하다; adj. 분리된 | 기말고사
+separation | n. 분리, 구분 | 기말고사
+set off | phr. 출발하다; (폭탄 등을) 터뜨리다 | 기말고사
+signal | n. 신호; v. 신호를 보내다 | 기말고사
+significant | adj. 중요한, 의미 있는 | 기말고사
+simplify | v. 단순화하다 | 기말고사
+so to speak | phr. 말하자면 | 기말고사
+spark | v. 촉발하다, 유발하다 | 기말고사
+spatial | adj. 공간의, 공간적인 | 기말고사
+species | n. (생물 분류상의) 종 | 기말고사
+specific | adj. 특정한, 구체적인 | 기말고사
+specifically | adv. 특정하게, 구체적으로 | 기말고사
+squeeze | v. 짜다, 압착하다; 비집고 들어가다 | 기말고사
+stabilize | v. 안정시키다 | 기말고사
+standard | n. 수준, 기준 | 기말고사
+statement | n. 진술, 설명 | 기말고사
+steel mill | n. 제철소 | 기말고사
+submerge | v. 물속에 잠그다, 잠수하다 | 기말고사
+subset | n. 부분 집합 | 기말고사
+subsidy | n. 보조금 | 기말고사
+suffer from | phr. ~로 고통받다, 겪다 | 기말고사
+supply | n. 자재; 공급(량), 보급품; v. 공급하다 | 기말고사
+suppose | v. 가정하다, 추측하다, 생각하다 | 기말고사
+surface | n. 표면 | 기말고사
+surround | v. 둘러싸다, 에워싸다 | 기말고사
+surrounding | adj. 주변의, 주위의 | 기말고사
+switch away from | phr. ~에서 벗어나 전환하다 | 기말고사
+take ~ as a given | phr. ~을 당연한 전제로 받아들이다 | 기말고사
+take ~ into account | phr. ~을 고려하다 | 기말고사
+take advantage of | phr. ~을 이용하다 | 기말고사
+take place | phr. 일어나다, 발생하다 | 기말고사
+taxation | n. 과세, 세금 징수 | 기말고사
+territory | n. 영역, 지역 | 기말고사
+thereby | adv. 그렇게 함으로써 | 기말고사
+threat | n. 위협 | 기말고사
+trace | v. 추적하다 | 기말고사
+tragic | adj. 비극적인, 비극의 | 기말고사
+transition | n. 전환, 이행 | 기말고사
+translate into | phr. ~로 이어지다[적용되다], ~로 번역되다 | 기말고사
+transport | v. 수송하다, 이동시키다 | 기말고사
+trivia | n. 잡학적 지식, 사소한 것들 | 기말고사
+underwater | adv. 물속에(서) | 기말고사
+universal | adj. 보편적인 | 기말고사
+variation | n. 변이, 변화 | 기말고사
+verbal | adj. 말로 된, 언어적인 | 기말고사
+versus | prep. ~ 대, ~와 대비하여 | 기말고사
+video conferencing | n. 화상 회의 | 기말고사
+weave | v. 짜다[엮다], 짜서[엮어서] 만들다 | 기말고사
+whisper | n. 속삭임 | 기말고사
+worsen | v. 악화시키다 | 기말고사
+wrap | v. 감싸다, 두르다 | 기말고사
