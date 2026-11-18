@@ -428,9 +428,29 @@
             selectedChoice: null
         };
 
-        function parseRawWordsText(text) {
+        function dedupeWordList(list) {
             var words = [];
             var levelSet = {};
+            var seen = {};
+            var arr = Array.isArray(list) ? list : [];
+            for (var i = 0; i < arr.length; i++) {
+                var item = arr[i];
+                if (!item || !item.word || !item.meaning) continue;
+                var w = String(item.word).trim();
+                var m = String(item.meaning).trim();
+                var lv = (item.level ? String(item.level).trim() : "") || "기본";
+                if (!w || !m) continue;
+                var key = w.toLowerCase() + "|" + lv.toLowerCase();
+                if (seen[key]) continue;
+                seen[key] = true;
+                words.push({ word: w, meaning: m, level: lv });
+                levelSet[lv] = true;
+            }
+            return { words: words, levelSet: levelSet };
+        }
+
+        function parseRawWordsText(text) {
+            var rawWords = [];
             var lines = String(text || "").split(/\r?\n/);
             for (var i = 0; i < lines.length; i++) {
                 var line = lines[i].trim();
@@ -441,13 +461,13 @@
                     var m = parts[1].trim();
                     var lv = (parts[2] ? parts[2].trim() : "") || "기본";
                     if (w && m) {
-                        words.push({ word: w, meaning: m, level: lv });
-                        levelSet[lv] = true;
+                        rawWords.push({ word: w, meaning: m, level: lv });
                     }
                 }
             }
-            var levels = Object.keys(levelSet).sort(function (a, b) { return a.localeCompare(b, "ko"); });
-            return { words: words, levels: levels };
+            var deduped = dedupeWordList(rawWords);
+            var levels = Object.keys(deduped.levelSet).sort(function (a, b) { return a.localeCompare(b, "ko"); });
+            return { words: deduped.words, levels: levels };
         }
 
         async function loadWordsForStudent(studentId, forceRefresh) {
@@ -602,9 +622,13 @@
         }
 
         function applyLoadedWords(sid, words, levels, fallbackToDefault, targetFile, passExpired, passExpiresKst) {
+            var deduped = dedupeWordList(words);
             state.studentId = sid;
-            state.wordList = words || [];
-            state.levels = (levels && levels.length) ? levels : ["기본"];
+            state.wordList = deduped.words;
+            var filteredLevels = Array.isArray(levels)
+                ? levels.filter(function (lv, idx, arr) { return lv && arr.indexOf(lv) === idx && deduped.levelSet[lv]; })
+                : [];
+            state.levels = filteredLevels.length ? filteredLevels : (Object.keys(deduped.levelSet).length ? Object.keys(deduped.levelSet) : ["기본"]);
 
             // 실제 전용 단어장이 존재하는 학생 ID로 접속했을 때만 이 기기의 자주 쓰는 목록에 자동 추가/카운트 증가
             if (!fallbackToDefault && !passExpired && sid !== "일반") {
